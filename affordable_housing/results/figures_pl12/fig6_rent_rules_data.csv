@@ -1,0 +1,15 @@
+scenario,rule,tenure,tenant_bill_2050_eur_yr,rent_increase_2050_eur_yr,source
+pl12_rule_none,No rent increase,rented_private,861.4,0.0,search (strict_ms_cur_pl12_rule_none)
+pl12_rule_none,No rent increase,rented_public,496.8,105.5,search (strict_ms_cur_pl12_rule_none)
+pl12,Polish rule (Art. 8a),rented_private,722.8,187.9,local proof
+pl12,Polish rule (Art. 8a),rented_public,496.8,105.5,local proof
+pl12_rule_cap3,Rent cap,rented_private,743.7,159.6,search (strict_ms_cur_pl12_rule_cap3)
+pl12_rule_cap3,Rent cap,rented_public,496.8,105.5,search (strict_ms_cur_pl12_rule_cap3)
+pl12_rule_perm,Permanent rent increase,rented_private,521.7,616.6,search (ms_pl12record)
+pl12_rule_perm,Permanent rent increase,rented_public,496.8,105.5,search (ms_pl12record)
+pl12_rule_pl_gross,Gross rule,rented_private,722.8,187.9,search (strict_ms_cur_pl12_rule_pl_gross)
+pl12_rule_pl_gross,Gross rule,rented_public,496.8,105.5,search (strict_ms_cur_pl12_rule_pl_gross)
+pl12,"Polish rule, EED on",rented_public,496.8,105.5,local proof
+pl12_noeed,"Polish rule, EED off",rented_public,854.5,1.9,search
+pl12,"public landlord own spending 2026-2050, EED on",rented_public,2242.3,1764.8,"EUR million (nominal, discounted to 2026)"
+pl12_noeed,"public landlord own spending 2026-2050, EED off",rented_public,0.0,0.0,"EUR million (nominal, discounted to 2026)"

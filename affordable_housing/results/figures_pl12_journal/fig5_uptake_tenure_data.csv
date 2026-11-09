@@ -1,0 +1,21 @@
+group,year,cum_envelope_area_share,result_label
+owner_poor,2026,0.13819,local proof
+owner_poor,2030,0.20156,local proof
+owner_poor,2035,0.34878,local proof
+owner_poor,2040,0.50985,local proof
+owner_poor,2050,0.81036,local proof
+owner_rich,2026,0.07929,local proof
+owner_rich,2030,0.18299,local proof
+owner_rich,2035,0.33308,local proof
+owner_rich,2040,0.50057,local proof
+owner_rich,2050,0.82878,local proof
+rented_public,2026,0.0163,local proof
+rented_public,2030,0.12,local proof
+rented_public,2035,0.27,local proof
+rented_public,2040,0.42,local proof
+rented_public,2050,0.72,local proof
+rented_private,2026,0.0,local proof
+rented_private,2030,0.0,local proof
+rented_private,2035,0.0,local proof
+rented_private,2040,0.0,local proof
+rented_private,2050,0.32821,local proof

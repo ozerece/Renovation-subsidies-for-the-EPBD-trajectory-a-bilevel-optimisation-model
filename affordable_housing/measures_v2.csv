@@ -1,0 +1,7 @@
+m_id,class,depth,from_hvac,to_hvac,capex_per_m2,fixed_capex,reduction_factor,lifetime,learning_rate_annual
+envelope_light,envelope,light,ANY,ANY,45,800,0.25,30,0.005
+envelope_medium,envelope,medium,ANY,ANY,100,1500,0.45,35,0.005
+envelope_deep,envelope,deep,ANY,ANY,200,3000,0.70,40,0.005
+hvac_fossil_to_hp,hvac,standard,fossil_boiler,heat_pump,30,12000,0.67,20,0.025
+hvac_fossil_to_district,hvac,upgrade,fossil_boiler,district_heat,15,4000,0.30,30,0.010
+pv,pv,standard,ANY,ANY,0,0,0.25,25,0.050

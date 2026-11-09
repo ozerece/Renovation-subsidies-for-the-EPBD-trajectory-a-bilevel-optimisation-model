@@ -1,0 +1,113 @@
+=== rev12 wave started Sun Nov  8 10:58:32 PM CET 2026 (par=6, threads=8) ===
+launched rev12_no2030 -> affordable_housing/results/cert_logs/run_rev12_no2030.log
+launched rev12_2050only -> affordable_housing/results/cert_logs/run_rev12_2050only.log
+launched rev12_eq00 -> affordable_housing/results/cert_logs/run_rev12_eq00.log
+launched rev12_eq20 -> affordable_housing/results/cert_logs/run_rev12_eq20.log
+launched rev12_eq40 -> affordable_housing/results/cert_logs/run_rev12_eq40.log
+launched pl12_pubpoor -> affordable_housing/results/cert_logs/run_pl12_pubpoor.log
+6 run(s) launched; done-stamps in affordable_housing/results/cert_logs/pl11_done.txt
+done rev12_no2030 0 2026-11-08 23:00
+done rev12_2050only 0 2026-11-08 23:00
+done rev12_eq00 0 2026-11-08 23:00
+done rev12_eq20 0 2026-11-08 23:00
+done rev12_eq40 0 2026-11-08 23:00
+done pl12_pubpoor 0 2026-11-08 23:00
+launched rev12_no2030_ms_rec25 -> affordable_housing/results/cert_logs/run_rev12_no2030_ms_rec25.log
+launched rev12_2050only_ms_rec25 -> affordable_housing/results/cert_logs/run_rev12_2050only_ms_rec25.log
+launched rev12_eq00_ms_rec25 -> affordable_housing/results/cert_logs/run_rev12_eq00_ms_rec25.log
+launched rev12_eq20_ms_rec25 -> affordable_housing/results/cert_logs/run_rev12_eq20_ms_rec25.log
+launched rev12_eq40_ms_rec25 -> affordable_housing/results/cert_logs/run_rev12_eq40_ms_rec25.log
+launched pl12_pubpoor_ms_rec25 -> affordable_housing/results/cert_logs/run_pl12_pubpoor_ms_rec25.log
+launched pl12_envcap_p05_ms_rec25 -> affordable_housing/results/cert_logs/run_pl12_envcap_p05_ms_rec25.log
+launched pl12_hpcost_lo_ms_rec25 -> affordable_housing/results/cert_logs/run_pl12_hpcost_lo_ms_rec25.log
+launched pl12_hpcost_hi_ms_rec25 -> affordable_housing/results/cert_logs/run_pl12_hpcost_hi_ms_rec25.log
+9 run(s) launched; done-stamps in affordable_housing/results/cert_logs/pl11_done.txt
+done rev12_no2030_ms_rec25 0 2026-11-08 23:02
+done rev12_2050only_ms_rec25 0 2026-11-08 23:02
+done rev12_eq00_ms_rec25 0 2026-11-08 23:02
+done rev12_eq20_ms_rec25 0 2026-11-08 23:02
+done rev12_eq40_ms_rec25 0 2026-11-08 23:02
+done pl12_pubpoor_ms_rec25 0 2026-11-08 23:02
+done pl12_envcap_p05_ms_rec25 0 2026-11-08 23:04
+done pl12_hpcost_lo_ms_rec25 0 2026-11-08 23:03
+done pl12_hpcost_hi_ms_rec25 0 2026-11-08 23:03
+--- stage 1 (searches) done Sun Nov  8 11:04:18 PM CET 2026 ---
+--- stage 2 (max-sigma evaluations) done Sun Nov  8 11:04:18 PM CET 2026 ---
+  proof rev12_no2030 around out/scenarios/rev12_no2030 (2476.9 M EUR) started 23:04
+launched proof_local_rev12_no2030 -> affordable_housing/results/cert_logs/proof_local_rev12_no2030.log
+  Optimal spending:  €2476.914M  (CERTIFIED minimum on the local box)
+  Center (stored search design): feasible=true, €2476.914M → local optimum is ABOVE the search design (UNEXPECTED — center should be in the box) by €0.001M (0.000%)
+  proof rev12_2050only skipped: best design costs 0.0 M EUR (zero)
+  proof rev12_eq00 around out/scenarios/rev12_eq00 (23908.5 M EUR) started 23:09
+launched proof_local_rev12_eq00 -> affordable_housing/results/cert_logs/proof_local_rev12_eq00.log
+  Optimal spending:  €23390.988M  (CERTIFIED minimum on the local box)
+  Center (stored search design): feasible=true, €23908.454M → local optimum is BELOW the search design by €517.466M (2.164%)
+  proof pl12_envcap_p05 around out/scenarios/pl12_envcap_p05__ms_rec25 (26103.9 M EUR) started 23:21
+launched proof_local_pl12_envcap_p05 -> affordable_housing/results/cert_logs/proof_local_pl12_envcap_p05.log
+  Optimal spending:  €26038.805M  (CERTIFIED minimum on the local box)
+  Center (stored search design): feasible=true, €26103.915M → local optimum is BELOW the search design by €65.109M (0.249%)
+  proof pl12_hpcost_lo around out/scenarios/pl12_hpcost_lo (28331.5 M EUR) started 23:40
+launched proof_local_pl12_hpcost_lo -> affordable_housing/results/cert_logs/proof_local_pl12_hpcost_lo.log
+  Optimal spending:  €27230.235M  (CERTIFIED minimum on the local box)
+  Center (stored search design): feasible=true, €28331.515M → local optimum is BELOW the search design by €1101.280M (3.887%)
+  proof pl12_hpcost_hi around out/scenarios/pl12_hpcost_hi__ms_rec25 (25464.8 M EUR) started 00:09
+launched proof_local_pl12_hpcost_hi -> affordable_housing/results/cert_logs/proof_local_pl12_hpcost_hi.log
+  Optimal spending:  €24924.052M  (CERTIFIED minimum on the local box)
+  Center (stored search design): feasible=true, €25464.781M → local optimum is BELOW the search design by €540.729M (2.123%)
+--- stage 3 (proofs) done Mon Nov  9 12:21:19 AM CET 2026 ---
+230 run directories -> affordable_housing/results/pl12_summary.csv
+46 scenarios -> affordable_housing/results/pl12_multistart_summary.csv
+  pl12                     FEASIBLE  best    24936.2 M  (local25_record, 5/10 runs feasible)
+  pl12_afford              FEASIBLE  best    25162.4 M  (ms_pl12record, 2/5 runs feasible)
+  pl12_ban2040             FEASIBLE  best    26732.9 M  (batch, 1/5 runs feasible)
+  pl12_co2half             no feasible design in 4 runs; max-σ: 2030:3.34 2035:ok 2040:14.35 2050:ok
+  pl12_elec_m20            FEASIBLE  best        0.0 M  (batch, 4/4 runs feasible)
+  pl12_elec_p20            no feasible design in 4 runs; max-σ: 2030:0.93 2035:ok 2040:ok 2050:ok
+  pl12_envcap_m20          no feasible design in 4 runs; max-σ: 2030:3.31 2035:ok 2040:ok 2050:ok
+  pl12_envcap_p05          FEASIBLE  best    26103.9 M  (ms_rec25, 2/7 runs feasible)
+  pl12_envcap_p10          FEASIBLE  best    21283.5 M  (batch, 1/5 runs feasible)
+  pl12_envcap_p20          FEASIBLE  best     8464.8 M  (ms_record, 4/5 runs feasible)
+  pl12_envcap_p30          FEASIBLE  best     3806.4 M  (batch, 5/5 runs feasible)
+  pl12_envcap_p50          FEASIBLE  best      603.6 M  (ms_hpheavy, 5/5 runs feasible)
+  pl12_hist_env050         no feasible design in 1 runs; max-σ: 2030:6.97 2035:ok 2040:ok 2050:ok
+  pl12_hist_env075         no feasible design in 1 runs; max-σ: 2030:3.12 2035:ok 2040:ok 2050:ok
+  pl12_hpcost_hi           FEASIBLE  best    25464.8 M  (ms_rec25, 3/7 runs feasible)
+  pl12_hpcost_lo           FEASIBLE  best    28331.5 M  (batch, 1/6 runs feasible)
+  pl12_hvac6               FEASIBLE  best    26603.2 M  (strict_ms_cur_pl12_hvac6, 2/6 runs feasible)
+  pl12_inclusive           FEASIBLE  best    42049.4 M  (strict_ms_cur_pl12_inclusive, 1/6 runs feasible)
+  pl12_invertprices        no feasible design in 4 runs; max-σ: 2030:1.56 2035:ok 2040:ok 2050:ok
+  pl12_kprb                FEASIBLE  best        0.0 M  (batch, 4/4 runs feasible)
+  pl12_learn0              FEASIBLE  best    29171.3 M  (strict_ms_cur_pl12_learn0, 2/6 runs feasible)
+  pl12_noeed               FEASIBLE  best    35926.9 M  (batch, 1/5 runs feasible)
+  pl12_peffrozen           no feasible design in 4 runs; max-σ: 2030:2.46 2035:ok 2040:2.60 2050:ok
+  pl12_priv16              FEASIBLE  best    24607.9 M  (strict_ms_cur_pl12_priv16, 2/6 runs feasible)
+  pl12_pubpoor             FEASIBLE  best    24936.2 M  (ms_rec25, 2/2 runs feasible)
+  pl12_r12                 no feasible design in 4 runs; max-σ: 2030:1.79 2035:ok 2040:ok 2050:ok
+  pl12_rule_cap3           FEASIBLE  best    24936.2 M  (strict_ms_cur_pl12_rule_cap3, 2/6 runs feasible)
+  pl12_rule_none           FEASIBLE  best    24936.2 M  (strict_ms_cur_pl12_rule_none, 2/6 runs feasible)
+  pl12_rule_perm           FEASIBLE  best    23993.7 M  (ms_pl12record, 2/5 runs feasible)
+  pl12_rule_pl_gross       FEASIBLE  best    24936.2 M  (strict_ms_cur_pl12_rule_pl_gross, 2/6 runs feasible)
+  pl12_s10                 no feasible design in 4 runs; max-σ: 2030:ok 2035:ok 2040:ok 2050:ok
+  pl12_s12                 no feasible design in 4 runs; max-σ: 2030:ok 2035:ok 2040:ok 2050:ok
+  pl12_s13                 no feasible design in 4 runs; max-σ: 2030:ok 2035:ok 2040:ok 2050:ok
+  pl12_s14                 no feasible design in 4 runs; max-σ: 2030:ok 2035:ok 2040:ok 2050:ok
+  pl12_s15                 no feasible design in 4 runs; max-σ: 2030:ok 2035:ok 2040:ok 2050:ok
+  pl12_s20                 FEASIBLE  best    24936.2 M  (strict_ms_cur_pl12_s20, 2/6 runs feasible)
+  pl12_s25                 FEASIBLE  best    24936.2 M  (strict_ms_cur_pl12_s25, 2/6 runs feasible)
+  pl12_s30                 FEASIBLE  best    24936.2 M  (strict_ms_cur_pl12_s30, 2/6 runs feasible)
+  pl12_s40                 FEASIBLE  best    24936.2 M  (strict_ms_cur_pl12_s40, 2/6 runs feasible)
+  pl12_sav4666             FEASIBLE  best    10785.4 M  (ms_hpheavy, 2/5 runs feasible)
+  pl12_split               FEASIBLE  best    24998.3 M  (ms_pl12record, 2/5 runs feasible)
+  pl12_traj_linear         FEASIBLE  best    24936.2 M  (strict_ms_cur_pl12_traj_linear, 2/6 runs feasible)
+  pl12_traj_soft           FEASIBLE  best    24936.2 M  (strict_ms_cur_pl12_traj_soft, 2/6 runs feasible)
+  pl12_w05                 FEASIBLE  best    24936.2 M  (strict_ms_cur_pl12_w05, 2/6 runs feasible)
+  pl12_w10                 FEASIBLE  best    24936.2 M  (strict_ms_cur_pl12_w10, 2/6 runs feasible)
+  pl12_woodpef             no feasible design in 4 runs; max-σ: 2030:2.10 2035:ok 2040:ok 2050:ok
+10 run directories -> affordable_housing/results/rev12_summary.csv
+5 scenarios -> affordable_housing/results/rev12_multistart_summary.csv
+  rev12_2050only           FEASIBLE  best        0.0 M  (batch, 2/2 runs feasible)
+  rev12_eq00               FEASIBLE  best    23908.5 M  (batch, 2/2 runs feasible)
+  rev12_eq20               no feasible design in 2 runs; max-σ: not evaluated
+  rev12_eq40               FEASIBLE  best    29087.2 M  (ms_rec25, 1/2 runs feasible)
+  rev12_no2030             FEASIBLE  best     2476.9 M  (batch, 2/2 runs feasible)
+=== rev12 wave finished Mon Nov  9 12:21:19 AM CET 2026 ===

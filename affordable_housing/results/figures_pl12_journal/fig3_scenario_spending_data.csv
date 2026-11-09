@@ -1,0 +1,47 @@
+scenario,name,feasible,spending_M,source,miss_2030_at_caps,miss_2035,miss_2040,miss_2050
+pl12,Standard run,True,24936.168185283543,local proof,ok,ok,ok,ok
+pl12_afford,Cost-neutral rule,True,25162.423384496353,search (ms_pl12record),,,,
+pl12_ban2040,Fossil-boiler ban,True,26732.941024799085,search,,,,
+pl12_co2half,Carbon price ×0.5,False,,,3.34,ok,14.35,ok
+pl12_elec_m20,Electricity −20%,True,0.0,search,,,,
+pl12_elec_p20,Electricity +20%,False,,,0.93,ok,ok,ok
+pl12_envcap_m20,Envelope limits ×0.8,False,,,3.31,ok,ok,ok
+pl12_envcap_p05,Envelope limits ×1.05,True,26039.00197134903,local proof,ok,ok,ok,ok
+pl12_envcap_p10,Envelope limits ×1.1,True,21283.518182959044,search,ok,ok,ok,ok
+pl12_envcap_p20,Envelope limits ×1.2,True,8464.760531296386,search (ms_record),ok,ok,ok,ok
+pl12_envcap_p30,Envelope limits ×1.3,True,3806.3547289529783,search,ok,ok,ok,ok
+pl12_envcap_p50,Envelope limits ×1.5,True,603.6350028037593,search (ms_hpheavy),ok,ok,ok,ok
+pl12_hist_env050,Envelope history 2020–25 ×0.5,False,,,6.97,ok,ok,ok
+pl12_hist_env075,Envelope history 2020–25 ×0.75,False,,,3.12,ok,ok,ok
+pl12_hpcost_hi,Heat-pump cost high,True,24924.274182437573,local proof,,,,
+pl12_hpcost_lo,Heat-pump cost low,True,27230.19701946674,local proof,,,,
+pl12_hvac6,Heating-system limit 6%,True,26603.156009442206,search (strict_ms_cur_pl12_hvac6),,,,
+pl12_inclusive,Behaviour-adjusted demand,True,42049.429173301905,search (strict_ms_cur_pl12_inclusive),,,,
+pl12_invertprices,Invert price level,False,,,1.56,ok,ok,ok
+pl12_kprb,KPRB demand,True,0.0,search,,,,
+pl12_learn0,No cost decline at all,True,29171.31633714684,search (strict_ms_cur_pl12_learn0),,,,
+pl12_noeed,No EED obligation,True,35926.879053887205,search,,,,
+pl12_peffrozen,Primary energy factors frozen,False,,,2.46,ok,2.60,ok
+pl12_priv16,Private rental 16%,True,24607.902886287346,search (strict_ms_cur_pl12_priv16),,,,
+pl12_pubpoor,All public tenants low-income,True,24936.168029561002,search (ms_rec25),,,,
+pl12_r12,Household discount 12%,False,,,1.79,ok,ok,ok
+pl12_rule_cap3,Rent cap,True,24936.168029553482,search (strict_ms_cur_pl12_rule_cap3),,,,
+pl12_rule_none,No rent increase,True,24936.168029553482,search (strict_ms_cur_pl12_rule_none),,,,
+pl12_rule_perm,Permanent rent increase,True,23993.699737432853,search (ms_pl12record),,,,
+pl12_rule_pl_gross,Gross rule,True,24936.168029553482,search (strict_ms_cur_pl12_rule_pl_gross),,,,
+pl12_s10,Income limit 10%,False,,,ok,ok,ok,ok
+pl12_s12,Income limit 12%,False,,,ok,ok,ok,ok
+pl12_s13,Income limit 13%,False,,,ok,ok,ok,ok
+pl12_s14,Income limit 14%,False,,,ok,ok,ok,ok
+pl12_s15,Income limit 15%,False,,,ok,ok,ok,ok
+pl12_s20,Income limit 20%,True,24936.168029553482,search (strict_ms_cur_pl12_s20),,,,
+pl12_s25,Income limit 25%,True,24936.168029553482,search (strict_ms_cur_pl12_s25),,,,
+pl12_s30,Income limit 30%,True,24936.168029553482,search (strict_ms_cur_pl12_s30),,,,
+pl12_s40,Income limit 40%,True,24936.168029553482,search (strict_ms_cur_pl12_s40),,,,
+pl12_sav4666,Older typology savings,True,10785.438574321195,search (ms_hpheavy),,,,
+pl12_split,Household discount 12%/8%,True,24998.304438481515,search (ms_pl12record),,,,
+pl12_traj_linear,Straight-line trajectory,True,24936.168029553482,search (strict_ms_cur_pl12_traj_linear),,,,
+pl12_traj_soft,Softer trajectory,True,24936.168029553482,search (strict_ms_cur_pl12_traj_soft),,,,
+pl12_w05,Public landlord w = 0.5,True,24936.168034202103,search (strict_ms_cur_pl12_w05),,,,
+pl12_w10,Public landlord w = 1,True,24936.168029553482,search (strict_ms_cur_pl12_w10),,,,
+pl12_woodpef,Firewood factor 0.2,False,,,2.10,ok,ok,ok

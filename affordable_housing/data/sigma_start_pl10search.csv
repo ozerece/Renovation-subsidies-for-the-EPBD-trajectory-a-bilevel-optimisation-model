@@ -1,0 +1,16 @@
+# pl10 batch search design (out/scenarios/pl10/subsidies.csv, 2026-11-02),
+# used as a warm start (P4_SIGMA_START; 2026-11-03 warm-start order).
+# Canonical sigma_keys order: envelope l/m/d poor; envelope l/m/d rich;
+# hvac standard/upgrade poor; hvac standard/upgrade rich; landlord public; private.
+0.002734375
+0.41336669921875
+0.41336669921875
+0.00361328125
+0.14084472656250002
+0.1654022216796875
+0.0
+0.0
+0.215625
+0.003125
+0.0
+0.0

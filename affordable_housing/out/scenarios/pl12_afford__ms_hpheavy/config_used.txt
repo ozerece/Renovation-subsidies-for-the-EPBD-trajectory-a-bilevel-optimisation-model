@@ -1,0 +1,70 @@
+scenario: pl12_afford
+out_tag: ms_hpheavy
+sigma_start_file: data/sigma_start_hpheavy.csv
+model_file: bilevel_model_affordable_housing.jl
+timestamp: 2026-11-06T20:22:31.522
+ban_year: 2040
+co2_scale: 1.0
+dh_cap_sfh: 0.05
+dh_cap_mfh: 0.8
+reno_scale: 1.0
+subsidy_boost: none
+residual_value: true
+pef_frozen: false
+wood_pef: 1.1
+affordability_mode: cost_neutral
+affordability_tolerance: 1.0
+affordability_income_share: 0.1
+affordability_reference: zero_subsidy
+affordability_scope: all
+household_income_by_class: (poor = 9635.0, rich = 23761.0)
+affordability_periods: all
+equity_spending_floor: true
+clawback_rate_by_class: (poor = 0.0, rich = 0.0)
+clawback_returns_to_budget: false
+tenure_enabled: true
+tenure_share_by_archetype: (rented_public = 0.134, rented_private = 0.08)
+private_rich_tenant_share: 0.762
+pass_through_rate_by_landlord: (public = 0.02, private = 0.1)
+rent_increase_cap_per_m2: 1.0e6
+pv_in_passthrough_base: true
+pass_through_years: recovery
+passthrough_base_net_of_grants: true
+landlord_discount_rate: nothing
+liquidity_cap_by_landlord: (public = 5000.0, private = Inf)
+landlord_subsidy_cap: 1.0
+landlord_subsidy_counts_as_poor: true
+eed_public_obligation: true
+public_tenant_weight: 0.0
+fossil_boiler_ban: false
+stock_file: archetypes_pl_mix.csv
+public_rich_tenant_share: 0.762
+traj_mode: relative_to_2020
+traj_reductions: (0.16, 0.2, 0.4, 0.59)
+traj_values_override: nothing
+env_rate_path: (0.027, 0.032, 0.036, 0.039)
+hvac_rate_const: 0.04
+joint_rate_path: (0.043, 0.048, 0.052, 0.055)
+equity_floor_value: nothing
+discount_rate_override: nothing
+household_discount_rates: (owner_poor = 0.08, owner_rich = 0.08, landlord_public = 0.03, landlord_private = 0.08)
+subsidy_horizon_end: 2050
+carrier_prices: (elec = 0.2634, gas = 0.0707, coal = 0.0594, wood = 0.0523, oil = 0.1065, dh = 0.1151)
+carrier_co2: (coal = 0.34, gas = 0.2, oil = 0.27, wood = 0.0)
+carrier_etas: (coal = 0.7, wood = 0.65, gas = 0.87, oil = 0.85, dh = 0.95)
+measure_costs: Dict(("MFH", "hvac_fossil_to_hp") => 4272.0, ("SFH", "envelope_light") => 3663.0, ("SFH", "envelope_medium") => 9918.0, ("MFH", "envelope_light") => 735.0, ("MFH", "envelope_medium") => 2670.0, ("SFH", "envelope_deep") => 19463.0, ("SFH", "hvac_fossil_to_hp") => 8721.0, ("MFH", "envelope_deep") => 5725.0)
+measure_reductions: Dict(("SFH", "envelope_light") => 0.134, ("SFH", "envelope_medium") => 0.367, ("MFH", "envelope_light") => 0.054, ("MFH", "envelope_medium") => 0.333, ("SFH", "envelope_deep") => 0.576, ("MFH", "envelope_deep") => 0.49)
+pv_enabled: false
+learning_rates: Dict("envelope_light" => 0.0, "envelope_deep" => 0.0, "envelope_medium" => 0.0, "hvac_fossil_to_district" => 0.0)
+period_years: (2020, 2026, 2030, 2035, 2040, 2050)
+co2_price_path: (0.0, 22.5, 70.0, 120.0, 200.0, 350.0)
+history_adoption_file: data/history_adoption_pl12.csv
+history_fix_classes: ("envelope", "hvac")
+history_subsidy: (sfh_poor = 0.7, sfh_rich = 0.4)
+fuel_mix_update: (btype = "SFH", hpdh_share = 0.03123, boiler_share = 0.06668, new_mix = (gas_cond = 0.312, biomass = 0.292, coal5 = 0.064, electric = 0.012, oil = 0.001), etas = (gas_cond = 0.95, biomass = 0.87, coal5 = 0.85, electric = 1.0, oil = 0.85))
+subsidy_horizon_start: 2026
+discount_base_year: 2026
+descr: PL standard: census stock (absolute national), Invert WPB cut at census weights, rule_PL, EED on, w=0, ban off, relative EPBD trajectory, KPRB capacity | household discount 8% (owners + private landlords; public landlord 3%, state 3%) | subsidy horizon 2050 (spending 2020-2050; default since 2026-10-27 step-0 order) | sourced carrier prices (elec 2025 avg) + fossil mixes + seasonal efficiencies (phase 1 corrected) | Polish investment costs (VAT gross) + component savings (pl12: history 2020-2025 fixed, design from 2026, CO2 22.5 EUR/t 2026-30; no PV) | SQ1: cost-neutral affordability (zero-subsidy reference)
+julia_version: 1.11.6
+git_commit: 2d232023fbf4e3a02ad0fb30c929bd01a593780d
+git_tree: DIRTY (700 changed/untracked paths — hash does not pin this code)

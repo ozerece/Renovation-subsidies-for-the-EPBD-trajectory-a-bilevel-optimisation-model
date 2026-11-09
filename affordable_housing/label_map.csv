@@ -1,0 +1,8 @@
+internal,display
+poor,low-income
+rich,high-income (Q2–Q5)
+owner_poor,owner-occupier (low-income)
+owner_rich,owner-occupier (high-income)
+rented_public,public rental (low-income tenant)
+rented_private,private rental (low-income tenant)
+rented_private_rich,private rental (high-income tenant)

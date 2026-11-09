@@ -1,0 +1,19 @@
+
+--- pl10 @ sigma_start_record.csv ---
+  PASS  E2030          pinned     222.19  got     222.19
+  PASS  spending_M     pinned   10233.54  got   10233.50
+  PASS  E2040          pinned     158.58  got     158.58
+  PASS  E2050          pinned      92.06  got      92.06
+
+--- pl11 @ sigma_start_max.csv ---
+  PASS  E2030          pinned     230.39  got     230.39
+  PASS  spending_M     pinned   49186.20  got   49186.20
+  PASS  E2050          pinned      75.14  got      75.14
+
+--- pl12_history @ sigma_history_pl12.csv ---
+  PASS  E2026          pinned     243.88  got     243.88
+  PASS  E2030          pinned     224.05  got     224.05
+  PASS  hist_nominal_M pinned    5021.70  got    5021.70
+  PASS  E2050          pinned      73.39  got      73.39
+
+PL12 PINS: 11 passed, 0 failed

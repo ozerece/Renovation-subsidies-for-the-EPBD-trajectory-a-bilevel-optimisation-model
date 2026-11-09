@@ -1,0 +1,16 @@
+# The EUR 8,302.6M design (pl10_w10__ms_pl10cert == pl10_rule_perm__ms_pl10cert,
+# 2026-11-04), used as a warm start for pl10_w05 (user order, OPEN item 3).
+# Canonical sigma_keys order: env l/m/d poor; env l/m/d rich;
+# hvac std/upg poor; hvac std/upg rich; landlord public; private.
+0.4444399874572618
+0.4444399874572618
+0.4444399874572618
+0.0
+0.0
+0.10322466287808493
+0.0
+0.002387801560692002
+0.20407612911908338
+0.003945168966594352
+0.0
+0.0

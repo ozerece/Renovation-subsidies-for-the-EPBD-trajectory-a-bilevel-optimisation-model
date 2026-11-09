@@ -1,0 +1,24 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Ece Özer and Lukas Kranzl, TU Wien
+
+The data, model results, certificate logs, figures and documentation of this
+release (the paths listed under "Licences" in README.md) are licensed under the
+Creative Commons Attribution 4.0 International licence. You are free to share
+and adapt this material for any purpose, including commercially, provided you
+give appropriate credit, link to the licence and indicate if changes were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+Exception: inputs derived from third-party datasets keep the terms of their
+sources. In particular, the building-stock quantities derived from the
+Invert/EE-Lab model (listed in INVERT_DERIVED.md) are shared subject to the
+permission of e-think, the owner of Invert/EE-Lab; that permission is pending
+and those files must not be redistributed before it is granted. The source
+documents of other inputs (GUS, NFOŚiGW/Czyste Powietrze, NAPE, Eurostat, URE)
+are not part of this release; README.md lists them with their origin.
+
+Attribution: Özer, E. and Kranzl, L. (2026). Bilevel renovation-subsidy design
+for the EPBD trajectory: model, data and results of record (P4, version pl12).
+TU Wien, Energy System Economics Lab, Institute of Net-Zero Energy Systems.

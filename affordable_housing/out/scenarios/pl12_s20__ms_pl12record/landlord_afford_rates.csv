@@ -1,0 +1,3 @@
+landlord_type,min_rate_for_tenant_affordability,min_gap_eur_yr,rate_at_min_gap,gap_at_optimum_eur_yr,threshold,reference,enforced,note
+rented_public,0.0,-660.4,1.0,-534.4,income_share,zero_subsidy,true,"search bound, 10% scan, other rates at optimum"
+rented_private,0.0,-40.3,0.0,-40.3,income_share,zero_subsidy,true,"search bound, 10% scan, other rates at optimum"

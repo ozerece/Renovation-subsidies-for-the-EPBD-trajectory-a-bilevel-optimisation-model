@@ -1,0 +1,382 @@
+name,value,unit,status,source_file
+standard_spending_discounted_2026,24936.2,"M EUR (discounted to 2026, 2026–2050)","certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/scenario_summary.csv
+standard_equity_share_low_income,30.0351,"% of spending (floor 30 %, binding)","certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/scenario_summary.csv
+standard_wpb_share,74.5052,"% of the energy savings 2026–2060 (delivered energy, floor-area weighted, vs the 2026 state) from worst-performing buildings; NOT a spending share (see standard_spending_share_wpb_buildings) [label corrected 2026-11-08]","certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/scenario_summary.csv
+standard_spending_nominal,31975.6,"M EUR (undiscounted, 2026–2050)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+standard_total_investment_nominal,118768,"M EUR (all renovation investment 2026–2050, households + state)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/measure_totals.csv
+design_rate_poor_envelope_light,42.9396,% of investment cost,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/subsidies.csv
+design_rate_poor_envelope_medium,42.9396,% of investment cost,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/subsidies.csv
+design_rate_poor_envelope_deep,45.0909,% of investment cost,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/subsidies.csv
+design_rate_poor_heat_pump,94.6917,% of investment cost,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/subsidies.csv
+design_rate_poor_district_heat,0,% of investment cost,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/subsidies.csv
+design_rate_rich_envelope_light,20.3857,% of investment cost,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/subsidies.csv
+design_rate_rich_envelope_medium,37.0846,% of investment cost,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/subsidies.csv
+design_rate_rich_envelope_deep,37.0846,% of investment cost,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/subsidies.csv
+design_rate_rich_heat_pump,0,% of investment cost,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/subsidies.csv
+design_rate_rich_district_heat,0,% of investment cost,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/subsidies.csv
+design_rate_landlord_public_all_measures,0,% of investment cost,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/subsidies.csv
+design_rate_landlord_private_all_measures,0,% of investment cost,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",out/scenarios/pl12__local25_record/subsidies.csv
+standard_primary_energy_2020,264.433,"kWh/(m²·yr), stock average",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/energy_path.csv
+standard_primary_energy_2026,243.876,"kWh/(m²·yr), stock average",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/energy_path.csv
+standard_primary_energy_2030,221.883,"kWh/(m²·yr), stock average",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/energy_path.csv
+epbd_target_2030,222.12,kWh/(m²·yr) (−16/−20/−40/−59 % vs 2020),input (relative EPBD trajectory),bilevel_model_affordable_housing.jl
+standard_slack_2030,0.236682,kWh/(m²·yr) (target − value; + = met),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/energy_path.csv
+standard_primary_energy_2035,197.411,"kWh/(m²·yr), stock average",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/energy_path.csv
+epbd_target_2035,211.55,kWh/(m²·yr) (−16/−20/−40/−59 % vs 2020),input (relative EPBD trajectory),bilevel_model_affordable_housing.jl
+standard_slack_2035,14.1391,kWh/(m²·yr) (target − value; + = met),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/energy_path.csv
+standard_primary_energy_2040,158.086,"kWh/(m²·yr), stock average",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/energy_path.csv
+epbd_target_2040,158.66,kWh/(m²·yr) (−16/−20/−40/−59 % vs 2020),input (relative EPBD trajectory),bilevel_model_affordable_housing.jl
+standard_slack_2040,0.573963,kWh/(m²·yr) (target − value; + = met),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/energy_path.csv
+standard_primary_energy_2050,97.5715,"kWh/(m²·yr), stock average",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/energy_path.csv
+epbd_target_2050,108.42,kWh/(m²·yr) (−16/−20/−40/−59 % vs 2020),input (relative EPBD trajectory),bilevel_model_affordable_housing.jl
+standard_slack_2050,10.8485,kWh/(m²·yr) (target − value; + = met),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/energy_path.csv
+spending_discounted_owner_low_wpb,4199.75,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+spending_nominal_owner_low_wpb,5296.3,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+dwellings_owner_low_wpb,0.497588,million dwellings,"input (census stock, tenure split wave 9)",out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+spending_discounted_owner_low_rest,3289.84,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+spending_nominal_owner_low_rest,4170.33,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+dwellings_owner_low_rest,0.799252,million dwellings,"input (census stock, tenure split wave 9)",out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+spending_discounted_owner_high_wpb,10613.9,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+spending_nominal_owner_high_wpb,13658.9,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+dwellings_owner_high_wpb,2.6319,million dwellings,"input (census stock, tenure split wave 9)",out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+spending_discounted_owner_high_rest,6832.64,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+spending_nominal_owner_high_rest,8850.06,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+dwellings_owner_high_rest,4.22749,million dwellings,"input (census stock, tenure split wave 9)",out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+spending_discounted_tenant_public,0,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+spending_nominal_tenant_public,0,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+dwellings_tenant_public,0.432793,million dwellings,"input (census stock, tenure split wave 9)",out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+spending_discounted_tenant_private,0,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+spending_nominal_tenant_private,0,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+dwellings_tenant_private,0.258384,million dwellings,"input (census stock, tenure split wave 9)",out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+spending_discounted_low_income_owners,7489.59,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/public_spend_split.csv
+spending_discounted_high_income_owners,17446.6,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/public_spend_split.csv
+spending_discounted_landlords,0,M EUR,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+standard_spending_share_wpb_buildings,59.4064,% of discounted spending 2026–2050 to owner-occupiers in worst-performing buildings [added 2026-11-08],fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/subsidy_by_archetype.csv
+spending_discounted_envelope,20984,M EUR,fixed-σ evaluation at the record design,results/pl12_outcome_measures.csv
+spending_discounted_heat_pumps,3952.17,M EUR,fixed-σ evaluation at the record design,results/pl12_outcome_measures.csv
+spending_nominal_envelope_medium,7863.26,M EUR (undiscounted),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/measure_totals.csv
+dwellings_adopting_envelope_medium_2050,3.6438,million dwellings (cumulative to 2050),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/measure_totals.csv
+stock_share_envelope_medium_2050,41.2,% of stock,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/measure_totals.csv
+spending_nominal_envelope_deep,19224.9,M EUR (undiscounted),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/measure_totals.csv
+dwellings_adopting_envelope_deep_2050,5.00631,million dwellings (cumulative to 2050),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/measure_totals.csv
+stock_share_envelope_deep_2050,56.6,% of stock,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/measure_totals.csv
+spending_nominal_hvac_fossil_to_hp,4887.42,M EUR (undiscounted),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/measure_totals.csv
+dwellings_adopting_hvac_fossil_to_hp_2050,4.56225,million dwellings (cumulative to 2050),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/measure_totals.csv
+stock_share_hvac_fossil_to_hp_2050,51.6,% of stock,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/measure_totals.csv
+spending_nominal_hvac_fossil_to_district,0,M EUR (undiscounted),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/measure_totals.csv
+dwellings_adopting_hvac_fossil_to_district_2050,0.047548,million dwellings (cumulative to 2050),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/measure_totals.csv
+stock_share_hvac_fossil_to_district_2050,0.5,% of stock,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/measure_totals.csv
+standard_co2_record_Mt,420.853,Mt CO₂ cumulative 2026–2050 with programme,fixed-σ evaluation at the record design and at σ = 0,results/pl12_outcome_measures.csv
+standard_co2_zero_Mt,451.588,Mt CO₂ cumulative 2026–2050 at σ = 0,fixed-σ evaluation at the record design and at σ = 0,results/pl12_outcome_measures.csv
+standard_co2_avoided_Mt,30.7344,Mt CO₂ avoided,fixed-σ evaluation at the record design and at σ = 0,results/pl12_outcome_measures.csv
+standard_co2_avoided_pct,6.80587,% of σ = 0 emissions,fixed-σ evaluation at the record design and at σ = 0,results/pl12_outcome_measures.csv
+standard_eur_per_t,811.343,EUR per t CO₂ avoided (discounted spending),fixed-σ evaluation at the record design and at σ = 0,results/pl12_outcome_measures.csv
+standard_pe_saved_2050_TWh,5.31578,TWh/yr primary energy saved in 2050 vs σ = 0,fixed-σ evaluation at the record design and at σ = 0,results/pl12_outcome_measures.csv
+standard_eur_per_kwh_2050,4.69097,EUR per kWh/yr saved in 2050,fixed-σ evaluation at the record design and at σ = 0,results/pl12_outcome_measures.csv
+standard_E2050_zero,104.37,kWh/(m²·yr) in 2050 at σ = 0,fixed-σ evaluation at the record design and at σ = 0,results/pl12_outcome_measures.csv
+cost_share_2050_owner_low_wpb_with_programme,18.1727,% of income (energy + own annuity + rent increase),fixed-σ evaluation at the record design,results/pl12_outcome_measures.csv
+cost_share_2050_owner_low_wpb_no_programme,24.6847,% of income at σ = 0,fixed-σ evaluation at the record design (σ = 0),results/pl12_outcome_measures.csv
+cost_share_2050_owner_low_rest_with_programme,8.02456,% of income (energy + own annuity + rent increase),fixed-σ evaluation at the record design,results/pl12_outcome_measures.csv
+cost_share_2050_owner_low_rest_no_programme,11.1079,% of income at σ = 0,fixed-σ evaluation at the record design (σ = 0),results/pl12_outcome_measures.csv
+cost_share_2050_tenant_public_with_programme,6.251,% of income (energy + own annuity + rent increase),fixed-σ evaluation at the record design,results/pl12_outcome_measures.csv
+cost_share_2050_tenant_public_no_programme,6.251,% of income at σ = 0,fixed-σ evaluation at the record design (σ = 0),results/pl12_outcome_measures.csv
+cost_share_2050_tenant_private_with_programme,9.45273,% of income (energy + own annuity + rent increase),fixed-σ evaluation at the record design,results/pl12_outcome_measures.csv
+cost_share_2050_tenant_private_no_programme,9.45273,% of income at σ = 0,fixed-σ evaluation at the record design (σ = 0),results/pl12_outcome_measures.csv
+cost_share_2050_owner_poor_wpb_unrenovated_reference,39.58,% of income (unrenovated 2050 reference),fixed-σ evaluation at the record design,results/figures_pl12/fig4_poor_cost_share_2050_data.csv
+cost_share_2050_owner_poor_rest_unrenovated_reference,12.32,% of income (unrenovated 2050 reference),fixed-σ evaluation at the record design,results/figures_pl12/fig4_poor_cost_share_2050_data.csv
+cost_share_2050_rental_public_unrenovated_reference,8.94,% of income (unrenovated 2050 reference),fixed-σ evaluation at the record design,results/figures_pl12/fig4_poor_cost_share_2050_data.csv
+cost_share_2050_rental_private_unrenovated_reference,8.94,% of income (unrenovated 2050 reference),fixed-σ evaluation at the record design,results/figures_pl12/fig4_poor_cost_share_2050_data.csv
+uptake_envelope_owner_low_wpb_2026,15.1451,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_owner_low_wpb_2026,14.4909,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_owner_low_wpb_2026,2.92485,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_owner_low_wpb_2030,25.5155,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_owner_low_wpb_2030,24.8613,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_owner_low_wpb_2030,17.0969,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_owner_low_wpb_2050,86.3971,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_owner_low_wpb_2050,85.7429,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_owner_low_wpb_2050,85.1363,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_owner_low_rest_2026,11.4502,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_owner_low_rest_2026,0,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_owner_low_rest_2026,1.6475,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_owner_low_rest_2030,16.3157,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_owner_low_rest_2030,2.33542,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_owner_low_rest_2030,13.1527,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_owner_low_rest_2050,77.5514,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_owner_low_rest_2050,16.8786,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_owner_low_rest_2050,67.7313,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_owner_high_wpb_2026,15.1451,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_owner_high_wpb_2026,14.4909,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_owner_high_wpb_2026,2.92485,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_owner_high_wpb_2030,25.5155,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_owner_high_wpb_2030,24.8613,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_owner_high_wpb_2030,2.92485,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_owner_high_wpb_2050,90.0945,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_owner_high_wpb_2050,89.4403,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_owner_high_wpb_2050,44.976,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_owner_high_rest_2026,3.41067,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_owner_high_rest_2026,0,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_owner_high_rest_2026,1.6475,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_owner_high_rest_2030,13.7811,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_owner_high_rest_2030,2.33542,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_owner_high_rest_2030,1.6475,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_owner_high_rest_2050,78.3601,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_owner_high_rest_2050,24.8858,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_owner_high_rest_2050,1.64752,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_tenant_public_2026,1.6296,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_tenant_public_2026,1.6296,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_tenant_public_2026,0,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_tenant_public_2030,12,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_tenant_public_2030,12,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_tenant_public_2030,6.43596,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_tenant_public_2050,72,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_tenant_public_2050,72,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_tenant_public_2050,38.6158,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_tenant_private_2026,0,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_tenant_private_2026,0,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_tenant_private_2026,0,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_tenant_private_2030,0,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_tenant_private_2030,0,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_tenant_private_2030,0,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_tenant_private_2050,32.8209,"% of the group's dwellings renovated (cumulative, any depth)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_deep_tenant_private_2050,32.8209,"% of the group's dwellings, deep",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_heat_pump_tenant_private_2050,0,% of the group's dwellings on a heat pump,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/adoption_values.csv
+uptake_envelope_area_share_owner_poor_2030,20.156,% of the group's floor area renovated,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/uptake_by_group.csv
+uptake_envelope_area_share_owner_poor_2050,81.036,% of the group's floor area renovated,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/uptake_by_group.csv
+uptake_envelope_area_share_owner_rich_2030,18.299,% of the group's floor area renovated,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/uptake_by_group.csv
+uptake_envelope_area_share_owner_rich_2050,82.878,% of the group's floor area renovated,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/uptake_by_group.csv
+uptake_envelope_area_share_rented_public_2030,12,% of the group's floor area renovated,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/uptake_by_group.csv
+uptake_envelope_area_share_rented_public_2050,72,% of the group's floor area renovated,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/uptake_by_group.csv
+uptake_envelope_area_share_rented_private_2030,0,% of the group's floor area renovated,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/uptake_by_group.csv
+uptake_envelope_area_share_rented_private_2050,32.821,% of the group's floor area renovated,fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/uptake_by_group.csv
+ets2_revenue_period_to_2030,2376.1,"M EUR (nominal, CO₂ price 22.5 EUR/t)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/ets2_revenue_vs_subsidy.csv
+subsidy_paid_period_to_2030,4607.2,M EUR (nominal),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/ets2_revenue_vs_subsidy.csv
+ets2_revenue_period_to_2035,8188.45,"M EUR (nominal, CO₂ price 70.0 EUR/t)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/ets2_revenue_vs_subsidy.csv
+subsidy_paid_period_to_2035,6559.88,M EUR (nominal),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/ets2_revenue_vs_subsidy.csv
+ets2_revenue_period_to_2040,10911.2,"M EUR (nominal, CO₂ price 120.0 EUR/t)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/ets2_revenue_vs_subsidy.csv
+subsidy_paid_period_to_2040,7062.85,M EUR (nominal),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/ets2_revenue_vs_subsidy.csv
+ets2_revenue_period_to_2050,21468.8,"M EUR (nominal, CO₂ price 200.0 EUR/t)",fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/ets2_revenue_vs_subsidy.csv
+subsidy_paid_period_to_2050,13745.7,M EUR (nominal),fixed-σ evaluation at the record design,out/scenarios/pl12__local25_record/ets2_revenue_vs_subsidy.csv
+history_state_2026_primary_energy,243.876,kWh/(m²·yr) stock average after the fixed 2020–2025 history,fixed history (modelled envelope + observed SFH heating),out/scenarios/pl12__local25_record/energy_path.csv
+history_state_2020_primary_energy,264.433,kWh/(m²·yr),input,out/scenarios/pl12__local25_record/energy_path.csv
+history_spending_2020_2025_nominal,5021.67,"M EUR (Czyste Powietrze rates 0.70 / 0.40; reported, outside the objective)",fixed history,out/scenarios/pl12__local25_record/history_spending.csv
+history_spending_2020_2025_discounted_2026,5996.13,M EUR (compounded to 2026),fixed history,out/scenarios/pl12__local25_record/history_spending.csv
+history_sfh_envelope_renovations,0.510922,"million SFH dwellings 2020–2025 (modelled, cap-bound)",fixed history,out/scenarios/pl12__local25_record/state_after_history.csv
+history_mfh_owner_envelope_renovations,0.198744,million MFH owner dwellings 2020–2025,fixed history,out/scenarios/pl12__local25_record/state_after_history.csv
+history_public_rental_envelope_renovations,0.00705279,million public-rental dwellings 2020–2025,fixed history,out/scenarios/pl12__local25_record/state_after_history.csv
+history_sfh_heat_pumps,0.174348,"million SFH dwellings switched to a heat pump 2020–2025 (observed, NFOŚiGW/CP)",observed,data/history_heating_pl12.csv
+history_sfh_envelope_share,9.09501,% of SFH dwellings,fixed history,out/scenarios/pl12__local25_record/state_after_history.csv
+history_period1_envelope_cap,15.1451,% of each archetype (6 years at 2.7 %/yr),input (KPRB capacity),bilevel_model_affordable_housing.jl
+history_decomp_envelope_2026,17.295,kWh/(m²·yr) fall 2020→2026 from the modelled envelope history alone,"fixed-σ evaluation (σ = 0, diagnostic scenario)",out/scenarios/pl12_diag_envonly__xe_zero/energy_path_eval.csv
+history_decomp_heat_pumps_dh_2026,3.26133,kWh/(m²·yr) further fall 2020→2026 from the observed heat pumps and district-heat connections,"fixed-σ evaluation (σ = 0, diagnostic scenario)",out/scenarios/pl12_diag_noboiler__xe_zero/energy_path_eval.csv
+history_decomp_boiler_update_2030_sigma0,4.55598,kWh/(m²·yr) lower 2030 value at σ = 0 from the 2025 boiler update (acts from 2026 on),fixed-σ evaluation (σ = 0),out/scenarios/pl12__xe_zero/energy_path_eval.csv
+standard_search_before_proofs,27422.3,"M EUR (discounted to 2026): the search from the model's candidate list, before the chain of local proofs",search bound (batch start),out/scenarios/pl12/scenario_summary.csv
+search_binary_search_tolerance,0.5,percentage points (the coordinate descent stops when hi − lo ≤ 0.005),input (model code),bilevel_model_affordable_housing.jl
+scenario_spending_pl12,24936.2,M EUR (discounted to 2026),"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",results/pl12_multistart_summary.csv
+scenario_E2050_pl12,97.5715,kWh/(m²·yr),"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",results/pl12_multistart_summary.csv
+scenario_equity_pl12,30.0351,% low-income share of spending,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12,30.7344,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12,811.343,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_afford,25162.4,M EUR (discounted to 2026),search bound (best of 5 starts: ms_pl12record),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_afford,97.4767,kWh/(m²·yr),search bound (best of 5 starts: ms_pl12record),results/pl12_multistart_summary.csv
+scenario_equity_pl12_afford,30.5338,% low-income share of spending,search bound (best of 5 starts: ms_pl12record),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_afford,31.1692,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_afford,807.284,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_ban2040,26732.9,M EUR (discounted to 2026),search bound (best of 5 starts: batch),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_ban2040,86.5408,kWh/(m²·yr),search bound (best of 5 starts: batch),results/pl12_multistart_summary.csv
+scenario_equity_pl12_ban2040,31.4652,% low-income share of spending,search bound (best of 5 starts: batch),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_ban2040,44.2599,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_ban2040,603.999,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_co2half,no feasible design,2030 miss 3.34; 2040 miss 14.35,"max-σ evidence, 4 starts (not certified)",results/pl12_multistart_summary.csv
+scenario_spending_pl12_elec_m20,0,M EUR (discounted to 2026),search bound (best of 4 starts: batch),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_elec_m20,74.7477,kWh/(m²·yr),search bound (best of 4 starts: batch),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_elec_m20,0,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_elec_m20,nan,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_elec_p20,no feasible design,2030 miss 0.93,"max-σ evidence, 4 starts (not certified)",results/pl12_multistart_summary.csv
+scenario_spending_pl12_envcap_m20,no feasible design,2030 miss 3.31,"max-σ evidence, 4 starts (not certified)",results/pl12_multistart_summary.csv
+scenario_spending_pl12_envcap_p05,26039,M EUR (discounted to 2026),"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",results/pl12_multistart_summary.csv
+scenario_E2050_pl12_envcap_p05,95.2771,kWh/(m²·yr),"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",results/pl12_multistart_summary.csv
+scenario_equity_pl12_envcap_p05,30.0043,% low-income share of spending,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_envcap_p05,31.4449,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_envcap_p05,828.083,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_envcap_p10,21283.5,M EUR (discounted to 2026),search bound (best of 5 starts: batch),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_envcap_p10,86.7716,kWh/(m²·yr),search bound (best of 5 starts: batch),results/pl12_multistart_summary.csv
+scenario_equity_pl12_envcap_p10,66.5117,% low-income share of spending,search bound (best of 5 starts: batch),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_envcap_p10,40.6359,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_envcap_p10,523.761,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_envcap_p20,8464.8,M EUR (discounted to 2026),search bound (best of 5 starts: ms_record),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_envcap_p20,86.7097,kWh/(m²·yr),search bound (best of 5 starts: ms_record),results/pl12_multistart_summary.csv
+scenario_equity_pl12_envcap_p20,53.3162,% low-income share of spending,search bound (best of 5 starts: ms_record),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_envcap_p20,33.9523,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_envcap_p20,249.314,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_envcap_p30,3806.4,M EUR (discounted to 2026),search bound (best of 5 starts: batch),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_envcap_p30,88.0133,kWh/(m²·yr),search bound (best of 5 starts: batch),results/pl12_multistart_summary.csv
+scenario_equity_pl12_envcap_p30,100,% low-income share of spending,search bound (best of 5 starts: batch),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_envcap_p30,26.472,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_envcap_p30,143.788,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_envcap_p50,603.6,M EUR (discounted to 2026),search bound (best of 5 starts: ms_hpheavy),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_envcap_p50,94.9962,kWh/(m²·yr),search bound (best of 5 starts: ms_hpheavy),results/pl12_multistart_summary.csv
+scenario_equity_pl12_envcap_p50,100,% low-income share of spending,search bound (best of 5 starts: ms_hpheavy),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_envcap_p50,0.184057,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_envcap_p50,3279.61,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_hist_env050,no feasible design,2030 miss 6.97,"max-σ evidence, 1 starts (not certified)",results/pl12_multistart_summary.csv
+scenario_spending_pl12_hist_env075,no feasible design,2030 miss 3.12,"max-σ evidence, 1 starts (not certified)",results/pl12_multistart_summary.csv
+scenario_spending_pl12_hpcost_hi,24924.3,M EUR (discounted to 2026),"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",results/pl12_multistart_summary.csv
+scenario_E2050_pl12_hpcost_hi,97.839,kWh/(m²·yr),"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",results/pl12_multistart_summary.csv
+scenario_equity_pl12_hpcost_hi,30.0009,% low-income share of spending,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_hpcost_hi,36.3582,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_hpcost_hi,685.52,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_hpcost_lo,27230.2,M EUR (discounted to 2026),"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",results/pl12_multistart_summary.csv
+scenario_E2050_pl12_hpcost_lo,77.9392,kWh/(m²·yr),"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",results/pl12_multistart_summary.csv
+scenario_equity_pl12_hpcost_lo,33.2642,% low-income share of spending,"certified local optimum (±10 pp box, 2.5-pp grid, strict 30 % floor)",results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_hpcost_lo,26.8868,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_hpcost_lo,1012.77,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_hvac6,26603.2,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_hvac6),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_hvac6,84.1934,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_hvac6),results/pl12_multistart_summary.csv
+scenario_equity_pl12_hvac6,30.0278,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_hvac6),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_hvac6,40.4501,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_hvac6,657.678,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_inclusive,42049.4,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_inclusive),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_inclusive,90.3504,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_inclusive),results/pl12_multistart_summary.csv
+scenario_equity_pl12_inclusive,30.0099,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_inclusive),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_inclusive,52.1488,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_inclusive,806.336,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_invertprices,no feasible design,2030 miss 1.56,"max-σ evidence, 4 starts (not certified)",results/pl12_multistart_summary.csv
+scenario_spending_pl12_kprb,0,M EUR (discounted to 2026),search bound (best of 4 starts: batch),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_kprb,94.2191,kWh/(m²·yr),search bound (best of 4 starts: batch),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_kprb,0,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_kprb,nan,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_learn0,29171.3,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_learn0),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_learn0,94.6752,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_learn0),results/pl12_multistart_summary.csv
+scenario_equity_pl12_learn0,30.0229,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_learn0),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_learn0,113.788,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_learn0,256.365,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_noeed,35926.9,M EUR (discounted to 2026),search bound (best of 5 starts: batch),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_noeed,94.7763,kWh/(m²·yr),search bound (best of 5 starts: batch),results/pl12_multistart_summary.csv
+scenario_equity_pl12_noeed,32.435,% low-income share of spending,search bound (best of 5 starts: batch),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_noeed,37.9299,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_noeed,947.191,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_peffrozen,no feasible design,2030 miss 2.46; 2040 miss 2.60,"max-σ evidence, 4 starts (not certified)",results/pl12_multistart_summary.csv
+scenario_spending_pl12_priv16,24607.9,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_priv16),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_priv16,98.1023,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_priv16),results/pl12_multistart_summary.csv
+scenario_equity_pl12_priv16,30.017,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_priv16),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_priv16,30.2421,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_priv16,813.697,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_pubpoor,24936.2,M EUR (discounted to 2026),search bound (best of 2 starts: ms_rec25),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_pubpoor,97.5715,kWh/(m²·yr),search bound (best of 2 starts: ms_rec25),results/pl12_multistart_summary.csv
+scenario_equity_pl12_pubpoor,30.0351,% low-income share of spending,search bound (best of 2 starts: ms_rec25),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_pubpoor,30.7344,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_pubpoor,811.343,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_r12,no feasible design,2030 miss 1.79,"max-σ evidence, 4 starts (not certified)",results/pl12_multistart_summary.csv
+scenario_spending_pl12_rule_cap3,24936.2,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_rule_cap3),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_rule_cap3,97.6204,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_rule_cap3),results/pl12_multistart_summary.csv
+scenario_equity_pl12_rule_cap3,30.0351,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_rule_cap3),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_rule_cap3,30.7345,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_rule_cap3,811.343,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_rule_none,24936.2,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_rule_none),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_rule_none,97.8958,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_rule_none),results/pl12_multistart_summary.csv
+scenario_equity_pl12_rule_none,30.0351,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_rule_none),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_rule_none,30.7344,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_rule_none,811.343,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_rule_perm,23993.7,M EUR (discounted to 2026),search bound (best of 5 starts: ms_pl12record),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_rule_perm,97.9149,kWh/(m²·yr),search bound (best of 5 starts: ms_pl12record),results/pl12_multistart_summary.csv
+scenario_equity_pl12_rule_perm,32.1235,% low-income share of spending,search bound (best of 5 starts: ms_pl12record),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_rule_perm,27.8145,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_rule_perm,862.631,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_rule_pl_gross,24936.2,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_rule_pl_gross),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_rule_pl_gross,97.5715,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_rule_pl_gross),results/pl12_multistart_summary.csv
+scenario_equity_pl12_rule_pl_gross,30.0351,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_rule_pl_gross),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_rule_pl_gross,30.7344,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_rule_pl_gross,811.343,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_s10,no feasible design,affordability limit violated at every start,"max-σ evidence, 4 starts (not certified)",results/pl12_multistart_summary.csv
+scenario_spending_pl12_s12,no feasible design,affordability limit violated at every start,"max-σ evidence, 4 starts (not certified)",results/pl12_multistart_summary.csv
+scenario_spending_pl12_s13,no feasible design,affordability limit violated at every start,"max-σ evidence, 4 starts (not certified)",results/pl12_multistart_summary.csv
+scenario_spending_pl12_s14,no feasible design,affordability limit violated at every start,"max-σ evidence, 4 starts (not certified)",results/pl12_multistart_summary.csv
+scenario_spending_pl12_s15,no feasible design,affordability limit violated at every start,"max-σ evidence, 4 starts (not certified)",results/pl12_multistart_summary.csv
+scenario_spending_pl12_s20,24936.2,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_s20),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_s20,97.5715,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_s20),results/pl12_multistart_summary.csv
+scenario_equity_pl12_s20,30.0351,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_s20),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_s20,30.7344,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_s20,811.343,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_s25,24936.2,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_s25),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_s25,97.5715,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_s25),results/pl12_multistart_summary.csv
+scenario_equity_pl12_s25,30.0351,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_s25),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_s25,30.7344,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_s25,811.343,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_s30,24936.2,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_s30),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_s30,97.5715,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_s30),results/pl12_multistart_summary.csv
+scenario_equity_pl12_s30,30.0351,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_s30),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_s30,30.7344,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_s30,811.343,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_s40,24936.2,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_s40),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_s40,97.5715,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_s40),results/pl12_multistart_summary.csv
+scenario_equity_pl12_s40,30.0351,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_s40),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_s40,30.7344,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_s40,811.343,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_sav4666,10785.4,M EUR (discounted to 2026),search bound (best of 5 starts: ms_hpheavy),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_sav4666,94.7113,kWh/(m²·yr),search bound (best of 5 starts: ms_hpheavy),results/pl12_multistart_summary.csv
+scenario_equity_pl12_sav4666,38.6175,% low-income share of spending,search bound (best of 5 starts: ms_hpheavy),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_sav4666,13.0823,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_sav4666,824.431,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_split,24998.3,M EUR (discounted to 2026),search bound (best of 5 starts: ms_pl12record),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_split,97.7292,kWh/(m²·yr),search bound (best of 5 starts: ms_pl12record),results/pl12_multistart_summary.csv
+scenario_equity_pl12_split,30.0777,% low-income share of spending,search bound (best of 5 starts: ms_pl12record),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_split,33.2864,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_split,751.006,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_traj_linear,24936.2,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_traj_linear),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_traj_linear,97.5715,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_traj_linear),results/pl12_multistart_summary.csv
+scenario_equity_pl12_traj_linear,30.0351,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_traj_linear),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_traj_linear,30.7344,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_traj_linear,811.343,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_traj_soft,24936.2,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_traj_soft),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_traj_soft,97.5715,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_traj_soft),results/pl12_multistart_summary.csv
+scenario_equity_pl12_traj_soft,30.0351,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_traj_soft),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_traj_soft,30.7344,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_traj_soft,811.343,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_w05,24936.2,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_w05),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_w05,97.5461,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_w05),results/pl12_multistart_summary.csv
+scenario_equity_pl12_w05,30.0351,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_w05),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_w05,30.7345,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_w05,811.343,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_w10,24936.2,M EUR (discounted to 2026),search bound (best of 6 starts: strict_ms_cur_pl12_w10),results/pl12_multistart_summary.csv
+scenario_E2050_pl12_w10,97.5448,kWh/(m²·yr),search bound (best of 6 starts: strict_ms_cur_pl12_w10),results/pl12_multistart_summary.csv
+scenario_equity_pl12_w10,30.0351,% low-income share of spending,search bound (best of 6 starts: strict_ms_cur_pl12_w10),results/pl12_multistart_summary.csv
+scenario_co2_avoided_pl12_w10,30.7345,Mt CO₂ 2026–2050,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_eur_per_t_pl12_w10,811.343,EUR/t,fixed-σ evaluation at the scenario's design,results/pl12_outcome_measures.csv
+scenario_spending_pl12_woodpef,no feasible design,2030 miss 2.10,"max-σ evidence, 4 starts (not certified)",results/pl12_multistart_summary.csv
+tenant_bill_2050_pl12_rule_none_rented_private,861.4,EUR/yr energy bill per tenant dwelling 2050,search (strict_ms_cur_pl12_rule_none),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_rent_increase_2050_pl12_rule_none_rented_private,0,EUR/yr renovation-related rent increase 2050,search (strict_ms_cur_pl12_rule_none),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_bill_2050_pl12_rule_none_rented_public,496.8,EUR/yr energy bill per tenant dwelling 2050,search (strict_ms_cur_pl12_rule_none),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_rent_increase_2050_pl12_rule_none_rented_public,105.5,EUR/yr renovation-related rent increase 2050,search (strict_ms_cur_pl12_rule_none),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_bill_2050_pl12_rented_private,722.8,EUR/yr energy bill per tenant dwelling 2050,local proof,results/figures_pl12/fig6_rent_rules_data.csv
+tenant_rent_increase_2050_pl12_rented_private,187.9,EUR/yr renovation-related rent increase 2050,local proof,results/figures_pl12/fig6_rent_rules_data.csv
+tenant_bill_2050_pl12_rented_public,496.8,EUR/yr energy bill per tenant dwelling 2050,local proof,results/figures_pl12/fig6_rent_rules_data.csv
+tenant_rent_increase_2050_pl12_rented_public,105.5,EUR/yr renovation-related rent increase 2050,local proof,results/figures_pl12/fig6_rent_rules_data.csv
+tenant_bill_2050_pl12_rule_cap3_rented_private,743.7,EUR/yr energy bill per tenant dwelling 2050,search (strict_ms_cur_pl12_rule_cap3),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_rent_increase_2050_pl12_rule_cap3_rented_private,159.6,EUR/yr renovation-related rent increase 2050,search (strict_ms_cur_pl12_rule_cap3),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_bill_2050_pl12_rule_cap3_rented_public,496.8,EUR/yr energy bill per tenant dwelling 2050,search (strict_ms_cur_pl12_rule_cap3),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_rent_increase_2050_pl12_rule_cap3_rented_public,105.5,EUR/yr renovation-related rent increase 2050,search (strict_ms_cur_pl12_rule_cap3),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_bill_2050_pl12_rule_perm_rented_private,521.7,EUR/yr energy bill per tenant dwelling 2050,search (ms_pl12record),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_rent_increase_2050_pl12_rule_perm_rented_private,616.6,EUR/yr renovation-related rent increase 2050,search (ms_pl12record),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_bill_2050_pl12_rule_perm_rented_public,496.8,EUR/yr energy bill per tenant dwelling 2050,search (ms_pl12record),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_rent_increase_2050_pl12_rule_perm_rented_public,105.5,EUR/yr renovation-related rent increase 2050,search (ms_pl12record),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_bill_2050_pl12_rule_pl_gross_rented_private,722.8,EUR/yr energy bill per tenant dwelling 2050,search (strict_ms_cur_pl12_rule_pl_gross),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_rent_increase_2050_pl12_rule_pl_gross_rented_private,187.9,EUR/yr renovation-related rent increase 2050,search (strict_ms_cur_pl12_rule_pl_gross),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_bill_2050_pl12_rule_pl_gross_rented_public,496.8,EUR/yr energy bill per tenant dwelling 2050,search (strict_ms_cur_pl12_rule_pl_gross),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_rent_increase_2050_pl12_rule_pl_gross_rented_public,105.5,EUR/yr renovation-related rent increase 2050,search (strict_ms_cur_pl12_rule_pl_gross),results/figures_pl12/fig6_rent_rules_data.csv
+tenant_bill_2050_pl12_rented_public,496.8,EUR/yr energy bill per tenant dwelling 2050,local proof,results/figures_pl12/fig6_rent_rules_data.csv
+tenant_rent_increase_2050_pl12_rented_public,105.5,EUR/yr renovation-related rent increase 2050,local proof,results/figures_pl12/fig6_rent_rules_data.csv
+tenant_bill_2050_pl12_noeed_rented_public,854.5,EUR/yr energy bill per tenant dwelling 2050,search,results/figures_pl12/fig6_rent_rules_data.csv
+tenant_rent_increase_2050_pl12_noeed_rented_public,1.9,EUR/yr renovation-related rent increase 2050,search,results/figures_pl12/fig6_rent_rules_data.csv
+public_landlord_own_spending_pl12_nominal,2242.3,M EUR 2026–2050 nominal,fixed-σ evaluation,results/figures_pl12/fig6_rent_rules_data.csv
+public_landlord_own_spending_pl12_discounted,1764.8,M EUR discounted to 2026,fixed-σ evaluation,results/figures_pl12/fig6_rent_rules_data.csv
+public_landlord_own_spending_pl12_noeed_nominal,0,M EUR 2026–2050 nominal,fixed-σ evaluation,results/figures_pl12/fig6_rent_rules_data.csv
+public_landlord_own_spending_pl12_noeed_discounted,0,M EUR discounted to 2026,fixed-σ evaluation,results/figures_pl12/fig6_rent_rules_data.csv
+sens_hist_env075_state_2026,247.889,kWh/(m²·yr),fixed history × 0.75 (envelope only),out/scenarios/pl12_hist_env075__xe_max/energy_path_eval.csv
+sens_hist_env075_2030_at_caps,225.243,kWh/(m²·yr) with every subsidy rate at its cap,max-σ evaluation,out/scenarios/pl12_hist_env075__xe_max/energy_path_eval.csv
+sens_hist_env075_2030_miss,3.1227,kWh/(m²·yr) above the 2030 target,max-σ evaluation,out/scenarios/pl12_hist_env075__xe_max/energy_path_eval.csv
+sens_hist_env075_spending,no feasible design,—,"search, 1 start + max-σ evidence",results/cert_logs/run_pl12_hist_env075.log
+sens_hist_env050_state_2026,251.901,kWh/(m²·yr),fixed history × 0.5 (envelope only),out/scenarios/pl12_hist_env050__xe_max/energy_path_eval.csv
+sens_hist_env050_2030_at_caps,229.096,kWh/(m²·yr) with every subsidy rate at its cap,max-σ evaluation,out/scenarios/pl12_hist_env050__xe_max/energy_path_eval.csv
+sens_hist_env050_2030_miss,6.97623,kWh/(m²·yr) above the 2030 target,max-σ evaluation,out/scenarios/pl12_hist_env050__xe_max/energy_path_eval.csv
+sens_hist_env050_spending,no feasible design,—,"search, 1 start + max-σ evidence",results/cert_logs/run_pl12_hist_env050.log
+sens_hist_env100_2030_at_caps,221.39,"kWh/(m²·yr) (record history, slack +0.73)",max-σ evaluation,results/cert_logs/eval_pl12_xe_max.log

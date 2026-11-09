@@ -1,0 +1,2 @@
+years,energy_price,co2_factor,discount_rate,equity_min_share_low,epbd_target,traj_years,traj_values,co2_price_eur_per_ton
+2020;2030;2035;2040;2050,0.35,0.2,0.03,0.30,90.0,2030;2035;2040;2050,180.0;170.0;130.0;90.0,0;70;120;200;350

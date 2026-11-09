@@ -1,0 +1,13 @@
+arch_id,btype,income,current_hvac,dwellings,floor_area_m2,baseline_kWh_m2,annual_liquidity_cap,is_WPB,co2_intensity_kg_per_kWh,primary_energy_factor,pv_capacity_kWp,pv_cost_eur
+SFH_wpb_poor,SFH,poor,fossil_boiler,468929.9,108.6,250.6,5000,1,0.3,1.1,4.0,4500
+SFH_wpb_rich,SFH,rich,fossil_boiler,2480314.8,108.6,250.6,12000,1,0.3,1.1,6.0,6500
+SFH_rest_poor,SFH,poor,fossil_boiler,424269.9,108.6,96.4,5000,0,0.3,1.1,4.0,4500
+SFH_rest_rich,SFH,rich,fossil_boiler,2244094.4,108.6,96.4,12000,0,0.3,1.1,6.0,6500
+MFH_wpb_dh_poor,MFH,poor,district_heat,9115.3,53.2,358.0,5000,1,0.0,0.85,1.0,1100
+MFH_wpb_dh_rich,MFH,rich,district_heat,48213.6,53.2,358.0,12000,1,0.0,0.85,1.5,1600
+MFH_wpb_fossil_poor,MFH,poor,fossil_boiler,27345.9,53.2,276.7,5000,1,0.3,1.1,1.0,1100
+MFH_wpb_fossil_rich,MFH,rich,fossil_boiler,144640.9,53.2,276.7,12000,1,0.3,1.1,1.5,1600
+MFH_rest_dh_poor,MFH,poor,district_heat,228996.8,53.2,172.0,5000,0,0.0,0.85,1.0,1100
+MFH_rest_dh_rich,MFH,rich,district_heat,1211234.8,53.2,172.0,12000,0,0.0,0.85,1.5,1600
+MFH_rest_fossil_poor,MFH,poor,fossil_boiler,248079.9,53.2,132.9,5000,0,0.3,1.1,1.0,1100
+MFH_rest_fossil_rich,MFH,rich,fossil_boiler,1312171.1,53.2,132.9,12000,0,0.3,1.1,1.5,1600

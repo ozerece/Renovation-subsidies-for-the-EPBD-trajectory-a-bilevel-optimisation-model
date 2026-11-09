@@ -1,0 +1,12 @@
+quantity,value,unit,dataset,filters,year,download_date,note
+tenure_OWN_share_total,87.2,PC of persons,ilc_lvho02,"geo=PL;unit=PC;hhcomp=TOTAL;tenure=OWN;rskpovth=TOTAL",2025,2026-10-09,"income dimension is rskpovth (TOTAL/B_60/A_60) in the API, matching the ordered incgrp TOTAL/B_MD60/A_MD60"
+tenure_RENT_MKT_share_total,5.0,PC of persons,ilc_lvho02,"geo=PL;unit=PC;hhcomp=TOTAL;tenure=RENT_MKT;rskpovth=TOTAL",2025,2026-10-09,"(1) market-rent tenants, total population"
+tenure_RENT_FR_share_total,7.8,PC of persons,ilc_lvho02,"geo=PL;unit=PC;hhcomp=TOTAL;tenure=RENT_FR;rskpovth=TOTAL",2025,2026-10-09,"reduced-price or free tenants, total population"
+tenure_OWN_share_below60,81.8,PC of persons,ilc_lvho02,"geo=PL;unit=PC;hhcomp=TOTAL;tenure=OWN;rskpovth=B_60",2025,2026-10-09,
+tenure_RENT_MKT_share_below60,6.1,PC of persons,ilc_lvho02,"geo=PL;unit=PC;hhcomp=TOTAL;tenure=RENT_MKT;rskpovth=B_60",2025,2026-10-09,"(2) market-rent share among people below 60% of median income"
+tenure_RENT_FR_share_below60,12.1,PC of persons,ilc_lvho02,"geo=PL;unit=PC;hhcomp=TOTAL;tenure=RENT_FR;rskpovth=B_60",2025,2026-10-09,
+tenure_OWN_share_above60,88.0,PC of persons,ilc_lvho02,"geo=PL;unit=PC;hhcomp=TOTAL;tenure=OWN;rskpovth=A_60",2025,2026-10-09,
+tenure_RENT_MKT_share_above60,4.8,PC of persons,ilc_lvho02,"geo=PL;unit=PC;hhcomp=TOTAL;tenure=RENT_MKT;rskpovth=A_60",2025,2026-10-09,"(2) market-rent share among people above 60% of median income"
+tenure_RENT_FR_share_above60,7.2,PC of persons,ilc_lvho02,"geo=PL;unit=PC;hhcomp=TOTAL;tenure=RENT_FR;rskpovth=A_60",2025,2026-10-09,
+arop_rate_60med,13.2,PC of persons,ilc_li02,"geo=PL;unit=PC;statinfo=MED_EI;rskpovth=B_60;sex=T;age=TOTAL",2025,2026-10-09,"at-risk-of-poverty rate (60% of median); modernised API encodes the ordered indic_il=LI_R_MD60 as statinfo=MED_EI + rskpovth=B_60"
+share_RENT_MKT_tenants_below60,16.2,PC of market-rent tenants,derived,"= 6.1*0.132 / (6.1*0.132 + 4.8*(1-0.132))",2025,2026-10-09,"(3) derived, AROP-weighted; implied total 4.97 vs published 5.0 (rounding) — consistency OK"

@@ -1,0 +1,677 @@
+=== pl12 wave started Fri Nov  6 08:06:05 PM CET 2026 (44 scenarios, par=6, threads=8) ===
+launched pl12 -> affordable_housing/results/cert_logs/run_pl12.log
+launched pl12_afford -> affordable_housing/results/cert_logs/run_pl12_afford.log
+launched pl12_s10 -> affordable_housing/results/cert_logs/run_pl12_s10.log
+launched pl12_s12 -> affordable_housing/results/cert_logs/run_pl12_s12.log
+launched pl12_s13 -> affordable_housing/results/cert_logs/run_pl12_s13.log
+launched pl12_s14 -> affordable_housing/results/cert_logs/run_pl12_s14.log
+launched pl12_s15 -> affordable_housing/results/cert_logs/run_pl12_s15.log
+launched pl12_s20 -> affordable_housing/results/cert_logs/run_pl12_s20.log
+launched pl12_s25 -> affordable_housing/results/cert_logs/run_pl12_s25.log
+launched pl12_s30 -> affordable_housing/results/cert_logs/run_pl12_s30.log
+launched pl12_s40 -> affordable_housing/results/cert_logs/run_pl12_s40.log
+launched pl12_rule_none -> affordable_housing/results/cert_logs/run_pl12_rule_none.log
+launched pl12_rule_cap3 -> affordable_housing/results/cert_logs/run_pl12_rule_cap3.log
+launched pl12_rule_perm -> affordable_housing/results/cert_logs/run_pl12_rule_perm.log
+launched pl12_rule_pl_gross -> affordable_housing/results/cert_logs/run_pl12_rule_pl_gross.log
+launched pl12_w05 -> affordable_housing/results/cert_logs/run_pl12_w05.log
+launched pl12_w10 -> affordable_housing/results/cert_logs/run_pl12_w10.log
+launched pl12_noeed -> affordable_housing/results/cert_logs/run_pl12_noeed.log
+launched pl12_priv16 -> affordable_housing/results/cert_logs/run_pl12_priv16.log
+launched pl12_pubpoor -> affordable_housing/results/cert_logs/run_pl12_pubpoor.log
+launched pl12_ban2040 -> affordable_housing/results/cert_logs/run_pl12_ban2040.log
+launched pl12_r12 -> affordable_housing/results/cert_logs/run_pl12_r12.log
+launched pl12_split -> affordable_housing/results/cert_logs/run_pl12_split.log
+launched pl12_kprb -> affordable_housing/results/cert_logs/run_pl12_kprb.log
+launched pl12_hvac6 -> affordable_housing/results/cert_logs/run_pl12_hvac6.log
+launched pl12_co2half -> affordable_housing/results/cert_logs/run_pl12_co2half.log
+launched pl12_peffrozen -> affordable_housing/results/cert_logs/run_pl12_peffrozen.log
+launched pl12_elec_p20 -> affordable_housing/results/cert_logs/run_pl12_elec_p20.log
+launched pl12_elec_m20 -> affordable_housing/results/cert_logs/run_pl12_elec_m20.log
+launched pl12_woodpef -> affordable_housing/results/cert_logs/run_pl12_woodpef.log
+launched pl12_traj_linear -> affordable_housing/results/cert_logs/run_pl12_traj_linear.log
+launched pl12_traj_soft -> affordable_housing/results/cert_logs/run_pl12_traj_soft.log
+launched pl12_envcap_m20 -> affordable_housing/results/cert_logs/run_pl12_envcap_m20.log
+launched pl12_envcap_p20 -> affordable_housing/results/cert_logs/run_pl12_envcap_p20.log
+launched pl12_invertprices -> affordable_housing/results/cert_logs/run_pl12_invertprices.log
+launched pl12_hpcost_lo -> affordable_housing/results/cert_logs/run_pl12_hpcost_lo.log
+launched pl12_hpcost_hi -> affordable_housing/results/cert_logs/run_pl12_hpcost_hi.log
+launched pl12_sav4666 -> affordable_housing/results/cert_logs/run_pl12_sav4666.log
+launched pl12_inclusive -> affordable_housing/results/cert_logs/run_pl12_inclusive.log
+launched pl12_learn0 -> affordable_housing/results/cert_logs/run_pl12_learn0.log
+launched pl12_envcap_p05 -> affordable_housing/results/cert_logs/run_pl12_envcap_p05.log
+launched pl12_envcap_p10 -> affordable_housing/results/cert_logs/run_pl12_envcap_p10.log
+launched pl12_envcap_p30 -> affordable_housing/results/cert_logs/run_pl12_envcap_p30.log
+launched pl12_envcap_p50 -> affordable_housing/results/cert_logs/run_pl12_envcap_p50.log
+44 run(s) launched; done-stamps in affordable_housing/results/cert_logs/pl11_done.txt
+done pl12 0 2026-11-06 20:08
+done pl12_afford 0 2026-11-06 20:08
+done pl12_s10 0 2026-11-06 20:07
+done pl12_s12 0 2026-11-06 20:07
+done pl12_s13 0 2026-11-06 20:07
+done pl12_s14 0 2026-11-06 20:07
+done pl12_s15 0 2026-11-06 20:08
+done pl12_s20 0 2026-11-06 20:10
+done pl12_s25 0 2026-11-06 20:10
+done pl12_s30 0 2026-11-06 20:10
+done pl12_s40 0 2026-11-06 20:11
+done pl12_rule_none 0 2026-11-06 20:11
+done pl12_rule_cap3 0 2026-11-06 20:11
+done pl12_rule_perm 0 2026-11-06 20:12
+done pl12_rule_pl_gross 0 2026-11-06 20:12
+done pl12_w05 0 2026-11-06 20:12
+done pl12_w10 0 2026-11-06 20:13
+done pl12_noeed 0 2026-11-06 20:13
+done pl12_priv16 0 2026-11-06 20:13
+done pl12_pubpoor 1 2026-11-06 20:12
+done pl12_ban2040 0 2026-11-06 20:15
+done pl12_r12 0 2026-11-06 20:14
+done pl12_split 0 2026-11-06 20:14
+done pl12_kprb 0 2026-11-06 20:15
+done pl12_hvac6 0 2026-11-06 20:15
+done pl12_co2half 0 2026-11-06 20:14
+done pl12_peffrozen 0 2026-11-06 20:15
+done pl12_elec_p20 0 2026-11-06 20:15
+done pl12_elec_m20 0 2026-11-06 20:16
+done pl12_woodpef 0 2026-11-06 20:16
+done pl12_traj_linear 0 2026-11-06 20:17
+done pl12_traj_soft 0 2026-11-06 20:17
+done pl12_envcap_m20 0 2026-11-06 20:16
+done pl12_envcap_p20 0 2026-11-06 20:18
+done pl12_invertprices 0 2026-11-06 20:17
+done pl12_hpcost_lo 0 2026-11-06 20:19
+done pl12_hpcost_hi 0 2026-11-06 20:18
+done pl12_sav4666 0 2026-11-06 20:20
+done pl12_inclusive 0 2026-11-06 20:20
+done pl12_learn0 0 2026-11-06 20:20
+done pl12_envcap_p05 0 2026-11-06 20:20
+done pl12_envcap_p10 0 2026-11-06 20:20
+done pl12_envcap_p30 0 2026-11-06 20:20
+done pl12_envcap_p50 0 2026-11-06 20:21
+launched pl12_ms_record -> affordable_housing/results/cert_logs/run_pl12_ms_record.log
+launched pl12_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_ms_pl10cert.log
+launched pl12_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_ms_hpheavy.log
+launched pl12_afford_ms_record -> affordable_housing/results/cert_logs/run_pl12_afford_ms_record.log
+launched pl12_afford_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_afford_ms_pl10cert.log
+launched pl12_afford_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_afford_ms_hpheavy.log
+launched pl12_s10_ms_record -> affordable_housing/results/cert_logs/run_pl12_s10_ms_record.log
+launched pl12_s10_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_s10_ms_pl10cert.log
+launched pl12_s10_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_s10_ms_hpheavy.log
+launched pl12_s12_ms_record -> affordable_housing/results/cert_logs/run_pl12_s12_ms_record.log
+launched pl12_s12_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_s12_ms_pl10cert.log
+launched pl12_s12_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_s12_ms_hpheavy.log
+launched pl12_s13_ms_record -> affordable_housing/results/cert_logs/run_pl12_s13_ms_record.log
+launched pl12_s13_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_s13_ms_pl10cert.log
+launched pl12_s13_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_s13_ms_hpheavy.log
+launched pl12_s14_ms_record -> affordable_housing/results/cert_logs/run_pl12_s14_ms_record.log
+launched pl12_s14_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_s14_ms_pl10cert.log
+launched pl12_s14_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_s14_ms_hpheavy.log
+launched pl12_s15_ms_record -> affordable_housing/results/cert_logs/run_pl12_s15_ms_record.log
+launched pl12_s15_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_s15_ms_pl10cert.log
+launched pl12_s15_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_s15_ms_hpheavy.log
+launched pl12_s20_ms_record -> affordable_housing/results/cert_logs/run_pl12_s20_ms_record.log
+launched pl12_s20_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_s20_ms_pl10cert.log
+launched pl12_s20_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_s20_ms_hpheavy.log
+launched pl12_s25_ms_record -> affordable_housing/results/cert_logs/run_pl12_s25_ms_record.log
+launched pl12_s25_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_s25_ms_pl10cert.log
+launched pl12_s25_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_s25_ms_hpheavy.log
+launched pl12_s30_ms_record -> affordable_housing/results/cert_logs/run_pl12_s30_ms_record.log
+launched pl12_s30_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_s30_ms_pl10cert.log
+launched pl12_s30_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_s30_ms_hpheavy.log
+launched pl12_s40_ms_record -> affordable_housing/results/cert_logs/run_pl12_s40_ms_record.log
+launched pl12_s40_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_s40_ms_pl10cert.log
+launched pl12_s40_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_s40_ms_hpheavy.log
+launched pl12_rule_none_ms_record -> affordable_housing/results/cert_logs/run_pl12_rule_none_ms_record.log
+launched pl12_rule_none_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_rule_none_ms_pl10cert.log
+launched pl12_rule_none_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_rule_none_ms_hpheavy.log
+launched pl12_rule_cap3_ms_record -> affordable_housing/results/cert_logs/run_pl12_rule_cap3_ms_record.log
+launched pl12_rule_cap3_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_rule_cap3_ms_pl10cert.log
+launched pl12_rule_cap3_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_rule_cap3_ms_hpheavy.log
+launched pl12_rule_perm_ms_record -> affordable_housing/results/cert_logs/run_pl12_rule_perm_ms_record.log
+launched pl12_rule_perm_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_rule_perm_ms_pl10cert.log
+launched pl12_rule_perm_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_rule_perm_ms_hpheavy.log
+launched pl12_rule_pl_gross_ms_record -> affordable_housing/results/cert_logs/run_pl12_rule_pl_gross_ms_record.log
+launched pl12_rule_pl_gross_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_rule_pl_gross_ms_pl10cert.log
+launched pl12_rule_pl_gross_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_rule_pl_gross_ms_hpheavy.log
+launched pl12_w05_ms_record -> affordable_housing/results/cert_logs/run_pl12_w05_ms_record.log
+launched pl12_w05_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_w05_ms_pl10cert.log
+launched pl12_w05_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_w05_ms_hpheavy.log
+launched pl12_w10_ms_record -> affordable_housing/results/cert_logs/run_pl12_w10_ms_record.log
+launched pl12_w10_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_w10_ms_pl10cert.log
+launched pl12_w10_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_w10_ms_hpheavy.log
+launched pl12_noeed_ms_record -> affordable_housing/results/cert_logs/run_pl12_noeed_ms_record.log
+launched pl12_noeed_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_noeed_ms_pl10cert.log
+launched pl12_noeed_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_noeed_ms_hpheavy.log
+launched pl12_priv16_ms_record -> affordable_housing/results/cert_logs/run_pl12_priv16_ms_record.log
+launched pl12_priv16_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_priv16_ms_pl10cert.log
+launched pl12_priv16_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_priv16_ms_hpheavy.log
+launched pl12_pubpoor_ms_record -> affordable_housing/results/cert_logs/run_pl12_pubpoor_ms_record.log
+launched pl12_pubpoor_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_pubpoor_ms_pl10cert.log
+launched pl12_pubpoor_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_pubpoor_ms_hpheavy.log
+launched pl12_ban2040_ms_record -> affordable_housing/results/cert_logs/run_pl12_ban2040_ms_record.log
+launched pl12_ban2040_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_ban2040_ms_pl10cert.log
+launched pl12_ban2040_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_ban2040_ms_hpheavy.log
+launched pl12_r12_ms_record -> affordable_housing/results/cert_logs/run_pl12_r12_ms_record.log
+launched pl12_r12_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_r12_ms_pl10cert.log
+launched pl12_r12_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_r12_ms_hpheavy.log
+launched pl12_split_ms_record -> affordable_housing/results/cert_logs/run_pl12_split_ms_record.log
+launched pl12_split_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_split_ms_pl10cert.log
+launched pl12_split_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_split_ms_hpheavy.log
+launched pl12_kprb_ms_record -> affordable_housing/results/cert_logs/run_pl12_kprb_ms_record.log
+launched pl12_kprb_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_kprb_ms_pl10cert.log
+launched pl12_kprb_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_kprb_ms_hpheavy.log
+launched pl12_hvac6_ms_record -> affordable_housing/results/cert_logs/run_pl12_hvac6_ms_record.log
+launched pl12_hvac6_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_hvac6_ms_pl10cert.log
+launched pl12_hvac6_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_hvac6_ms_hpheavy.log
+launched pl12_co2half_ms_record -> affordable_housing/results/cert_logs/run_pl12_co2half_ms_record.log
+launched pl12_co2half_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_co2half_ms_pl10cert.log
+launched pl12_co2half_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_co2half_ms_hpheavy.log
+launched pl12_peffrozen_ms_record -> affordable_housing/results/cert_logs/run_pl12_peffrozen_ms_record.log
+launched pl12_peffrozen_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_peffrozen_ms_pl10cert.log
+launched pl12_peffrozen_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_peffrozen_ms_hpheavy.log
+launched pl12_elec_p20_ms_record -> affordable_housing/results/cert_logs/run_pl12_elec_p20_ms_record.log
+launched pl12_elec_p20_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_elec_p20_ms_pl10cert.log
+launched pl12_elec_p20_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_elec_p20_ms_hpheavy.log
+launched pl12_elec_m20_ms_record -> affordable_housing/results/cert_logs/run_pl12_elec_m20_ms_record.log
+launched pl12_elec_m20_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_elec_m20_ms_pl10cert.log
+launched pl12_elec_m20_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_elec_m20_ms_hpheavy.log
+launched pl12_woodpef_ms_record -> affordable_housing/results/cert_logs/run_pl12_woodpef_ms_record.log
+launched pl12_woodpef_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_woodpef_ms_pl10cert.log
+launched pl12_woodpef_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_woodpef_ms_hpheavy.log
+launched pl12_traj_linear_ms_record -> affordable_housing/results/cert_logs/run_pl12_traj_linear_ms_record.log
+launched pl12_traj_linear_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_traj_linear_ms_pl10cert.log
+launched pl12_traj_linear_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_traj_linear_ms_hpheavy.log
+launched pl12_traj_soft_ms_record -> affordable_housing/results/cert_logs/run_pl12_traj_soft_ms_record.log
+launched pl12_traj_soft_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_traj_soft_ms_pl10cert.log
+launched pl12_traj_soft_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_traj_soft_ms_hpheavy.log
+launched pl12_envcap_m20_ms_record -> affordable_housing/results/cert_logs/run_pl12_envcap_m20_ms_record.log
+launched pl12_envcap_m20_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_envcap_m20_ms_pl10cert.log
+launched pl12_envcap_m20_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_envcap_m20_ms_hpheavy.log
+launched pl12_envcap_p20_ms_record -> affordable_housing/results/cert_logs/run_pl12_envcap_p20_ms_record.log
+launched pl12_envcap_p20_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_envcap_p20_ms_pl10cert.log
+launched pl12_envcap_p20_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_envcap_p20_ms_hpheavy.log
+launched pl12_invertprices_ms_record -> affordable_housing/results/cert_logs/run_pl12_invertprices_ms_record.log
+launched pl12_invertprices_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_invertprices_ms_pl10cert.log
+launched pl12_invertprices_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_invertprices_ms_hpheavy.log
+launched pl12_hpcost_lo_ms_record -> affordable_housing/results/cert_logs/run_pl12_hpcost_lo_ms_record.log
+launched pl12_hpcost_lo_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_hpcost_lo_ms_pl10cert.log
+launched pl12_hpcost_lo_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_hpcost_lo_ms_hpheavy.log
+launched pl12_hpcost_hi_ms_record -> affordable_housing/results/cert_logs/run_pl12_hpcost_hi_ms_record.log
+launched pl12_hpcost_hi_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_hpcost_hi_ms_pl10cert.log
+launched pl12_hpcost_hi_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_hpcost_hi_ms_hpheavy.log
+launched pl12_sav4666_ms_record -> affordable_housing/results/cert_logs/run_pl12_sav4666_ms_record.log
+launched pl12_sav4666_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_sav4666_ms_pl10cert.log
+launched pl12_sav4666_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_sav4666_ms_hpheavy.log
+launched pl12_inclusive_ms_record -> affordable_housing/results/cert_logs/run_pl12_inclusive_ms_record.log
+launched pl12_inclusive_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_inclusive_ms_pl10cert.log
+launched pl12_inclusive_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_inclusive_ms_hpheavy.log
+launched pl12_learn0_ms_record -> affordable_housing/results/cert_logs/run_pl12_learn0_ms_record.log
+launched pl12_learn0_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_learn0_ms_pl10cert.log
+launched pl12_learn0_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_learn0_ms_hpheavy.log
+launched pl12_envcap_p05_ms_record -> affordable_housing/results/cert_logs/run_pl12_envcap_p05_ms_record.log
+launched pl12_envcap_p05_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_envcap_p05_ms_pl10cert.log
+launched pl12_envcap_p05_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_envcap_p05_ms_hpheavy.log
+launched pl12_envcap_p10_ms_record -> affordable_housing/results/cert_logs/run_pl12_envcap_p10_ms_record.log
+launched pl12_envcap_p10_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_envcap_p10_ms_pl10cert.log
+launched pl12_envcap_p10_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_envcap_p10_ms_hpheavy.log
+launched pl12_envcap_p30_ms_record -> affordable_housing/results/cert_logs/run_pl12_envcap_p30_ms_record.log
+launched pl12_envcap_p30_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_envcap_p30_ms_pl10cert.log
+launched pl12_envcap_p30_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_envcap_p30_ms_hpheavy.log
+launched pl12_envcap_p50_ms_record -> affordable_housing/results/cert_logs/run_pl12_envcap_p50_ms_record.log
+launched pl12_envcap_p50_ms_pl10cert -> affordable_housing/results/cert_logs/run_pl12_envcap_p50_ms_pl10cert.log
+launched pl12_envcap_p50_ms_hpheavy -> affordable_housing/results/cert_logs/run_pl12_envcap_p50_ms_hpheavy.log
+132 run(s) launched; done-stamps in affordable_housing/results/cert_logs/pl11_done.txt
+done pl12_ms_record 0 2026-11-06 20:22
+done pl12_ms_pl10cert 0 2026-11-06 20:22
+done pl12_ms_hpheavy 0 2026-11-06 20:23
+done pl12_afford_ms_record 0 2026-11-06 20:23
+done pl12_afford_ms_pl10cert 0 2026-11-06 20:23
+done pl12_afford_ms_hpheavy 0 2026-11-06 20:23
+done pl12_s10_ms_record 0 2026-11-06 20:24
+done pl12_s10_ms_pl10cert 0 2026-11-06 20:24
+done pl12_s10_ms_hpheavy 0 2026-11-06 20:24
+done pl12_s12_ms_record 0 2026-11-06 20:24
+done pl12_s12_ms_pl10cert 0 2026-11-06 20:24
+done pl12_s12_ms_hpheavy 0 2026-11-06 20:24
+done pl12_s13_ms_record 0 2026-11-06 20:25
+done pl12_s13_ms_pl10cert 0 2026-11-06 20:25
+done pl12_s13_ms_hpheavy 0 2026-11-06 20:25
+done pl12_s14_ms_record 0 2026-11-06 20:25
+done pl12_s14_ms_pl10cert 0 2026-11-06 20:25
+done pl12_s14_ms_hpheavy 0 2026-11-06 20:25
+done pl12_s15_ms_record 0 2026-11-06 20:26
+done pl12_s15_ms_pl10cert 0 2026-11-06 20:26
+done pl12_s15_ms_hpheavy 0 2026-11-06 20:26
+done pl12_s20_ms_record 0 2026-11-06 20:26
+done pl12_s20_ms_pl10cert 0 2026-11-06 20:26
+done pl12_s20_ms_hpheavy 0 2026-11-06 20:26
+done pl12_s25_ms_record 0 2026-11-06 20:27
+done pl12_s25_ms_pl10cert 0 2026-11-06 20:27
+done pl12_s25_ms_hpheavy 0 2026-11-06 20:27
+done pl12_s30_ms_record 0 2026-11-06 20:27
+done pl12_s30_ms_pl10cert 0 2026-11-06 20:27
+done pl12_s30_ms_hpheavy 0 2026-11-06 20:27
+done pl12_s40_ms_record 0 2026-11-06 20:28
+done pl12_s40_ms_pl10cert 0 2026-11-06 20:28
+done pl12_s40_ms_hpheavy 0 2026-11-06 20:28
+done pl12_rule_none_ms_record 0 2026-11-06 20:29
+done pl12_rule_none_ms_pl10cert 0 2026-11-06 20:29
+done pl12_rule_none_ms_hpheavy 0 2026-11-06 20:29
+done pl12_rule_cap3_ms_record 0 2026-11-06 20:30
+done pl12_rule_cap3_ms_pl10cert 0 2026-11-06 20:30
+done pl12_rule_cap3_ms_hpheavy 0 2026-11-06 20:30
+done pl12_rule_perm_ms_record 0 2026-11-06 20:30
+done pl12_rule_perm_ms_pl10cert 0 2026-11-06 20:30
+done pl12_rule_perm_ms_hpheavy 0 2026-11-06 20:30
+done pl12_rule_pl_gross_ms_record 0 2026-11-06 20:31
+done pl12_rule_pl_gross_ms_pl10cert 0 2026-11-06 20:31
+done pl12_rule_pl_gross_ms_hpheavy 0 2026-11-06 20:31
+done pl12_w05_ms_record 0 2026-11-06 20:31
+done pl12_w05_ms_pl10cert 0 2026-11-06 20:31
+done pl12_w05_ms_hpheavy 0 2026-11-06 20:31
+done pl12_w10_ms_record 0 2026-11-06 20:32
+done pl12_w10_ms_pl10cert 0 2026-11-06 20:32
+done pl12_w10_ms_hpheavy 0 2026-11-06 20:32
+done pl12_noeed_ms_record 0 2026-11-06 20:32
+done pl12_noeed_ms_pl10cert 0 2026-11-06 20:32
+done pl12_noeed_ms_hpheavy 0 2026-11-06 20:32
+done pl12_priv16_ms_record 0 2026-11-06 20:33
+done pl12_priv16_ms_pl10cert 0 2026-11-06 20:33
+done pl12_priv16_ms_hpheavy 0 2026-11-06 20:33
+done pl12_pubpoor_ms_record 1 2026-11-06 20:33
+done pl12_pubpoor_ms_pl10cert 1 2026-11-06 20:33
+done pl12_pubpoor_ms_hpheavy 1 2026-11-06 20:33
+done pl12_ban2040_ms_record 0 2026-11-06 20:34
+done pl12_ban2040_ms_pl10cert 0 2026-11-06 20:34
+done pl12_ban2040_ms_hpheavy 0 2026-11-06 20:34
+done pl12_r12_ms_record 0 2026-11-06 20:34
+done pl12_r12_ms_pl10cert 0 2026-11-06 20:34
+done pl12_r12_ms_hpheavy 0 2026-11-06 20:34
+done pl12_split_ms_record 0 2026-11-06 20:35
+done pl12_split_ms_pl10cert 0 2026-11-06 20:35
+done pl12_split_ms_hpheavy 0 2026-11-06 20:35
+done pl12_kprb_ms_record 0 2026-11-06 20:36
+done pl12_kprb_ms_pl10cert 0 2026-11-06 20:36
+done pl12_kprb_ms_hpheavy 0 2026-11-06 20:36
+done pl12_hvac6_ms_record 0 2026-11-06 20:36
+done pl12_hvac6_ms_pl10cert 0 2026-11-06 20:36
+done pl12_hvac6_ms_hpheavy 0 2026-11-06 20:36
+done pl12_co2half_ms_record 0 2026-11-06 20:37
+done pl12_co2half_ms_pl10cert 0 2026-11-06 20:37
+done pl12_co2half_ms_hpheavy 0 2026-11-06 20:37
+done pl12_peffrozen_ms_record 0 2026-11-06 20:37
+done pl12_peffrozen_ms_pl10cert 0 2026-11-06 20:37
+done pl12_peffrozen_ms_hpheavy 0 2026-11-06 20:37
+done pl12_elec_p20_ms_record 0 2026-11-06 20:38
+done pl12_elec_p20_ms_pl10cert 0 2026-11-06 20:38
+done pl12_elec_p20_ms_hpheavy 0 2026-11-06 20:38
+done pl12_elec_m20_ms_record 0 2026-11-06 20:39
+done pl12_elec_m20_ms_pl10cert 0 2026-11-06 20:39
+done pl12_elec_m20_ms_hpheavy 0 2026-11-06 20:39
+done pl12_woodpef_ms_record 0 2026-11-06 20:39
+done pl12_woodpef_ms_pl10cert 0 2026-11-06 20:39
+done pl12_woodpef_ms_hpheavy 0 2026-11-06 20:39
+done pl12_traj_linear_ms_record 0 2026-11-06 20:40
+done pl12_traj_linear_ms_pl10cert 0 2026-11-06 20:40
+done pl12_traj_linear_ms_hpheavy 0 2026-11-06 20:40
+done pl12_traj_soft_ms_record 0 2026-11-06 20:41
+done pl12_traj_soft_ms_pl10cert 0 2026-11-06 20:41
+done pl12_traj_soft_ms_hpheavy 0 2026-11-06 20:41
+done pl12_envcap_m20_ms_record 0 2026-11-06 20:41
+done pl12_envcap_m20_ms_pl10cert 0 2026-11-06 20:41
+done pl12_envcap_m20_ms_hpheavy 0 2026-11-06 20:41
+done pl12_envcap_p20_ms_record 0 2026-11-06 20:43
+done pl12_envcap_p20_ms_pl10cert 0 2026-11-06 20:43
+done pl12_envcap_p20_ms_hpheavy 0 2026-11-06 20:42
+done pl12_invertprices_ms_record 0 2026-11-06 20:42
+done pl12_invertprices_ms_pl10cert 0 2026-11-06 20:43
+done pl12_invertprices_ms_hpheavy 0 2026-11-06 20:43
+done pl12_hpcost_lo_ms_record 0 2026-11-06 20:43
+done pl12_hpcost_lo_ms_pl10cert 0 2026-11-06 20:44
+done pl12_hpcost_lo_ms_hpheavy 0 2026-11-06 20:44
+done pl12_hpcost_hi_ms_record 0 2026-11-06 20:44
+done pl12_hpcost_hi_ms_pl10cert 0 2026-11-06 20:44
+done pl12_hpcost_hi_ms_hpheavy 0 2026-11-06 20:44
+done pl12_sav4666_ms_record 0 2026-11-06 20:44
+done pl12_sav4666_ms_pl10cert 0 2026-11-06 20:45
+done pl12_sav4666_ms_hpheavy 0 2026-11-06 20:46
+done pl12_inclusive_ms_record 0 2026-11-06 20:45
+done pl12_inclusive_ms_pl10cert 0 2026-11-06 20:45
+done pl12_inclusive_ms_hpheavy 0 2026-11-06 20:45
+done pl12_learn0_ms_record 0 2026-11-06 20:45
+done pl12_learn0_ms_pl10cert 0 2026-11-06 20:46
+done pl12_learn0_ms_hpheavy 0 2026-11-06 20:46
+done pl12_envcap_p05_ms_record 0 2026-11-06 20:46
+done pl12_envcap_p05_ms_pl10cert 0 2026-11-06 20:46
+done pl12_envcap_p05_ms_hpheavy 0 2026-11-06 20:46
+done pl12_envcap_p10_ms_record 0 2026-11-06 20:47
+done pl12_envcap_p10_ms_pl10cert 0 2026-11-06 20:47
+done pl12_envcap_p10_ms_hpheavy 0 2026-11-06 20:47
+done pl12_envcap_p30_ms_record 0 2026-11-06 20:48
+done pl12_envcap_p30_ms_pl10cert 0 2026-11-06 20:48
+done pl12_envcap_p30_ms_hpheavy 0 2026-11-06 20:48
+done pl12_envcap_p50_ms_record 0 2026-11-06 20:49
+done pl12_envcap_p50_ms_pl10cert 0 2026-11-06 20:49
+done pl12_envcap_p50_ms_hpheavy 0 2026-11-06 20:49
+--- stage 1 (searches) done Fri Nov  6 08:49:34 PM CET 2026 ---
+  max-σ evaluation for pl12_s10 (no feasible run)
+>>> P4_OUT_TAG=xe_max — outputs redirected to out/scenarios/pl12_s10__xe_max <<<
+>>> P4_GRB_THREADS=8: Gurobi thread limit applied to follower and master models <<<
+#### EVAL xe_max scenario=pl12_s10 sigma=sigma_start_max.csv
+#### spending 49478.0 M EUR  feasible=false  equity=0.317  wpb=0.725  afford_ok=false
+####   2030: E= 221.39 target= 222.12 margin= +0.73 slack
+####   2035: E= 182.71 target= 211.55 margin=+28.84 slack
+####   2040: E= 141.70 target= 158.66 margin=+16.96 slack
+####   2050: E=  72.58 target= 108.42 margin=+35.84 slack
+#### 2050 cumulative shares by group (env | HP | DH | PV) and discounted subsidy (M EUR):
+####   owner_high      env 0.823 | HP 0.385 | DH 0.000 | PV 0.000 | subsidy  32411.6
+####   owner_low       env 0.873 | HP 0.668 | DH 0.000 | PV 0.000 | subsidy  15236.2
+####   rented_private  env 0.328 | HP 0.000 | DH 0.000 | PV 0.000 | subsidy      0.0
+####   rented_public   env 0.757 | HP 0.386 | DH 0.000 | PV 0.000 | subsidy   1830.2
+#### 2020-2030 envelope renovation share by group:
+####   owner_high      0.1037
+####   owner_low       0.1037
+####   rented_private  0.0000
+####   rented_public   0.1037
+#### primary energy path (year: kWh/m2): 2020:264.43 2026:243.88 2030:221.39 2035:182.71 2040:141.7 2050:72.58 2060:35.83
+#### history subsidy spending (fixed periods, not in the objective): nominal 5021.7 M EUR, discounted to 2026 5996.1 M EUR
+#### SFH incumbent after the history (η, fuel price EUR/kWh, CO2 kg/kWh): SFH_wpb_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_wpb_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18
+#### done xe_max
+(full log: affordable_housing/results/cert_logs/eval_pl12_s10_xe_max.log; exit 0)
+  max-σ evaluation for pl12_s12 (no feasible run)
+>>> P4_OUT_TAG=xe_max — outputs redirected to out/scenarios/pl12_s12__xe_max <<<
+>>> P4_GRB_THREADS=8: Gurobi thread limit applied to follower and master models <<<
+#### EVAL xe_max scenario=pl12_s12 sigma=sigma_start_max.csv
+#### spending 49478.0 M EUR  feasible=false  equity=0.317  wpb=0.725  afford_ok=false
+####   2030: E= 221.39 target= 222.12 margin= +0.73 slack
+####   2035: E= 182.71 target= 211.55 margin=+28.84 slack
+####   2040: E= 141.70 target= 158.66 margin=+16.96 slack
+####   2050: E=  72.58 target= 108.42 margin=+35.84 slack
+#### 2050 cumulative shares by group (env | HP | DH | PV) and discounted subsidy (M EUR):
+####   owner_high      env 0.823 | HP 0.385 | DH 0.000 | PV 0.000 | subsidy  32411.6
+####   owner_low       env 0.873 | HP 0.668 | DH 0.000 | PV 0.000 | subsidy  15236.2
+####   rented_private  env 0.328 | HP 0.000 | DH 0.000 | PV 0.000 | subsidy      0.0
+####   rented_public   env 0.757 | HP 0.386 | DH 0.000 | PV 0.000 | subsidy   1830.2
+#### 2020-2030 envelope renovation share by group:
+####   owner_high      0.1037
+####   owner_low       0.1037
+####   rented_private  0.0000
+####   rented_public   0.1037
+#### primary energy path (year: kWh/m2): 2020:264.43 2026:243.88 2030:221.39 2035:182.71 2040:141.7 2050:72.58 2060:35.83
+#### history subsidy spending (fixed periods, not in the objective): nominal 5021.7 M EUR, discounted to 2026 5996.1 M EUR
+#### SFH incumbent after the history (η, fuel price EUR/kWh, CO2 kg/kWh): SFH_wpb_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_wpb_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18
+#### done xe_max
+(full log: affordable_housing/results/cert_logs/eval_pl12_s12_xe_max.log; exit 0)
+  max-σ evaluation for pl12_s13 (no feasible run)
+>>> P4_OUT_TAG=xe_max — outputs redirected to out/scenarios/pl12_s13__xe_max <<<
+>>> P4_GRB_THREADS=8: Gurobi thread limit applied to follower and master models <<<
+#### EVAL xe_max scenario=pl12_s13 sigma=sigma_start_max.csv
+#### spending 49478.0 M EUR  feasible=false  equity=0.317  wpb=0.725  afford_ok=false
+####   2030: E= 221.39 target= 222.12 margin= +0.73 slack
+####   2035: E= 182.71 target= 211.55 margin=+28.84 slack
+####   2040: E= 141.70 target= 158.66 margin=+16.96 slack
+####   2050: E=  72.58 target= 108.42 margin=+35.84 slack
+#### 2050 cumulative shares by group (env | HP | DH | PV) and discounted subsidy (M EUR):
+####   owner_high      env 0.823 | HP 0.385 | DH 0.000 | PV 0.000 | subsidy  32411.6
+####   owner_low       env 0.873 | HP 0.668 | DH 0.000 | PV 0.000 | subsidy  15236.2
+####   rented_private  env 0.328 | HP 0.000 | DH 0.000 | PV 0.000 | subsidy      0.0
+####   rented_public   env 0.757 | HP 0.386 | DH 0.000 | PV 0.000 | subsidy   1830.2
+#### 2020-2030 envelope renovation share by group:
+####   owner_high      0.1037
+####   owner_low       0.1037
+####   rented_private  0.0000
+####   rented_public   0.1037
+#### primary energy path (year: kWh/m2): 2020:264.43 2026:243.88 2030:221.39 2035:182.71 2040:141.7 2050:72.58 2060:35.83
+#### history subsidy spending (fixed periods, not in the objective): nominal 5021.7 M EUR, discounted to 2026 5996.1 M EUR
+#### SFH incumbent after the history (η, fuel price EUR/kWh, CO2 kg/kWh): SFH_wpb_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_wpb_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18
+#### done xe_max
+(full log: affordable_housing/results/cert_logs/eval_pl12_s13_xe_max.log; exit 0)
+  max-σ evaluation for pl12_s14 (no feasible run)
+>>> P4_OUT_TAG=xe_max — outputs redirected to out/scenarios/pl12_s14__xe_max <<<
+>>> P4_GRB_THREADS=8: Gurobi thread limit applied to follower and master models <<<
+#### EVAL xe_max scenario=pl12_s14 sigma=sigma_start_max.csv
+#### spending 49478.0 M EUR  feasible=false  equity=0.317  wpb=0.725  afford_ok=false
+####   2030: E= 221.39 target= 222.12 margin= +0.73 slack
+####   2035: E= 182.71 target= 211.55 margin=+28.84 slack
+####   2040: E= 141.70 target= 158.66 margin=+16.96 slack
+####   2050: E=  72.58 target= 108.42 margin=+35.84 slack
+#### 2050 cumulative shares by group (env | HP | DH | PV) and discounted subsidy (M EUR):
+####   owner_high      env 0.823 | HP 0.385 | DH 0.000 | PV 0.000 | subsidy  32411.6
+####   owner_low       env 0.873 | HP 0.668 | DH 0.000 | PV 0.000 | subsidy  15236.2
+####   rented_private  env 0.328 | HP 0.000 | DH 0.000 | PV 0.000 | subsidy      0.0
+####   rented_public   env 0.757 | HP 0.386 | DH 0.000 | PV 0.000 | subsidy   1830.2
+#### 2020-2030 envelope renovation share by group:
+####   owner_high      0.1037
+####   owner_low       0.1037
+####   rented_private  0.0000
+####   rented_public   0.1037
+#### primary energy path (year: kWh/m2): 2020:264.43 2026:243.88 2030:221.39 2035:182.71 2040:141.7 2050:72.58 2060:35.83
+#### history subsidy spending (fixed periods, not in the objective): nominal 5021.7 M EUR, discounted to 2026 5996.1 M EUR
+#### SFH incumbent after the history (η, fuel price EUR/kWh, CO2 kg/kWh): SFH_wpb_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_wpb_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18
+#### done xe_max
+(full log: affordable_housing/results/cert_logs/eval_pl12_s14_xe_max.log; exit 0)
+  max-σ evaluation for pl12_s15 (no feasible run)
+>>> P4_OUT_TAG=xe_max — outputs redirected to out/scenarios/pl12_s15__xe_max <<<
+>>> P4_GRB_THREADS=8: Gurobi thread limit applied to follower and master models <<<
+#### EVAL xe_max scenario=pl12_s15 sigma=sigma_start_max.csv
+#### spending 49478.0 M EUR  feasible=false  equity=0.317  wpb=0.725  afford_ok=false
+####   2030: E= 221.39 target= 222.12 margin= +0.73 slack
+####   2035: E= 182.71 target= 211.55 margin=+28.84 slack
+####   2040: E= 141.70 target= 158.66 margin=+16.96 slack
+####   2050: E=  72.58 target= 108.42 margin=+35.84 slack
+#### 2050 cumulative shares by group (env | HP | DH | PV) and discounted subsidy (M EUR):
+####   owner_high      env 0.823 | HP 0.385 | DH 0.000 | PV 0.000 | subsidy  32411.6
+####   owner_low       env 0.873 | HP 0.668 | DH 0.000 | PV 0.000 | subsidy  15236.2
+####   rented_private  env 0.328 | HP 0.000 | DH 0.000 | PV 0.000 | subsidy      0.0
+####   rented_public   env 0.757 | HP 0.386 | DH 0.000 | PV 0.000 | subsidy   1830.2
+#### 2020-2030 envelope renovation share by group:
+####   owner_high      0.1037
+####   owner_low       0.1037
+####   rented_private  0.0000
+####   rented_public   0.1037
+#### primary energy path (year: kWh/m2): 2020:264.43 2026:243.88 2030:221.39 2035:182.71 2040:141.7 2050:72.58 2060:35.83
+#### history subsidy spending (fixed periods, not in the objective): nominal 5021.7 M EUR, discounted to 2026 5996.1 M EUR
+#### SFH incumbent after the history (η, fuel price EUR/kWh, CO2 kg/kWh): SFH_wpb_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_wpb_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18
+#### done xe_max
+(full log: affordable_housing/results/cert_logs/eval_pl12_s15_xe_max.log; exit 0)
+  max-σ evaluation for pl12_pubpoor (no feasible run)
+ERROR: LoadError: history_adoption_file: unknown MFH_wpb_dh_poor_rent_pub_rich/envelope_light
+>>> P4_OUT_TAG=xe_max — outputs redirected to out/scenarios/pl12_pubpoor__xe_max <<<
+(full log: affordable_housing/results/cert_logs/eval_pl12_pubpoor_xe_max.log; exit 1)
+  max-σ evaluation for pl12_r12 (no feasible run)
+>>> P4_OUT_TAG=xe_max — outputs redirected to out/scenarios/pl12_r12__xe_max <<<
+>>> P4_GRB_THREADS=8: Gurobi thread limit applied to follower and master models <<<
+#### EVAL xe_max scenario=pl12_r12 sigma=sigma_start_max.csv
+#### spending 42925.6 M EUR  feasible=false  equity=0.354  wpb=0.761  afford_ok=true
+####   2030: E= 223.91 target= 222.12 margin= -1.79 VIOLATED
+####   2035: E= 189.85 target= 211.55 margin=+21.70 slack
+####   2040: E= 150.76 target= 158.66 margin= +7.90 slack
+####   2050: E=  79.51 target= 108.42 margin=+28.91 slack
+#### 2050 cumulative shares by group (env | HP | DH | PV) and discounted subsidy (M EUR):
+####   owner_high      env 0.735 | HP 0.394 | DH 0.000 | PV 0.000 | subsidy  26316.5
+####   owner_low       env 0.873 | HP 0.620 | DH 0.000 | PV 0.000 | subsidy  14779.0
+####   rented_private  env 0.328 | HP 0.000 | DH 0.000 | PV 0.000 | subsidy      0.0
+####   rented_public   env 0.757 | HP 0.386 | DH 0.000 | PV 0.000 | subsidy   1830.2
+#### 2020-2030 envelope renovation share by group:
+####   owner_high      0.0698
+####   owner_low       0.1037
+####   rented_private  0.0000
+####   rented_public   0.1037
+#### primary energy path (year: kWh/m2): 2020:264.43 2026:243.88 2030:223.91 2035:189.85 2040:150.76 2050:79.51 2060:40.11
+#### history subsidy spending (fixed periods, not in the objective): nominal 5021.7 M EUR, discounted to 2026 5996.1 M EUR
+#### SFH incumbent after the history (η, fuel price EUR/kWh, CO2 kg/kWh): SFH_wpb_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_wpb_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18
+#### done xe_max
+(full log: affordable_housing/results/cert_logs/eval_pl12_r12_xe_max.log; exit 0)
+  max-σ evaluation for pl12_co2half (no feasible run)
+>>> P4_OUT_TAG=xe_max — outputs redirected to out/scenarios/pl12_co2half__xe_max <<<
+>>> P4_GRB_THREADS=8: Gurobi thread limit applied to follower and master models <<<
+#### EVAL xe_max scenario=pl12_co2half sigma=sigma_start_max.csv
+#### spending 42388.0 M EUR  feasible=false  equity=0.335  wpb=0.743  afford_ok=true
+####   2030: E= 225.46 target= 222.12 margin= -3.34 VIOLATED
+####   2035: E= 201.99 target= 211.55 margin= +9.55 slack
+####   2040: E= 173.01 target= 158.66 margin=-14.35 VIOLATED
+####   2050: E= 107.32 target= 108.42 margin= +1.09 slack
+#### 2050 cumulative shares by group (env | HP | DH | PV) and discounted subsidy (M EUR):
+####   owner_high      env 0.795 | HP 0.115 | DH 0.000 | PV 0.000 | subsidy  26802.4
+####   owner_low       env 0.878 | HP 0.464 | DH 0.000 | PV 0.000 | subsidy  13755.4
+####   rented_private  env 0.328 | HP 0.000 | DH 0.000 | PV 0.000 | subsidy      0.0
+####   rented_public   env 0.757 | HP 0.386 | DH 0.000 | PV 0.000 | subsidy   1830.2
+#### 2020-2030 envelope renovation share by group:
+####   owner_high      0.0698
+####   owner_low       0.1037
+####   rented_private  0.0000
+####   rented_public   0.1037
+#### primary energy path (year: kWh/m2): 2020:264.43 2026:243.88 2030:225.46 2035:201.99 2040:173.01 2050:107.32 2060:71.94
+#### history subsidy spending (fixed periods, not in the objective): nominal 5021.7 M EUR, discounted to 2026 5996.1 M EUR
+#### SFH incumbent after the history (η, fuel price EUR/kWh, CO2 kg/kWh): SFH_wpb_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_wpb_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18
+#### done xe_max
+(full log: affordable_housing/results/cert_logs/eval_pl12_co2half_xe_max.log; exit 0)
+  max-σ evaluation for pl12_peffrozen (no feasible run)
+>>> P4_OUT_TAG=xe_max — outputs redirected to out/scenarios/pl12_peffrozen__xe_max <<<
+>>> P4_GRB_THREADS=8: Gurobi thread limit applied to follower and master models <<<
+#### EVAL xe_max scenario=pl12_peffrozen sigma=sigma_start_max.csv
+#### spending 49478.0 M EUR  feasible=false  equity=0.317  wpb=0.725  afford_ok=true
+####   2030: E= 224.58 target= 222.12 margin= -2.46 VIOLATED
+####   2035: E= 192.78 target= 211.55 margin=+18.76 slack
+####   2040: E= 161.26 target= 158.66 margin= -2.60 VIOLATED
+####   2050: E= 104.91 target= 108.42 margin= +3.51 slack
+#### 2050 cumulative shares by group (env | HP | DH | PV) and discounted subsidy (M EUR):
+####   owner_high      env 0.823 | HP 0.385 | DH 0.000 | PV 0.000 | subsidy  32411.6
+####   owner_low       env 0.873 | HP 0.668 | DH 0.000 | PV 0.000 | subsidy  15236.2
+####   rented_private  env 0.328 | HP 0.000 | DH 0.000 | PV 0.000 | subsidy      0.0
+####   rented_public   env 0.757 | HP 0.386 | DH 0.000 | PV 0.000 | subsidy   1830.2
+#### 2020-2030 envelope renovation share by group:
+####   owner_high      0.1037
+####   owner_low       0.1037
+####   rented_private  0.0000
+####   rented_public   0.1037
+#### primary energy path (year: kWh/m2): 2020:264.43 2026:245.09 2030:224.58 2035:192.78 2040:161.26 2050:104.91 2060:79.14
+#### history subsidy spending (fixed periods, not in the objective): nominal 5021.7 M EUR, discounted to 2026 5996.1 M EUR
+#### SFH incumbent after the history (η, fuel price EUR/kWh, CO2 kg/kWh): SFH_wpb_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_wpb_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18
+#### done xe_max
+(full log: affordable_housing/results/cert_logs/eval_pl12_peffrozen_xe_max.log; exit 0)
+  max-σ evaluation for pl12_elec_p20 (no feasible run)
+>>> P4_OUT_TAG=xe_max — outputs redirected to out/scenarios/pl12_elec_p20__xe_max <<<
+>>> P4_GRB_THREADS=8: Gurobi thread limit applied to follower and master models <<<
+#### EVAL xe_max scenario=pl12_elec_p20 sigma=sigma_start_max.csv
+#### spending 47272.3 M EUR  feasible=false  equity=0.297  wpb=0.712  afford_ok=true
+####   2030: E= 223.05 target= 222.12 margin= -0.93 VIOLATED
+####   2035: E= 197.87 target= 211.55 margin=+13.68 slack
+####   2040: E= 157.00 target= 158.66 margin= +1.66 slack
+####   2050: E=  93.54 target= 108.42 margin=+14.88 slack
+#### 2050 cumulative shares by group (env | HP | DH | PV) and discounted subsidy (M EUR):
+####   owner_high      env 0.829 | HP 0.180 | DH 0.000 | PV 0.000 | subsidy  31816.8
+####   owner_low       env 0.878 | HP 0.451 | DH 0.000 | PV 0.000 | subsidy  13625.3
+####   rented_private  env 0.328 | HP 0.000 | DH 0.000 | PV 0.000 | subsidy      0.0
+####   rented_public   env 0.757 | HP 0.386 | DH 0.000 | PV 0.000 | subsidy   1830.2
+#### 2020-2030 envelope renovation share by group:
+####   owner_high      0.1037
+####   owner_low       0.1037
+####   rented_private  0.0000
+####   rented_public   0.1037
+#### primary energy path (year: kWh/m2): 2020:264.43 2026:243.88 2030:223.05 2035:197.87 2040:157.0 2050:93.54 2060:51.12
+#### history subsidy spending (fixed periods, not in the objective): nominal 5021.7 M EUR, discounted to 2026 5996.1 M EUR
+#### SFH incumbent after the history (η, fuel price EUR/kWh, CO2 kg/kWh): SFH_wpb_poor η 0.731→0.749 p 0.0606→0.0614 c 0.184→0.18; SFH_wpb_rich η 0.731→0.749 p 0.0606→0.0614 c 0.184→0.18; SFH_rest_poor η 0.731→0.749 p 0.0606→0.0614 c 0.184→0.18; SFH_rest_rich η 0.731→0.749 p 0.0606→0.0614 c 0.184→0.18
+#### done xe_max
+(full log: affordable_housing/results/cert_logs/eval_pl12_elec_p20_xe_max.log; exit 0)
+  max-σ evaluation for pl12_woodpef (no feasible run)
+>>> P4_OUT_TAG=xe_max — outputs redirected to out/scenarios/pl12_woodpef__xe_max <<<
+>>> P4_GRB_THREADS=8: Gurobi thread limit applied to follower and master models <<<
+#### EVAL xe_max scenario=pl12_woodpef sigma=sigma_start_max.csv
+#### spending 49478.0 M EUR  feasible=false  equity=0.317  wpb=0.725  afford_ok=true
+####   2030: E= 166.13 target= 164.03 margin= -2.10 VIOLATED
+####   2035: E= 139.37 target= 156.22 margin=+16.85 slack
+####   2040: E= 109.17 target= 117.17 margin= +7.99 slack
+####   2050: E=  57.99 target=  80.06 margin=+22.08 slack
+#### 2050 cumulative shares by group (env | HP | DH | PV) and discounted subsidy (M EUR):
+####   owner_high      env 0.823 | HP 0.385 | DH 0.000 | PV 0.000 | subsidy  32411.6
+####   owner_low       env 0.873 | HP 0.668 | DH 0.000 | PV 0.000 | subsidy  15236.2
+####   rented_private  env 0.328 | HP 0.000 | DH 0.000 | PV 0.000 | subsidy      0.0
+####   rented_public   env 0.757 | HP 0.386 | DH 0.000 | PV 0.000 | subsidy   1830.2
+#### 2020-2030 envelope renovation share by group:
+####   owner_high      0.1037
+####   owner_low       0.1037
+####   rented_private  0.0000
+####   rented_public   0.1037
+#### primary energy path (year: kWh/m2): 2020:195.28 2026:181.05 2030:166.13 2035:139.37 2040:109.17 2050:57.99 2060:32.26
+#### history subsidy spending (fixed periods, not in the objective): nominal 5021.7 M EUR, discounted to 2026 5996.1 M EUR
+#### SFH incumbent after the history (η, fuel price EUR/kWh, CO2 kg/kWh): SFH_wpb_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_wpb_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18
+#### done xe_max
+(full log: affordable_housing/results/cert_logs/eval_pl12_woodpef_xe_max.log; exit 0)
+  max-σ evaluation for pl12_envcap_m20 (no feasible run)
+>>> P4_OUT_TAG=xe_max — outputs redirected to out/scenarios/pl12_envcap_m20__xe_max <<<
+>>> P4_GRB_THREADS=8: Gurobi thread limit applied to follower and master models <<<
+#### EVAL xe_max scenario=pl12_envcap_m20 sigma=sigma_start_max.csv
+#### follower INFEASIBLE
+(full log: affordable_housing/results/cert_logs/eval_pl12_envcap_m20_xe_max.log; exit 0)
+  max-σ evaluation for pl12_invertprices (no feasible run)
+>>> P4_OUT_TAG=xe_max — outputs redirected to out/scenarios/pl12_invertprices__xe_max <<<
+>>> P4_GRB_THREADS=8: Gurobi thread limit applied to follower and master models <<<
+#### EVAL xe_max scenario=pl12_invertprices sigma=sigma_start_max.csv
+#### spending 38069.7 M EUR  feasible=false  equity=0.408  wpb=0.752  afford_ok=true
+####   2030: E= 223.69 target= 222.12 margin= -1.56 VIOLATED
+####   2035: E= 189.55 target= 211.55 margin=+22.00 slack
+####   2040: E= 145.29 target= 158.66 margin=+13.37 slack
+####   2050: E=  73.40 target= 108.42 margin=+35.02 slack
+#### 2050 cumulative shares by group (env | HP | DH | PV) and discounted subsidy (M EUR):
+####   owner_high      env 0.648 | HP 0.524 | DH 0.000 | PV 0.000 | subsidy  21133.5
+####   owner_low       env 0.845 | HP 0.737 | DH 0.000 | PV 0.000 | subsidy  15106.0
+####   rented_private  env 0.328 | HP 0.000 | DH 0.000 | PV 0.000 | subsidy      0.0
+####   rented_public   env 0.757 | HP 0.386 | DH 0.000 | PV 0.000 | subsidy   1830.2
+#### 2020-2030 envelope renovation share by group:
+####   owner_high      0.0542
+####   owner_low       0.1037
+####   rented_private  0.0000
+####   rented_public   0.1037
+#### primary energy path (year: kWh/m2): 2020:264.43 2026:243.88 2030:223.69 2035:189.55 2040:145.29 2050:73.4 2060:34.92
+#### history subsidy spending (fixed periods, not in the objective): nominal 5021.7 M EUR, discounted to 2026 5996.1 M EUR
+#### SFH incumbent after the history (η, fuel price EUR/kWh, CO2 kg/kWh): SFH_wpb_poor η 0.731→0.749 p 0.0369→0.0376 c 0.184→0.18; SFH_wpb_rich η 0.731→0.749 p 0.0369→0.0376 c 0.184→0.18; SFH_rest_poor η 0.731→0.749 p 0.0369→0.0376 c 0.184→0.18; SFH_rest_rich η 0.731→0.749 p 0.0369→0.0376 c 0.184→0.18
+#### done xe_max
+(full log: affordable_housing/results/cert_logs/eval_pl12_invertprices_xe_max.log; exit 0)
+--- stage 2 (max-sigma evaluations) done Fri Nov  6 08:57:36 PM CET 2026 ---
+172 run directories -> affordable_housing/results/pl12_summary.csv
+43 scenarios -> affordable_housing/results/pl12_multistart_summary.csv
+  pl12                     FEASIBLE  best    27422.3 M  (batch, 1/4 runs feasible)
+  pl12_afford              FEASIBLE  best    27422.3 M  (batch, 1/4 runs feasible)
+  pl12_ban2040             FEASIBLE  best    26732.9 M  (batch, 1/4 runs feasible)
+  pl12_co2half             no feasible design in 4 runs; max-σ: 2030:3.34 2035:ok 2040:14.35 2050:ok
+  pl12_elec_m20            FEASIBLE  best        0.0 M  (batch, 4/4 runs feasible)
+  pl12_elec_p20            no feasible design in 4 runs; max-σ: 2030:0.93 2035:ok 2040:ok 2050:ok
+  pl12_envcap_m20          no feasible design in 4 runs; max-σ: not evaluated
+  pl12_envcap_p05          FEASIBLE  best    26270.4 M  (batch, 1/4 runs feasible)
+  pl12_envcap_p10          FEASIBLE  best    21283.5 M  (batch, 1/4 runs feasible)
+  pl12_envcap_p20          FEASIBLE  best     8464.8 M  (ms_record, 3/4 runs feasible)
+  pl12_envcap_p30          FEASIBLE  best     3806.4 M  (batch, 4/4 runs feasible)
+  pl12_envcap_p50          FEASIBLE  best      603.6 M  (ms_hpheavy, 4/4 runs feasible)
+  pl12_hpcost_hi           FEASIBLE  best    28679.4 M  (batch, 1/4 runs feasible)
+  pl12_hpcost_lo           FEASIBLE  best    28331.5 M  (batch, 1/4 runs feasible)
+  pl12_hvac6               FEASIBLE  best    28352.0 M  (batch, 1/4 runs feasible)
+  pl12_inclusive           FEASIBLE  best    41986.1 M  (batch, 1/4 runs feasible)
+  pl12_invertprices        no feasible design in 4 runs; max-σ: 2030:1.56 2035:ok 2040:ok 2050:ok
+  pl12_kprb                FEASIBLE  best        0.0 M  (batch, 4/4 runs feasible)
+  pl12_learn0              FEASIBLE  best    30394.7 M  (batch, 1/4 runs feasible)
+  pl12_noeed               FEASIBLE  best    35926.9 M  (batch, 1/4 runs feasible)
+  pl12_peffrozen           no feasible design in 4 runs; max-σ: 2030:2.46 2035:ok 2040:2.60 2050:ok
+  pl12_priv16              FEASIBLE  best    30011.9 M  (batch, 1/4 runs feasible)
+  pl12_r12                 no feasible design in 4 runs; max-σ: 2030:1.79 2035:ok 2040:ok 2050:ok
+  pl12_rule_cap3           FEASIBLE  best    27422.3 M  (batch, 1/4 runs feasible)
+  pl12_rule_none           FEASIBLE  best    27422.3 M  (batch, 1/4 runs feasible)
+  pl12_rule_perm           FEASIBLE  best    28209.0 M  (batch, 1/4 runs feasible)
+  pl12_rule_pl_gross       FEASIBLE  best    27422.3 M  (batch, 1/4 runs feasible)
+  pl12_s10                 no feasible design in 4 runs; max-σ: 2030:ok 2035:ok 2040:ok 2050:ok
+  pl12_s12                 no feasible design in 4 runs; max-σ: 2030:ok 2035:ok 2040:ok 2050:ok
+  pl12_s13                 no feasible design in 4 runs; max-σ: 2030:ok 2035:ok 2040:ok 2050:ok
+  pl12_s14                 no feasible design in 4 runs; max-σ: 2030:ok 2035:ok 2040:ok 2050:ok
+  pl12_s15                 no feasible design in 4 runs; max-σ: 2030:ok 2035:ok 2040:ok 2050:ok
+  pl12_s20                 FEASIBLE  best    27422.3 M  (batch, 1/4 runs feasible)
+  pl12_s25                 FEASIBLE  best    27422.3 M  (batch, 1/4 runs feasible)
+  pl12_s30                 FEASIBLE  best    27422.3 M  (batch, 1/4 runs feasible)
+  pl12_s40                 FEASIBLE  best    27422.3 M  (batch, 1/4 runs feasible)
+  pl12_sav4666             FEASIBLE  best    10785.4 M  (ms_hpheavy, 2/4 runs feasible)
+  pl12_split               FEASIBLE  best    28454.8 M  (batch, 1/4 runs feasible)
+  pl12_traj_linear         FEASIBLE  best    25548.2 M  (batch, 1/4 runs feasible)
+  pl12_traj_soft           FEASIBLE  best    25548.2 M  (batch, 1/4 runs feasible)
+  pl12_w05                 FEASIBLE  best    29826.2 M  (batch, 1/4 runs feasible)
+  pl12_w10                 FEASIBLE  best    26228.1 M  (batch, 1/4 runs feasible)
+  pl12_woodpef             no feasible design in 4 runs; max-σ: 2030:2.10 2035:ok 2040:ok 2050:ok
+=== pl12 wave finished Fri Nov  6 08:57:36 PM CET 2026 ===

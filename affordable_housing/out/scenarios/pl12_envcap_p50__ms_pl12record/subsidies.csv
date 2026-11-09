@@ -1,0 +1,15 @@
+group,measure,rate
+poor,env_light,0.39933135250231394
+poor,env_medium,0.4339267722238576
+poor,env_deep,0.4339267722238576
+poor,hvac_std,0.003237105288969373
+poor,hvac_upg,0.0
+poor,pv,0.0
+rich,env_light,0.11976562375767667
+rich,env_medium,0.11976562375767667
+rich,env_deep,0.14540266242726968
+rich,hvac_std,0.0
+rich,hvac_upg,0.0
+rich,pv,0.0
+landlord_public,all_non_pv,0.0
+landlord_private,all_non_pv,0.0

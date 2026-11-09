@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.4pt" height="316.8pt" viewBox="0 0 518.4 316.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-08T23:08:18.094547</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.1+dfsg1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 316.8 
+L 518.4 316.8 
+L 518.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 46.656 262.944 
+L 505.44 262.944 
+L 505.44 31.68 
+L 46.656 31.68 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="67.509818" y="273.38775" transform="rotate(-0 67.509818 273.38775)">2020</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="150.925091" y="273.38775" transform="rotate(-0 150.925091 273.38775)">2026</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="206.535273" y="273.38775" transform="rotate(-0 206.535273 273.38775)">2030</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="276.048" y="273.38775" transform="rotate(-0 276.048 273.38775)">2035</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="345.560727" y="273.38775" transform="rotate(-0 345.560727 273.38775)">2040</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="484.586182" y="273.38775" transform="rotate(-0 484.586182 273.38775)">2050</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle; fill: #5f6368" x="276.048" y="285.942437" transform="rotate(-0 276.048 285.942437)">Year</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <path d="M 46.656 262.944 
+L 505.44 262.944 
+" clip-path="url(#p99cbb44d54)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: end" x="43.156" y="266.415875" transform="rotate(-0 43.156 266.415875)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_9">
+      <path d="M 46.656 223.90087 
+L 505.44 223.90087 
+" clip-path="url(#p99cbb44d54)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: end" x="43.156" y="227.372745" transform="rotate(-0 43.156 227.372745)">50</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_11">
+      <path d="M 46.656 184.857741 
+L 505.44 184.857741 
+" clip-path="url(#p99cbb44d54)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: end" x="43.156" y="188.329616" transform="rotate(-0 43.156 188.329616)">100</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <path d="M 46.656 145.814611 
+L 505.44 145.814611 
+" clip-path="url(#p99cbb44d54)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: end" x="43.156" y="149.286486" transform="rotate(-0 43.156 149.286486)">150</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15">
+      <path d="M 46.656 106.771482 
+L 505.44 106.771482 
+" clip-path="url(#p99cbb44d54)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: end" x="43.156" y="110.243357" transform="rotate(-0 43.156 110.243357)">200</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_17">
+      <path d="M 46.656 67.728352 
+L 505.44 67.728352 
+" clip-path="url(#p99cbb44d54)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18"/>
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: end" x="43.156" y="71.200227" transform="rotate(-0 43.156 71.200227)">250</text>
+     </g>
+    </g>
+    <g id="text_14">
+     <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: end; fill: #5f6368" x="22.231" y="31.68" transform="rotate(-90 22.231 31.68)">Primary energy, kWh/(m²·yr), stock average</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 67.509818 262.944 
+L 150.925091 262.944 
+L 150.925091 31.68 
+L 67.509818 31.68 
+z
+" clip-path="url(#p99cbb44d54)" style="fill: #e3e5e8; opacity: 0.6"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 67.509818 56.458286 
+L 150.925091 72.509982 
+L 206.535273 85.607287 
+L 276.048 99.169535 
+L 345.560727 125.827819 
+L 484.586182 181.4453 
+" clip-path="url(#p99cbb44d54)" style="fill: none; stroke-dasharray: 10,6; stroke-dashoffset: 0; stroke: #8a9097; stroke-width: 2"/>
+    <defs>
+     <path id="ma4729713f0" d="M 0 2 
+C 0.530406 2 1.03916 1.789267 1.414214 1.414214 
+C 1.789267 1.03916 2 0.530406 2 0 
+C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214 
+C 1.03916 -1.789267 0.530406 -2 0 -2 
+C -0.530406 -2 -1.03916 -1.789267 -1.414214 -1.414214 
+C -1.789267 -1.03916 -2 -0.530406 -2 0 
+C -2 0.530406 -1.789267 1.03916 -1.414214 1.414214 
+C -1.03916 1.789267 -0.530406 2 0 2 
+z
+" style="stroke: #8a9097"/>
+    </defs>
+    <g clip-path="url(#p99cbb44d54)">
+     <use xlink:href="#ma4729713f0" x="67.509818" y="56.458286" style="fill: #8a9097; stroke: #8a9097"/>
+     <use xlink:href="#ma4729713f0" x="150.925091" y="72.509982" style="fill: #8a9097; stroke: #8a9097"/>
+     <use xlink:href="#ma4729713f0" x="206.535273" y="85.607287" style="fill: #8a9097; stroke: #8a9097"/>
+     <use xlink:href="#ma4729713f0" x="276.048" y="99.169535" style="fill: #8a9097; stroke: #8a9097"/>
+     <use xlink:href="#ma4729713f0" x="345.560727" y="125.827819" style="fill: #8a9097; stroke: #8a9097"/>
+     <use xlink:href="#ma4729713f0" x="484.586182" y="181.4453" style="fill: #8a9097; stroke: #8a9097"/>
+    </g>
+   </g>
+   <g id="line2d_20">
+    <path d="M 67.509818 56.458286 
+L 150.925091 72.509982 
+L 206.535273 89.683618 
+L 276.048 108.793226 
+L 345.560727 139.500528 
+L 484.586182 186.754038 
+" clip-path="url(#p99cbb44d54)" style="fill: none; stroke: #0063a6; stroke-width: 2.2; stroke-linecap: square"/>
+    <defs>
+     <path id="m2094ad0478" d="M 0 2.25 
+C 0.596707 2.25 1.169055 2.012926 1.59099 1.59099 
+C 2.012926 1.169055 2.25 0.596707 2.25 0 
+C 2.25 -0.596707 2.012926 -1.169055 1.59099 -1.59099 
+C 1.169055 -2.012926 0.596707 -2.25 0 -2.25 
+C -0.596707 -2.25 -1.169055 -2.012926 -1.59099 -1.59099 
+C -2.012926 -1.169055 -2.25 -0.596707 -2.25 0 
+C -2.25 0.596707 -2.012926 1.169055 -1.59099 1.59099 
+C -1.169055 2.012926 -0.596707 2.25 0 2.25 
+z
+" style="stroke: #0063a6"/>
+    </defs>
+    <g clip-path="url(#p99cbb44d54)">
+     <use xlink:href="#m2094ad0478" x="67.509818" y="56.458286" style="fill: #0063a6; stroke: #0063a6"/>
+     <use xlink:href="#m2094ad0478" x="150.925091" y="72.509982" style="fill: #0063a6; stroke: #0063a6"/>
+     <use xlink:href="#m2094ad0478" x="206.535273" y="89.683618" style="fill: #0063a6; stroke: #0063a6"/>
+     <use xlink:href="#m2094ad0478" x="276.048" y="108.793226" style="fill: #0063a6; stroke: #0063a6"/>
+     <use xlink:href="#m2094ad0478" x="345.560727" y="139.500528" style="fill: #0063a6; stroke: #0063a6"/>
+     <use xlink:href="#m2094ad0478" x="484.586182" y="186.754038" style="fill: #0063a6; stroke: #0063a6"/>
+    </g>
+   </g>
+   <g id="line2d_21">
+    <defs>
+     <path id="ma4e319e222" d="M -0 4.242641 
+L 4.242641 0 
+L 0 -4.242641 
+L -4.242641 -0 
+z
+" style="stroke: #1f2328; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#p99cbb44d54)">
+     <use xlink:href="#ma4e319e222" x="206.535273" y="89.498801" style="fill: #ffffff; stroke: #1f2328; stroke-linejoin: miter"/>
+     <use xlink:href="#ma4e319e222" x="276.048" y="97.752519" style="fill: #ffffff; stroke: #1f2328; stroke-linejoin: miter"/>
+     <use xlink:href="#ma4e319e222" x="345.560727" y="139.052341" style="fill: #ffffff; stroke: #1f2328; stroke-linejoin: miter"/>
+     <use xlink:href="#ma4e319e222" x="484.586182" y="178.282878" style="fill: #ffffff; stroke: #1f2328; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="patch_4">
+    <path d="M 46.656 262.944 
+L 505.44 262.944 
+" style="fill: none; stroke: #c7cacd; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8px; font-family: 'Carlito'; fill: #5f6368" transform="translate(89.111205 38.267429)">fixed history</text>
+    <text style="font-size: 8px; font-family: 'Carlito'; fill: #5f6368" transform="translate(91.004955 46.222179)">2020–2025</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: end; fill: #0063a6" x="199.535273" y="102.683618" transform="rotate(-0 199.535273 102.683618)">221.9</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #4d5156" x="212.535273" y="81.607287" transform="rotate(-0 212.535273 81.607287)">227.1</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: end; fill: #0063a6" x="338.560727" y="152.500528" transform="rotate(-0 338.560727 152.500528)">158.1</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #4d5156" x="351.560727" y="121.827819" transform="rotate(-0 351.560727 121.827819)">175.6</text>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_22">
+     <path d="M 54.306 227.097906 
+L 62.806 227.097906 
+L 71.306 227.097906 
+" style="fill: none; stroke-dasharray: 10,6; stroke-dashoffset: 0; stroke: #8a9097; stroke-width: 2"/>
+     <g>
+      <use xlink:href="#ma4729713f0" x="62.806" y="227.097906" style="fill: #8a9097; stroke: #8a9097"/>
+     </g>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start" x="78.106" y="230.072906" transform="rotate(-0 78.106 230.072906)">No subsidies from 2026</text>
+    </g>
+    <g id="line2d_23">
+     <path d="M 54.306 238.934156 
+L 62.806 238.934156 
+L 71.306 238.934156 
+" style="fill: none; stroke: #0063a6; stroke-width: 2.2; stroke-linecap: square"/>
+     <g>
+      <use xlink:href="#m2094ad0478" x="62.806" y="238.934156" style="fill: #0063a6; stroke: #0063a6"/>
+     </g>
+    </g>
+    <g id="text_21">
+     <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start" x="78.106" y="241.909156" transform="rotate(-0 78.106 241.909156)">Cost-minimal design (local proof)</text>
+    </g>
+    <g id="line2d_24">
+     <g>
+      <use xlink:href="#ma4e319e222" x="62.806" y="250.862047" style="fill: #ffffff; stroke: #1f2328; stroke-linejoin: miter"/>
+     </g>
+    </g>
+    <g id="text_22">
+     <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start" x="78.106" y="253.837047" transform="rotate(-0 78.106 253.837047)">EPBD trajectory (−16/−20/−40/−59 % vs 2020)</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_23">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="6.2208" y="14.756625" transform="rotate(-0 6.2208 14.756625)">Primary energy of the stock: fixed history, then the cost-minimal design</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 7.4px; font-family: 'Carlito'; text-anchor: start; fill: #5f6368" x="6.2208" y="311.092925" transform="rotate(-0 6.2208 311.092925)">pl12. 2020–2025 fixed from observed heating replacements and the history run; the state designs from 2026. Data: fig1_primary_energy_data.csv.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p99cbb44d54">
+   <rect x="46.656" y="31.68" width="458.784" height="231.264"/>
+  </clipPath>
+ </defs>
+</svg>

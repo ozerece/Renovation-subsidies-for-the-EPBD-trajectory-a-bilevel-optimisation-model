@@ -1,0 +1,34 @@
+32 feasible scenarios
+#### pl12_envcap_p05: spending 26039.0 M, CO2 416.4 vs 447.9 Mt (avoided 31.4, 7.0%), 828 EUR/t, 5.72 TWh saved 2050, 4.55 EUR/kWh
+#### pl12_ban2040: spending 26732.9 M, CO2 403.0 vs 447.2 Mt (avoided 44.3, 9.9%), 604 EUR/t, 11.93 TWh saved 2050, 2.24 EUR/kWh
+#### pl12_afford: spending 25162.4 M, CO2 420.4 vs 451.6 Mt (avoided 31.2, 6.9%), 807 EUR/t, 5.39 TWh saved 2050, 4.67 EUR/kWh
+#### pl12_elec_m20: spending 0.0 M, CO2 335.4 vs 335.4 Mt (avoided 0.0, 0.0%), NaN EUR/t, 0.00 TWh saved 2050, NaN EUR/kWh
+#### pl12: spending 24936.2 M, CO2 420.9 vs 451.6 Mt (avoided 30.7, 6.8%), 811 EUR/t, 5.32 TWh saved 2050, 4.69 EUR/kWh
+#### pl12_envcap_p30: spending 3806.4 M, CO2 402.7 vs 429.2 Mt (avoided 26.5, 6.2%), 144 EUR/t, 5.86 TWh saved 2050, 0.65 EUR/kWh
+#### pl12_hpcost_hi: spending 24924.3 M, CO2 421.3 vs 457.7 Mt (avoided 36.4, 7.9%), 686 EUR/t, 7.73 TWh saved 2050, 3.22 EUR/kWh
+#### pl12_envcap_p20: spending 8464.8 M, CO2 402.8 vs 436.8 Mt (avoided 34.0, 7.8%), 249 EUR/t, 8.32 TWh saved 2050, 1.02 EUR/kWh
+#### pl12_envcap_p10: spending 21283.5 M, CO2 403.5 vs 444.2 Mt (avoided 40.6, 9.1%), 524 EUR/t, 10.99 TWh saved 2050, 1.94 EUR/kWh
+#### pl12_envcap_p50: spending 603.6 M, CO2 420.9 vs 421.1 Mt (avoided 0.2, 0.0%), 3280 EUR/t, 0.07 TWh saved 2050, 8.32 EUR/kWh
+#### pl12_hpcost_lo: spending 27230.2 M, CO2 371.3 vs 398.1 Mt (avoided 26.9, 6.8%), 1013 EUR/t, 5.57 TWh saved 2050, 4.89 EUR/kWh
+#### pl12_hvac6: spending 26603.2 M, CO2 391.1 vs 431.6 Mt (avoided 40.5, 9.4%), 658 EUR/t, 5.62 TWh saved 2050, 4.73 EUR/kWh
+#### pl12_inclusive: spending 42049.4 M, CO2 397.3 vs 449.5 Mt (avoided 52.1, 11.6%), 806 EUR/t, 11.94 TWh saved 2050, 3.52 EUR/kWh
+#### pl12_kprb: spending 0.0 M, CO2 348.0 vs 348.0 Mt (avoided 0.0, 0.0%), NaN EUR/t, 0.00 TWh saved 2050, NaN EUR/kWh
+#### pl12_learn0: spending 29171.3 M, CO2 417.8 vs 531.6 Mt (avoided 113.8, 21.4%), 256 EUR/t, 40.19 TWh saved 2050, 0.73 EUR/kWh
+#### pl12_pubpoor: spending 24936.2 M, CO2 420.9 vs 451.6 Mt (avoided 30.7, 6.8%), 811 EUR/t, 5.32 TWh saved 2050, 4.69 EUR/kWh
+#### pl12_noeed: spending 35926.9 M, CO2 417.8 vs 455.8 Mt (avoided 37.9, 8.3%), 947 EUR/t, 9.11 TWh saved 2050, 3.94 EUR/kWh
+#### pl12_priv16: spending 24607.9 M, CO2 421.8 vs 452.1 Mt (avoided 30.2, 6.7%), 814 EUR/t, 5.12 TWh saved 2050, 4.81 EUR/kWh
+#### pl12_rule_cap3: spending 24936.2 M, CO2 420.9 vs 451.6 Mt (avoided 30.7, 6.8%), 811 EUR/t, 5.32 TWh saved 2050, 4.69 EUR/kWh
+#### pl12_rule_none: spending 24936.2 M, CO2 421.2 vs 451.9 Mt (avoided 30.7, 6.8%), 811 EUR/t, 5.32 TWh saved 2050, 4.69 EUR/kWh
+#### pl12_rule_perm: spending 23993.7 M, CO2 421.3 vs 449.2 Mt (avoided 27.8, 6.2%), 863 EUR/t, 4.33 TWh saved 2050, 5.54 EUR/kWh
+#### pl12_rule_pl_gross: spending 24936.2 M, CO2 420.9 vs 451.6 Mt (avoided 30.7, 6.8%), 811 EUR/t, 5.32 TWh saved 2050, 4.69 EUR/kWh
+#### pl12_s20: spending 24936.2 M, CO2 420.9 vs 451.6 Mt (avoided 30.7, 6.8%), 811 EUR/t, 5.32 TWh saved 2050, 4.69 EUR/kWh
+#### pl12_s25: spending 24936.2 M, CO2 420.9 vs 451.6 Mt (avoided 30.7, 6.8%), 811 EUR/t, 5.32 TWh saved 2050, 4.69 EUR/kWh
+#### pl12_s30: spending 24936.2 M, CO2 420.9 vs 451.6 Mt (avoided 30.7, 6.8%), 811 EUR/t, 5.32 TWh saved 2050, 4.69 EUR/kWh
+#### pl12_s40: spending 24936.2 M, CO2 420.9 vs 451.6 Mt (avoided 30.7, 6.8%), 811 EUR/t, 5.32 TWh saved 2050, 4.69 EUR/kWh
+#### pl12_split: spending 24998.3 M, CO2 421.3 vs 454.6 Mt (avoided 33.3, 7.3%), 751 EUR/t, 5.89 TWh saved 2050, 4.24 EUR/kWh
+#### pl12_sav4666: spending 10785.4 M, CO2 419.5 vs 432.6 Mt (avoided 13.1, 3.0%), 824 EUR/t, 7.08 TWh saved 2050, 1.52 EUR/kWh
+#### pl12_traj_linear: spending 24936.2 M, CO2 420.9 vs 451.6 Mt (avoided 30.7, 6.8%), 811 EUR/t, 5.32 TWh saved 2050, 4.69 EUR/kWh
+#### pl12_traj_soft: spending 24936.2 M, CO2 420.9 vs 451.6 Mt (avoided 30.7, 6.8%), 811 EUR/t, 5.32 TWh saved 2050, 4.69 EUR/kWh
+#### pl12_w05: spending 24936.2 M, CO2 420.8 vs 451.6 Mt (avoided 30.7, 6.8%), 811 EUR/t, 5.32 TWh saved 2050, 4.69 EUR/kWh
+#### pl12_w10: spending 24936.2 M, CO2 420.8 vs 451.6 Mt (avoided 30.7, 6.8%), 811 EUR/t, 5.32 TWh saved 2050, 4.69 EUR/kWh
+32 rows -> results/pl12_outcome_measures.csv

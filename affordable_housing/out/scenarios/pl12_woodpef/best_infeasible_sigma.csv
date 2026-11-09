@@ -1,0 +1,13 @@
+sigma_key,rate
+"(""envelope"", ""light"", ""poor"")",0.63
+"(""envelope"", ""medium"", ""poor"")",0.765
+"(""envelope"", ""deep"", ""poor"")",0.9
+"(""envelope"", ""light"", ""rich"")",0.36000000000000004
+"(""envelope"", ""medium"", ""rich"")",0.36000000000000004
+"(""envelope"", ""deep"", ""rich"")",0.45
+"(""hvac"", ""standard"", ""poor"")",0.9
+"(""hvac"", ""upgrade"", ""poor"")",0.9
+"(""hvac"", ""standard"", ""rich"")",0.36000000000000004
+"(""hvac"", ""upgrade"", ""rich"")",0.36000000000000004
+"(""landlord"", ""all"", ""public"")",0.9
+"(""landlord"", ""all"", ""private"")",0.9

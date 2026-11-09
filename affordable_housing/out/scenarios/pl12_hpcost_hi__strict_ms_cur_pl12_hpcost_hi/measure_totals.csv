@@ -1,0 +1,7 @@
+measure,class,dwellings_adopting,stock_share_pct,investment_eur,subsidy_eur
+envelope_light,envelope,0.0,0.0,0.0,0.0
+envelope_medium,envelope,3.247874e6,36.7,2.5402750741e10,6.627711972e9
+envelope_deep,envelope,5.451712e6,61.6,7.5920052598e10,2.5707795978e10
+hvac_fossil_to_hp,hvac,4.543256e6,51.4,2.4758232541e10,4.38351709e9
+hvac_fossil_to_district,hvac,47548.0,0.5,2.29051321e8,0.0
+pv,pv,0.0,0.0,0.0,0.0

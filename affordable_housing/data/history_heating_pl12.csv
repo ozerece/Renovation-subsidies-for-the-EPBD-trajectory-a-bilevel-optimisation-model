@@ -1,0 +1,9 @@
+archetype,measure,y,period
+SFH_wpb_poor,hvac_fossil_to_hp,0.031036,1
+SFH_wpb_poor,hvac_fossil_to_district,0.000196,1
+SFH_wpb_rich,hvac_fossil_to_hp,0.031036,1
+SFH_wpb_rich,hvac_fossil_to_district,0.000196,1
+SFH_rest_poor,hvac_fossil_to_hp,0.031036,1
+SFH_rest_poor,hvac_fossil_to_district,0.000196,1
+SFH_rest_rich,hvac_fossil_to_hp,0.031036,1
+SFH_rest_rich,hvac_fossil_to_district,0.000196,1

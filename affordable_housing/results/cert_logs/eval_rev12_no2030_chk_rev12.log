@@ -1,0 +1,108 @@
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter NonConvex to value 2
+Set parameter Threads to value 8
+Set parameter Username
+Academic license - for non-commercial use only - expires 2027-09-30
+Set parameter NonConvex to value 2
+Set parameter Threads to value 8
+┌ Warning: tenure split: rented_public=0.134 SOURCED (GUS 2024/Census 2021; TBS part approximate); rented_private=0.08 DERIVED (Eurostat ilc_lvho02 x GUS households x Census 2021 MFH; assumes market-rent tenants live in MFH); low-/high-income private-tenant split 0.238/0.762 SOURCED (Eurostat EU-SILC, AROP-based, not quintile-based). Wave-9 data of record (2026-10-11); public landlord pass-through 0.02 still open.
+└ @ Main affordable_housing/bilevel_model_affordable_housing.jl:1419
+┌ Warning: Assignment to `ET` in soft scope is ambiguous because a global variable by the same name exists: `ET` will be treated as a new local. Disambiguate by using `local ET` to suppress this warning or `global ET` to assign to the existing global variable.
+└ @ affordable_housing/bilevel_model_affordable_housing.jl:2101
+┌ Warning: Assignment to `CP` in soft scope is ambiguous because a global variable by the same name exists: `CP` will be treated as a new local. Disambiguate by using `local CP` to suppress this warning or `global CP` to assign to the existing global variable.
+└ @ affordable_housing/bilevel_model_affordable_housing.jl:2101
+┌ Warning: Assignment to `CF` in soft scope is ambiguous because a global variable by the same name exists: `CF` will be treated as a new local. Disambiguate by using `local CF` to suppress this warning or `global CF` to assign to the existing global variable.
+└ @ affordable_housing/bilevel_model_affordable_housing.jl:2101
+
+======================================================================
+BILEVEL OPTIMIZATION — Column-and-Constraint Generation (CCG)
+Multiplicative Energy Model with EPBD Renovation Depths
+======================================================================
+>>> P4_OUT_TAG=chk_rev12 — outputs redirected to out/scenarios/rev12_no2030__chk_rev12 <<<
+
+SCENARIO: rev12_no2030 — PL standard: census stock (absolute national), Invert WPB cut at census weights, rule_PL, EED on, w=0, ban off, relative EPBD trajectory, KPRB capacity | household discount 8% (owners + private landlords; public landlord 3%, state 3%) | subsidy horizon 2050 (spending 2020-2050; default since 2026-10-27 step-0 order) | sourced carrier prices (elec 2025 avg) + fossil mixes + seasonal efficiencies (phase 1 corrected) | Polish investment costs (VAT gross) + component savings (pl12: history 2020-2025 fixed, design from 2026, CO2 22.5 EUR/t 2026-30; no PV) | REV R1: 2030 milestone dropped (2035/2040/2050 kept)
+  fossil_boiler_ban=OFF (ban_year inert)  co2_scale=1.0  dh_caps=0.05/0.8  reno_scale=1.0  subsidy_boost=none  residual_value=true  pef_frozen=false
+>>> STOCK FILE: archetypes_pl_mix.csv (Polish-stock recalibration; committed default is archetypes_v2.csv) <<<
+  Level 2 tenure split: 8 MFH archetypes split → 44 archetypes total (owner shares reduced accordingly; totals unchanged)
+>>> period_years override (pl12 D1): [2020, 2026, 2030, 2035, 2040, 2050], last period to 2060 <<<
+  Level 2 switches: eed_public_obligation=true  public_tenant_weight=0.0
+>>> co2_price_path override (pl12 D6): [0.0, 22.5, 70.0, 120.0, 200.0, 350.0] EUR/t per period <<<
+
+Data loaded: 44 archetypes × 6 measures × 6 periods
+  Learning-rate override ACTIVE: envelope_light=0.0, envelope_medium=0.0, envelope_deep=0.0, hvac_fossil_to_hp=0.025, hvac_fossil_to_district=0.0, pv=0.05
+  Follower discount rates by group (state r = 0.03): owners poor/rich = 0.08/0.08, landlords public/private = 0.03/0.08
+  Carrier prices (EUR/kWh final, real 2024): elec=0.2634 gas=0.0707 coal=0.0594 wood=0.0523 oil=0.1065 dh=0.1151
+  Fossil-mix prices (unique): 0.0606, 0.0634  CO₂ intensities (unique): 0.1837, 0.1883
+  Seasonal efficiencies η_a (unique): [0.7311, 0.95, 0.7685]  remain_hp_a: [0.2437, 0.3167, 0.2562]  remain_dh_a: [0.7695, 1.0, 0.8089]
+  Envelope-saving override ACTIVE: MFH/envelope_deep=0.49, MFH/envelope_light=0.054, MFH/envelope_medium=0.333, SFH/envelope_deep=0.576, SFH/envelope_light=0.134, SFH/envelope_medium=0.367
+  Carrier pricing: p_elec=0.2634, Δp_hp(unique)=[0.0036, -0.0317, 0.0041], Δp_dh(unique)=[0.028, 0.0, 0.0297]
+  Adoption caps env/hvac/pv/joint: [0.151, 0.104, 0.15, 0.167, 0.328, 0.328] / [0.217, 0.151, 0.185, 0.185, 0.335, 0.335] / [0.217, 0.151, 0.185, 0.185, 0.335, 0.335] / [0.232, 0.161, 0.218, 0.234, 0.432, 0.432] (periods: [6, 4, 5, 5, 10, 10]yr)
+  Boiler break rates: [0.217, 0.151, 0.185, 0.185, 0.335, 0.335]
+  End-of-period years: [2026, 2030, 2035, 2040, 2050, 2060]
+>>> HISTORY FIXED (pl12 D1): adoption in periods 1..1 fixed from data/history_adoption_pl12.csv for classes ["envelope", "hvac"]; the state pays and counts from 2026 (period 2); spending discounted to 2026 <<<
+  EED required nZEB share by period end [2026, 2030, 2035, 2040, 2050, 2060]:
+    fossil-heated public archetypes: [0.0, 0.12, 0.27, 0.42, 0.72, 1.0]
+    DH-incumbent public archetypes:  [0.0, 0.12, 0.27, 0.42, 0.72, 1.0]
+>>> fuel_mix_update (pl12 D2) ACTIVE for 4 archetypes from period 2: SFH_wpb_poor: η 0.731→0.749, price 0.0606→0.0613, CO2 0.184→0.18; SFH_wpb_rich: η 0.731→0.749, price 0.0606→0.0613, CO2 0.184→0.18; SFH_rest_poor: η 0.731→0.749, price 0.0606→0.0613, CO2 0.184→0.18; SFH_rest_rich: η 0.731→0.749, price 0.0606→0.0613, CO2 0.184→0.18 <<<
+  PEF elec path: [2.34, 1.9, 1.5, 1.1, 0.8, 0.8]  PEF DH path: [0.79, 0.75, 0.7, 0.6, 0.45, 0.4]
+  Measure-cost override ACTIVE: MFH/envelope_deep=5725.0, MFH/envelope_light=735.0, MFH/envelope_medium=2670.0, MFH/hvac_fossil_to_hp=4272.0, SFH/envelope_deep=19463.0, SFH/envelope_light=3663.0, SFH/envelope_medium=9918.0, SFH/hvac_fossil_to_hp=8721.0
+  PV option REMOVED (pv_enabled=false): PV adoption bound 0 for all archetypes and periods
+  Baseline primary energy: 264.4 kWh/m²
+  EPBD trajectory RELATIVE to 2020 (264.4): 2030→1057.7, 2035→211.5, 2040→158.7, 2050→108.4  (2050 target 108.4)
+Setup complete. 231/264 infeasible (a,m) pairs
+
+======================================================================
+BUILDING MASTER LP (High-Point Relaxation)
+======================================================================
+>>> P4_GRB_THREADS=8: Gurobi thread limit applied to follower and master models <<<
+  Master LP: 7140 variables, 28992 constraints
+
+P4_SKIP_SEARCH=1 — model loaded, CCG search skipped (test mode)
+
+#### EVAL chk_rev12 scenario=rev12_no2030 sigma=sigma_start_rec25.csv
+#### spending 24936.2 M EUR  feasible=true  equity=0.300  wpb=0.745  afford_ok=false
+####   2030: E= 221.88 target=1057.73 margin=+835.85 slack
+####   2035: E= 197.41 target= 211.55 margin=+14.14 slack
+####   2040: E= 158.09 target= 158.66 margin= +0.57 slack
+####   2050: E=  97.57 target= 108.42 margin=+10.85 slack
+#### 2050 cumulative shares by group (env | HP | DH | PV) and discounted subsidy (M EUR):
+####   owner_high      env 0.829 | HP 0.183 | DH 0.000 | PV 0.000 | subsidy  17446.6
+####   owner_low       env 0.809 | HP 0.744 | DH 0.000 | PV 0.000 | subsidy   7489.6
+####   rented_private  env 0.328 | HP 0.000 | DH 0.000 | PV 0.000 | subsidy      0.0
+####   rented_public   env 0.720 | HP 0.386 | DH 0.000 | PV 0.000 | subsidy      0.0
+#### 2020-2030 envelope renovation share by group:
+####   owner_high      0.1037
+####   owner_low       0.0698
+####   rented_private  0.0000
+####   rented_public   0.1037
+#### primary energy path (year: kWh/m2): 2020:264.43 2026:243.88 2030:221.88 2035:197.41 2040:158.09 2050:97.57 2060:55.75
+#### history subsidy spending (fixed periods, not in the objective): nominal 5021.7 M EUR, discounted to 2026 5996.1 M EUR
+#### SFH incumbent after the history (η, fuel price EUR/kWh, CO2 kg/kWh): SFH_wpb_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_wpb_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_poor η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18; SFH_rest_rich η 0.731→0.749 p 0.0606→0.0613 c 0.184→0.18
+#### done chk_rev12

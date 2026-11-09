@@ -1,0 +1,18 @@
+# Certified pl9 grid optimum (cert_logs/cert_pl9_hybrid.log, 2026-10-29),
+# used as a forced search start (P4_SIGMA_START; 2026-11-02 multistart order).
+# Canonical sigma_keys order:
+# envelope light/medium/deep poor; envelope light/medium/deep rich;
+# hvac standard/upgrade poor; hvac standard/upgrade rich;
+# landlord public; landlord private.
+0.15
+0.25
+0.25
+0.00
+0.05
+0.15
+0.90
+0.00
+0.00
+0.00
+0.00
+0.00

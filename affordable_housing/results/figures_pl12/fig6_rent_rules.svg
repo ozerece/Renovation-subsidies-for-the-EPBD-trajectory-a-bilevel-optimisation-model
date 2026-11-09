@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="828pt" height="302.4pt" viewBox="0 0 828 302.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-08T23:08:19.696723</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.1+dfsg1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 302.4 
+L 828 302.4 
+L 828 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 105.02 246.612 
+L 285.089231 246.612 
+L 285.089231 69.432 
+L 105.02 69.432 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 105.02 246.612 
+L 105.02 69.432 
+" clip-path="url(#p2e605bc3e5)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="105.02" y="257.05575" transform="rotate(-0 105.02 257.05575)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 135.441743 246.612 
+L 135.441743 69.432 
+" clip-path="url(#p2e605bc3e5)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="135.441743" y="257.05575" transform="rotate(-0 135.441743 257.05575)">250</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 165.863485 246.612 
+L 165.863485 69.432 
+" clip-path="url(#p2e605bc3e5)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="165.863485" y="257.05575" transform="rotate(-0 165.863485 257.05575)">500</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 196.285228 246.612 
+L 196.285228 69.432 
+" clip-path="url(#p2e605bc3e5)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="196.285228" y="257.05575" transform="rotate(-0 196.285228 257.05575)">750</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 226.70697 246.612 
+L 226.70697 69.432 
+" clip-path="url(#p2e605bc3e5)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="226.70697" y="257.05575" transform="rotate(-0 226.70697 257.05575)">1000</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 257.128713 246.612 
+L 257.128713 69.432 
+" clip-path="url(#p2e605bc3e5)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="257.128713" y="257.05575" transform="rotate(-0 257.128713 257.05575)">1250</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 9px; font-family: 'Carlito'; text-anchor: middle; fill: #5f6368" x="195.054615" y="268.916063" transform="rotate(-0 195.054615 268.916063)">EUR per dwelling and year</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13"/>
+     <g id="text_8">
+      <text style="font-size: 9px; font-family: 'Carlito'; text-anchor: end; fill: #1f2328" x="101.52" y="115.021316" transform="rotate(-0 101.52 115.021316)">No rent increase</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_14"/>
+     <g id="text_9">
+      <text style="font-size: 9px; font-family: 'Carlito'; text-anchor: end; fill: #1f2328" x="101.52" y="144.37336" transform="rotate(-0 101.52 144.37336)">Polish rule (Art. 8a)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_15"/>
+     <g id="text_10">
+      <text style="font-size: 9px; font-family: 'Carlito'; text-anchor: end; fill: #1f2328" x="101.52" y="173.593216" transform="rotate(-0 101.52 173.593216)">Rent cap</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_16"/>
+     <g id="text_11">
+      <text style="font-size: 9px; font-family: 'Carlito'; text-anchor: end; fill: #1f2328" x="101.52" y="202.879167" transform="rotate(-0 101.52 202.879167)">Permanent rent increase</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_17"/>
+     <g id="text_12">
+      <text style="font-size: 9px; font-family: 'Carlito'; text-anchor: end; fill: #1f2328" x="101.52" y="232.165117" transform="rotate(-0 101.52 232.165117)">Gross rule</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 105.02 120.975273 
+L 209.839748 120.975273 
+L 209.839748 102.817983 
+L 105.02 102.817983 
+z
+" clip-path="url(#p2e605bc3e5)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 105.02 150.261223 
+L 192.981357 150.261223 
+L 192.981357 132.103934 
+L 105.02 132.103934 
+z
+" clip-path="url(#p2e605bc3e5)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 105.02 179.547174 
+L 195.523476 179.547174 
+L 195.523476 161.389884 
+L 105.02 161.389884 
+z
+" clip-path="url(#p2e605bc3e5)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 105.02 208.833124 
+L 168.502488 208.833124 
+L 168.502488 190.675835 
+L 105.02 190.675835 
+z
+" clip-path="url(#p2e605bc3e5)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 105.02 238.119074 
+L 192.981357 238.119074 
+L 192.981357 219.961785 
+L 105.02 219.961785 
+z
+" clip-path="url(#p2e605bc3e5)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 211.299992 120.975273 
+L 211.299992 120.975273 
+L 211.299992 102.817983 
+L 211.299992 102.817983 
+z
+" clip-path="url(#p2e605bc3e5)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 194.4416 150.261223 
+L 217.306582 150.261223 
+L 217.306582 132.103934 
+L 194.4416 132.103934 
+z
+" clip-path="url(#p2e605bc3e5)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 196.983719 179.547174 
+L 216.40496 179.547174 
+L 216.40496 161.389884 
+L 196.983719 161.389884 
+z
+" clip-path="url(#p2e605bc3e5)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 169.962732 208.833124 
+L 244.995037 208.833124 
+L 244.995037 190.675835 
+L 169.962732 190.675835 
+z
+" clip-path="url(#p2e605bc3e5)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 194.4416 238.119074 
+L 217.306582 238.119074 
+L 217.306582 219.961785 
+L 194.4416 219.961785 
+z
+" clip-path="url(#p2e605bc3e5)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 105.02 246.612 
+L 285.089231 246.612 
+" style="fill: none; stroke: #c7cacd; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="215.299992" y="114.163073" transform="rotate(-0 215.299992 114.163073)">861</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="221.306582" y="143.449024" transform="rotate(-0 221.306582 143.449024)">911</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="220.40496" y="172.734974" transform="rotate(-0 220.40496 172.734974)">903</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="248.995037" y="202.020925" transform="rotate(-0 248.995037 202.020925)">1,138</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="221.306582" y="231.306875" transform="rotate(-0 221.306582 231.306875)">911</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="105.02" y="63.432" transform="rotate(-0 105.02 63.432)">a   Private-rental tenants, 2050, by rent rule</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_14">
+     <path d="M 112.22 82.232 
+L 123.42 82.232 
+L 123.42 76.632 
+L 112.22 76.632 
+z
+" style="fill: #8a9097"/>
+    </g>
+    <g id="text_19">
+     <text style="font-size: 8px; font-family: 'Carlito'; text-anchor: start" x="129.82" y="82.232" transform="rotate(-0 129.82 82.232)">Energy bill incl. carbon cost</text>
+    </g>
+    <g id="patch_15">
+     <path d="M 227.9525 82.232 
+L 239.1525 82.232 
+L 239.1525 76.632 
+L 227.9525 76.632 
+z
+" style="fill: #0063a6"/>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 8px; font-family: 'Carlito'; text-anchor: start" x="245.5525" y="82.232" transform="rotate(-0 245.5525 82.232)">Rent increase</text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_16">
+    <path d="M 407.089231 246.612 
+L 551.144615 246.612 
+L 551.144615 69.432 
+L 407.089231 69.432 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_7">
+     <g id="line2d_18">
+      <path d="M 407.089231 246.612 
+L 407.089231 69.432 
+" clip-path="url(#pf650c625ae)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_19"/>
+     <g id="text_21">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="407.089231" y="257.05575" transform="rotate(-0 407.089231 257.05575)">0</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_20">
+      <path d="M 455.764019 246.612 
+L 455.764019 69.432 
+" clip-path="url(#pf650c625ae)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_21"/>
+     <g id="text_22">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="455.764019" y="257.05575" transform="rotate(-0 455.764019 257.05575)">500</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_22">
+      <path d="M 504.438807 246.612 
+L 504.438807 69.432 
+" clip-path="url(#pf650c625ae)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_23"/>
+     <g id="text_23">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="504.438807" y="257.05575" transform="rotate(-0 504.438807 257.05575)">1000</text>
+     </g>
+    </g>
+    <g id="text_24">
+     <text style="font-size: 9px; font-family: 'Carlito'; text-anchor: middle; fill: #5f6368" x="479.116923" y="268.916063" transform="rotate(-0 479.116923 268.916063)">EUR per dwelling and year</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_6">
+     <g id="line2d_24"/>
+     <g id="text_25">
+      <text style="font-size: 9px; font-family: 'Carlito'; text-anchor: end; fill: #1f2328" x="403.589231" y="156.956443" transform="rotate(-0 403.589231 156.956443)">EED obligation (standard run)</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_25"/>
+     <g id="text_26">
+      <text style="font-size: 9px; font-family: 'Carlito'; text-anchor: end; fill: #1f2328" x="403.589231" y="214.881606" transform="rotate(-0 403.589231 214.881606)">No EED obligation</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_17">
+    <path d="M 407.089231 171.673574 
+L 455.45161 171.673574 
+L 455.45161 135.656656 
+L 407.089231 135.656656 
+z
+" clip-path="url(#pf650c625ae)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 407.089231 229.765377 
+L 490.276871 229.765377 
+L 490.276871 193.748459 
+L 407.089231 193.748459 
+z
+" clip-path="url(#pf650c625ae)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 456.619805 171.673574 
+L 466.886505 171.673574 
+L 466.886505 135.656656 
+L 456.619805 135.656656 
+z
+" clip-path="url(#pf650c625ae)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 491.445066 229.765377 
+L 491.63003 229.765377 
+L 491.63003 193.748459 
+L 491.445066 193.748459 
+z
+" clip-path="url(#pf650c625ae)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 407.089231 246.612 
+L 551.144615 246.612 
+" style="fill: none; stroke: #c7cacd; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="470.886505" y="155.93156" transform="rotate(-0 470.886505 155.93156)">602</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="495.63003" y="214.023363" transform="rotate(-0 495.63003 214.023363)">856</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="407.089231" y="63.432" transform="rotate(-0 407.089231 63.432)">b   Public-rental tenants, 2050</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_22">
+    <path d="M 673.144615 246.612 
+L 817.2 246.612 
+L 817.2 69.432 
+L 673.144615 69.432 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_10">
+     <g id="line2d_26"/>
+     <g id="text_30">
+      <text style="font-size: 9px; font-family: 'Carlito'; text-anchor: middle; fill: #1f2328" x="702.927327" y="256.361375" transform="rotate(-0 702.927327 256.361375)">EED on</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_27"/>
+     <g id="text_31">
+      <text style="font-size: 9px; font-family: 'Carlito'; text-anchor: middle; fill: #1f2328" x="787.417289" y="256.361375" transform="rotate(-0 787.417289 256.361375)">EED off</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_8">
+     <g id="line2d_28">
+      <path d="M 673.144615 246.612 
+L 817.2 246.612 
+" clip-path="url(#pb0a4870a2e)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_29"/>
+     <g id="text_32">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: end" x="669.644615" y="250.083875" transform="rotate(-0 669.644615 250.083875)">0</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_30">
+      <path d="M 673.144615 213.734109 
+L 817.2 213.734109 
+" clip-path="url(#pb0a4870a2e)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_31"/>
+     <g id="text_33">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: end" x="669.644615" y="217.205984" transform="rotate(-0 669.644615 217.205984)">10</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_32">
+      <path d="M 673.144615 180.856219 
+L 817.2 180.856219 
+" clip-path="url(#pb0a4870a2e)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_33"/>
+     <g id="text_34">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: end" x="669.644615" y="184.328094" transform="rotate(-0 669.644615 184.328094)">20</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_34">
+      <path d="M 673.144615 147.978328 
+L 817.2 147.978328 
+" clip-path="url(#pb0a4870a2e)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_35"/>
+     <g id="text_35">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: end" x="669.644615" y="151.450203" transform="rotate(-0 669.644615 151.450203)">30</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_36">
+      <path d="M 673.144615 115.100438 
+L 817.2 115.100438 
+" clip-path="url(#pb0a4870a2e)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_37"/>
+     <g id="text_36">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: end" x="669.644615" y="118.572313" transform="rotate(-0 669.644615 118.572313)">40</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_38">
+      <path d="M 673.144615 82.222547 
+L 817.2 82.222547 
+" clip-path="url(#pb0a4870a2e)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_39"/>
+     <g id="text_37">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: end" x="669.644615" y="85.694422" transform="rotate(-0 669.644615 85.694422)">50</text>
+     </g>
+    </g>
+    <g id="text_38">
+     <text style="font-size: 9px; font-family: 'Carlito'; text-anchor: middle; fill: #5f6368" x="654.057272" y="158.022" transform="rotate(-90 654.057272 158.022)">EUR billion, discounted to 2026</text>
+    </g>
+   </g>
+   <g id="patch_23">
+    <path d="M 679.692587 246.612 
+L 726.162066 246.612 
+L 726.162066 164.627139 
+L 679.692587 164.627139 
+z
+" clip-path="url(#pb0a4870a2e)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 764.182549 246.612 
+L 810.652028 246.612 
+L 810.652028 128.492 
+L 764.182549 128.492 
+z
+" clip-path="url(#pb0a4870a2e)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 679.692587 164.627139 
+L 726.162066 164.627139 
+L 726.162066 158.824955 
+L 679.692587 158.824955 
+z
+" clip-path="url(#pb0a4870a2e)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 764.182549 128.492 
+L 810.652028 128.492 
+L 810.652028 128.492 
+L 764.182549 128.492 
+z
+" clip-path="url(#pb0a4870a2e)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 673.144615 246.612 
+L 817.2 246.612 
+" style="fill: none; stroke: #c7cacd; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: middle; fill: #1f2328" x="702.927327" y="154.824955" transform="rotate(-0 702.927327 154.824955)">26.7</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: middle; fill: #1f2328" x="787.417289" y="124.492" transform="rotate(-0 787.417289 124.492)">35.9</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="673.144615" y="63.432" transform="rotate(-0 673.144615 63.432)">c   Total public spending 2026–2050</text>
+   </g>
+   <g id="legend_2">
+    <g id="patch_28">
+     <path d="M 679.894615 81.432 
+L 694.894615 81.432 
+L 694.894615 76.182 
+L 679.894615 76.182 
+z
+" style="fill: #8a9097"/>
+    </g>
+    <g id="text_42">
+     <text style="font-size: 7.5px; font-family: 'Carlito'; text-anchor: start" x="700.894615" y="81.432" transform="rotate(-0 700.894615 81.432)">State subsidies</text>
+    </g>
+    <g id="patch_29">
+     <path d="M 679.894615 91.640203 
+L 694.894615 91.640203 
+L 694.894615 86.390203 
+L 679.894615 86.390203 
+z
+" style="fill: #0063a6"/>
+    </g>
+    <g id="text_43">
+     <text style="font-size: 7.5px; font-family: 'Carlito'; text-anchor: start" x="700.894615" y="91.640203" transform="rotate(-0 700.894615 91.640203)">Public landlords, own</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_44">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="9.936" y="14.468625" transform="rotate(-0 9.936 14.468625)">Rent rules, tenants' costs and the EED obligation</text>
+  </g>
+  <g id="text_45">
+   <text style="font-size: 7.4px; font-family: 'Carlito'; text-anchor: start; fill: #5f6368" x="9.936" y="296.894525" transform="rotate(-0 9.936 296.894525)">pl12 search results (standard run: certified local optimum). Tenant costs dwelling-weighted; public landlords' own spending from 2026 discounted at 3 %. Data: fig6_rent_rules_data.csv.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2e605bc3e5">
+   <rect x="105.02" y="69.432" width="180.069231" height="177.18"/>
+  </clipPath>
+  <clipPath id="pf650c625ae">
+   <rect x="407.089231" y="69.432" width="144.055385" height="177.18"/>
+  </clipPath>
+  <clipPath id="pb0a4870a2e">
+   <rect x="673.144615" y="69.432" width="144.055385" height="177.18"/>
+  </clipPath>
+ </defs>
+</svg>

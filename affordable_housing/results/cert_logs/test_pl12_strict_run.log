@@ -1,0 +1,8 @@
+== pl12 (test_pl12_pins.jl) 15:49 ==
+    PASS  E2050          pinned      75.14  got      75.14
+    PASS  E2026          pinned     243.88  got     243.88
+    PASS  E2030          pinned     224.05  got     224.05
+    PASS  hist_nominal_M pinned    5021.70  got    5021.70
+    PASS  E2050          pinned      73.39  got      73.39
+  PL12 PINS: 11 passed, 0 failed
+all requested suites passed

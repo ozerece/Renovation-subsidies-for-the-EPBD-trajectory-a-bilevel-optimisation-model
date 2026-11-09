@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="756pt" height="316.8pt" viewBox="0 0 756 316.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-08T23:08:18.379633</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.1+dfsg1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 316.8 
+L 756 316.8 
+L 756 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 126.35 278.02 
+L 429.1075 278.02 
+L 429.1075 67.8135 
+L 126.35 67.8135 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 126.35 278.02 
+L 126.35 67.8135 
+" clip-path="url(#p836c959499)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="126.35" y="288.46375" transform="rotate(-0 126.35 288.46375)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 170.23391 278.02 
+L 170.23391 67.8135 
+" clip-path="url(#p836c959499)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="170.23391" y="288.46375" transform="rotate(-0 170.23391 288.46375)">2</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 214.117819 278.02 
+L 214.117819 67.8135 
+" clip-path="url(#p836c959499)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="214.117819" y="288.46375" transform="rotate(-0 214.117819 288.46375)">4</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 258.001729 278.02 
+L 258.001729 67.8135 
+" clip-path="url(#p836c959499)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="258.001729" y="288.46375" transform="rotate(-0 258.001729 288.46375)">6</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 301.885638 278.02 
+L 301.885638 67.8135 
+" clip-path="url(#p836c959499)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="301.885638" y="288.46375" transform="rotate(-0 301.885638 288.46375)">8</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 345.769548 278.02 
+L 345.769548 67.8135 
+" clip-path="url(#p836c959499)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="345.769548" y="288.46375" transform="rotate(-0 345.769548 288.46375)">10</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 389.653457 278.02 
+L 389.653457 67.8135 
+" clip-path="url(#p836c959499)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="389.653457" y="288.46375" transform="rotate(-0 389.653457 288.46375)">12</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_15"/>
+     <g id="text_8">
+      <text style="font-size: 9px; font-family: 'Carlito'; fill: #1f2328" transform="translate(12.542344 87.213175)">Low-income owner-occupiers,</text>
+      <text style="font-size: 9px; font-family: 'Carlito'; fill: #1f2328" transform="translate(58.047187 96.162269)">worst-performing</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_16"/>
+     <g id="text_9">
+      <text style="font-size: 9px; font-family: 'Carlito'; fill: #1f2328" transform="translate(12.542344 121.187339)">Low-income owner-occupiers,</text>
+      <text style="font-size: 9px; font-family: 'Carlito'; fill: #1f2328" transform="translate(77.961094 130.136433)">rest of stock</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_17"/>
+     <g id="text_10">
+      <text style="font-size: 9px; font-family: 'Carlito'; fill: #1f2328" transform="translate(10.866094 155.170644)">High-income owner-occupiers,</text>
+      <text style="font-size: 9px; font-family: 'Carlito'; fill: #1f2328" transform="translate(58.047187 164.216769)">worst-performing</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_18"/>
+     <g id="text_11">
+      <text style="font-size: 9px; font-family: 'Carlito'; fill: #1f2328" transform="translate(10.866094 189.144809)">High-income owner-occupiers,</text>
+      <text style="font-size: 9px; font-family: 'Carlito'; fill: #1f2328" transform="translate(77.961094 198.190934)">rest of stock</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_19"/>
+     <g id="text_12">
+      <text style="font-size: 9px; font-family: 'Carlito'; text-anchor: end; fill: #1f2328" x="122.85" y="227.045926" transform="rotate(-0 122.85 227.045926)">Public-rental dwellings</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_20"/>
+     <g id="text_13">
+      <text style="font-size: 9px; font-family: 'Carlito'; text-anchor: end; fill: #1f2328" x="122.85" y="261.048919" transform="rotate(-0 122.85 261.048919)">Private-rental dwellings</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 126.35 98.450196 
+L 218.500786 98.450196 
+L 218.500786 77.368341 
+L 126.35 77.368341 
+z
+" clip-path="url(#p836c959499)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 126.35 132.453189 
+L 198.535542 132.453189 
+L 198.535542 111.371333 
+L 126.35 111.371333 
+z
+" clip-path="url(#p836c959499)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 126.35 166.456181 
+L 359.240385 166.456181 
+L 359.240385 145.374326 
+L 126.35 145.374326 
+z
+" clip-path="url(#p836c959499)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 126.35 200.459174 
+L 276.271562 200.459174 
+L 276.271562 179.377319 
+L 126.35 179.377319 
+z
+" clip-path="url(#p836c959499)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 126.35 234.462167 
+L 126.35 234.462167 
+L 126.35 213.380311 
+L 126.35 213.380311 
+z
+" clip-path="url(#p836c959499)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 126.35 268.465159 
+L 126.35 268.465159 
+L 126.35 247.383304 
+L 126.35 247.383304 
+z
+" clip-path="url(#p836c959499)" style="fill: #0063a6"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 126.35 278.02 
+L 429.1075 278.02 
+" style="fill: none; stroke: #c7cacd; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="222.500786" y="90.175714" transform="rotate(-0 222.500786 90.175714)">4.20</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="202.535542" y="124.178706" transform="rotate(-0 202.535542 124.178706)">3.29</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="363.240385" y="158.181699" transform="rotate(-0 363.240385 158.181699)">10.61</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="280.271562" y="192.184692" transform="rotate(-0 280.271562 192.184692)">6.83</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="130.35" y="226.187684" transform="rotate(-0 130.35 226.187684)">0.00</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="130.35" y="260.190677" transform="rotate(-0 130.35 260.190677)">0.00</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="126.35" y="61.8135" transform="rotate(-0 126.35 61.8135)">a   Subsidy spending 2026–2050, EUR bn</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_10">
+    <path d="M 442.4425 278.02 
+L 745.2 278.02 
+L 745.2 67.8135 
+L 442.4425 67.8135 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_8">
+     <g id="line2d_21">
+      <path d="M 442.4425 278.02 
+L 442.4425 67.8135 
+" clip-path="url(#paeffd608b5)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22"/>
+     <g id="text_21">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="442.4425" y="288.46375" transform="rotate(-0 442.4425 288.46375)">0</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_23">
+      <path d="M 493.757331 278.02 
+L 493.757331 67.8135 
+" clip-path="url(#paeffd608b5)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24"/>
+     <g id="text_22">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="493.757331" y="288.46375" transform="rotate(-0 493.757331 288.46375)">20</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_25">
+      <path d="M 545.072161 278.02 
+L 545.072161 67.8135 
+" clip-path="url(#paeffd608b5)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_26"/>
+     <g id="text_23">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="545.072161" y="288.46375" transform="rotate(-0 545.072161 288.46375)">40</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_27">
+      <path d="M 596.386992 278.02 
+L 596.386992 67.8135 
+" clip-path="url(#paeffd608b5)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_28"/>
+     <g id="text_24">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="596.386992" y="288.46375" transform="rotate(-0 596.386992 288.46375)">60</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_29">
+      <path d="M 647.701822 278.02 
+L 647.701822 67.8135 
+" clip-path="url(#paeffd608b5)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_30"/>
+     <g id="text_25">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="647.701822" y="288.46375" transform="rotate(-0 647.701822 288.46375)">80</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_31">
+      <path d="M 699.016653 278.02 
+L 699.016653 67.8135 
+" clip-path="url(#paeffd608b5)" style="fill: none; stroke: #e3e5e8; stroke-width: 0.4; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_32"/>
+     <g id="text_26">
+      <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: middle" x="699.016653" y="288.46375" transform="rotate(-0 699.016653 288.46375)">100</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_7">
+     <g id="line2d_33"/>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_34"/>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_35"/>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_36"/>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_37"/>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_38"/>
+    </g>
+   </g>
+   <g id="patch_11">
+    <path d="M 442.4425 98.450196 
+L 664.07934 98.450196 
+L 664.07934 77.368341 
+L 442.4425 77.368341 
+z
+" clip-path="url(#paeffd608b5)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 442.4425 132.453189 
+L 639.462646 132.453189 
+L 639.462646 111.371333 
+L 442.4425 111.371333 
+z
+" clip-path="url(#paeffd608b5)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 442.4425 166.456181 
+L 673.601793 166.456181 
+L 673.601793 145.374326 
+L 442.4425 145.374326 
+z
+" clip-path="url(#paeffd608b5)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 442.4425 200.459174 
+L 640.379002 200.459174 
+L 640.379002 179.377319 
+L 442.4425 179.377319 
+z
+" clip-path="url(#paeffd608b5)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 442.4425 234.462167 
+L 627.17589 234.462167 
+L 627.17589 213.380311 
+L 442.4425 213.380311 
+z
+" clip-path="url(#paeffd608b5)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 442.4425 268.465159 
+L 526.652567 268.465159 
+L 526.652567 247.383304 
+L 442.4425 247.383304 
+z
+" clip-path="url(#paeffd608b5)" style="fill: #8a9097"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 442.4425 278.02 
+L 745.2 278.02 
+" style="fill: none; stroke: #c7cacd; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="668.07934" y="90.175714" transform="rotate(-0 668.07934 90.175714)">86%</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="643.462646" y="124.178706" transform="rotate(-0 643.462646 124.178706)">77%</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="677.601793" y="158.181699" transform="rotate(-0 677.601793 158.181699)">90%</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="644.379002" y="192.184692" transform="rotate(-0 644.379002 192.184692)">77%</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="631.17589" y="226.187684" transform="rotate(-0 631.17589 226.187684)">72%</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8.5px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="530.652567" y="260.190677" transform="rotate(-0 530.652567 260.190677)">33%</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 10px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="442.4425" y="61.8135" transform="rotate(-0 442.4425 61.8135)">b   Envelope renovation by 2050, % of floor area</text>
+   </g>
+  </g>
+  <g id="text_34">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'Carlito'; text-anchor: start; fill: #1f2328" x="9.072" y="15.24225" transform="rotate(-0 9.072 15.24225)">Who receives the money and who renovates (standard design)</text>
+  </g>
+  <g id="text_35">
+   <text style="font-size: 7.4px; font-family: 'Carlito'; text-anchor: start; fill: #5f6368" x="9.072" y="311.092925" transform="rotate(-0 9.072 311.092925)">pl12, local proof. Spending from 2026 (history not included). Data: fig2_spend_uptake_groups_data.csv.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p836c959499">
+   <rect x="126.35" y="67.8135" width="302.7575" height="210.2065"/>
+  </clipPath>
+  <clipPath id="paeffd608b5">
+   <rect x="442.4425" y="67.8135" width="302.7575" height="210.2065"/>
+  </clipPath>
+ </defs>
+</svg>

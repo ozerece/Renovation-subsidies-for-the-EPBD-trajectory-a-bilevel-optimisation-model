@@ -1,0 +1,17 @@
+# Heat-pump-heavy forced start (P4_SIGMA_START; 2026-11-02 multistart order):
+# HP-standard subsidy for low-income owners at 1.0 pre-clamp (the model clamps
+# to the scenario's cap), moderate flat envelope support for low-income owners
+# (0.30) so the trajectory constraints have a feasible path, everything else 0.
+# Canonical sigma_keys order as in sigma_start_pl9cert.csv.
+0.30
+0.30
+0.30
+0.00
+0.00
+0.00
+1.00
+0.00
+0.00
+0.00
+0.00
+0.00

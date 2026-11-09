@@ -1,0 +1,75 @@
+group,quantity,nominal_M_EUR,discounted_2026_M_EUR,note
+owner_low_wpb,ets2_paid_design,1976.5,1591.2,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_low_wpb,ets2_paid_sigma0,3926.4,3009.1,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_low_wpb,bill_incl_carbon_design,21484.6,17411.5,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_low_wpb,bill_incl_carbon_sigma0,22994.2,18489.8,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_low_wpb,subsidy_received_design,5296.3,4199.8,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_low_wpb,own_investment_design,3763.6,2946.6,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_low_wpb,own_investment_sigma0,7989.6,6135.3,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_low_rest,ets2_paid_design,969.4,775.1,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_low_rest,ets2_paid_sigma0,3173.0,2326.1,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_low_rest,bill_incl_carbon_design,13994.8,11198.0,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_low_rest,bill_incl_carbon_sigma0,17530.5,13677.9,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_low_rest,subsidy_received_design,4170.3,3289.8,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_low_rest,own_investment_design,2225.2,1686.3,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_low_rest,own_investment_sigma0,1443.8,1023.2,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_high_wpb,ets2_paid_design,21792.3,16591.6,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_high_wpb,ets2_paid_sigma0,20767.8,15916.0,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_high_wpb,bill_incl_carbon_design,121266.6,97551.8,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_high_wpb,bill_incl_carbon_sigma0,121623.6,97798.2,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_high_wpb,subsidy_received_design,13658.9,10613.9,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_high_wpb,own_investment_design,29160.4,22231.6,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_high_wpb,own_investment_sigma0,42259.5,32451.3,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_high_rest,ets2_paid_design,17398.2,12649.3,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_high_rest,ets2_paid_sigma0,17471.0,12817.3,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_high_rest,bill_incl_carbon_design,84586.5,66613.5,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_high_rest,bill_incl_carbon_sigma0,96009.0,74938.7,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_high_rest,subsidy_received_design,8850.1,6832.6,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_high_rest,own_investment_design,15014.5,11591.8,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_high_rest,own_investment_sigma0,8488.4,5975.3,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_public,ets2_paid_design,295.5,228.4,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_public,ets2_paid_sigma0,295.5,228.4,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_public,bill_incl_carbon_design,6091.8,4894.5,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_public,bill_incl_carbon_sigma0,6091.8,4894.5,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_public,rent_increase_paid_design,713.2,516.8,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_public,rent_increase_paid_sigma0,713.2,516.8,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_private_low,ets2_paid_design,122.0,88.5,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_private_low,ets2_paid_sigma0,122.0,88.5,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_private_low,bill_incl_carbon_design,1107.1,872.5,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_private_low,bill_incl_carbon_sigma0,1107.1,872.5,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_private_low,rent_increase_paid_design,115.5,76.4,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_private_low,rent_increase_paid_sigma0,115.5,76.4,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_private_high,ets2_paid_design,390.8,283.2,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_private_high,ets2_paid_sigma0,390.8,283.2,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_private_high,bill_incl_carbon_design,3544.7,2793.6,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_private_high,bill_incl_carbon_sigma0,3544.7,2793.6,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_private_high,rent_increase_paid_design,370.0,244.6,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+tenant_private_high,rent_increase_paid_sigma0,370.0,244.6,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+landlord_public,subsidy_received_design,0.0,0.0,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+landlord_public,own_investment_design,2242.3,1764.8,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+landlord_public,own_investment_sigma0,2242.3,1764.8,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+landlord_public,rent_increase_received_design,713.2,516.8,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+landlord_public,rent_increase_received_sigma0,713.2,516.8,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+landlord_private,subsidy_received_design,0.0,0.0,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+landlord_private,own_investment_design,485.5,321.0,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+landlord_private,own_investment_sigma0,485.5,321.0,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+landlord_private,rent_increase_received_design,485.5,321.0,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+landlord_private,rent_increase_received_sigma0,485.5,321.0,cumulative over the periods ending 2030-2050; design = record; sigma0 = no subsidies from 2026
+owner_low_wpb,net_outlay_change_vs_sigma0,-5735.6,-4267.0,bill + own investment + rent paid, design minus sigma0 (negative = household better off)
+owner_low_wpb,ets2_paid_minus_subsidy_received_design,-3319.8,-2608.6,positive = pays more carbon cost than it receives in subsidies
+owner_low_rest,net_outlay_change_vs_sigma0,-2754.2,-1816.8,bill + own investment + rent paid, design minus sigma0 (negative = household better off)
+owner_low_rest,ets2_paid_minus_subsidy_received_design,-3201.0,-2514.7,positive = pays more carbon cost than it receives in subsidies
+owner_high_wpb,net_outlay_change_vs_sigma0,-13456.0,-10466.1,bill + own investment + rent paid, design minus sigma0 (negative = household better off)
+owner_high_wpb,ets2_paid_minus_subsidy_received_design,8133.3,5977.7,positive = pays more carbon cost than it receives in subsidies
+owner_high_rest,net_outlay_change_vs_sigma0,-4896.3,-2708.7,bill + own investment + rent paid, design minus sigma0 (negative = household better off)
+owner_high_rest,ets2_paid_minus_subsidy_received_design,8548.1,5816.7,positive = pays more carbon cost than it receives in subsidies
+tenant_public,net_outlay_change_vs_sigma0,0.0,0.0,bill + own investment + rent paid, design minus sigma0 (negative = household better off)
+tenant_public,ets2_paid_minus_subsidy_received_design,295.5,228.4,positive = pays more carbon cost than it receives in subsidies
+tenant_private_low,net_outlay_change_vs_sigma0,0.0,0.0,bill + own investment + rent paid, design minus sigma0 (negative = household better off)
+tenant_private_low,ets2_paid_minus_subsidy_received_design,122.0,88.5,positive = pays more carbon cost than it receives in subsidies
+tenant_private_high,net_outlay_change_vs_sigma0,0.0,0.0,bill + own investment + rent paid, design minus sigma0 (negative = household better off)
+tenant_private_high,ets2_paid_minus_subsidy_received_design,390.8,283.2,positive = pays more carbon cost than it receives in subsidies
+landlord_public,net_outlay_change_vs_sigma0,0.0,0.0,bill + own investment + rent paid, design minus sigma0 (negative = household better off)
+landlord_public,ets2_paid_minus_subsidy_received_design,0.0,0.0,positive = pays more carbon cost than it receives in subsidies
+landlord_private,net_outlay_change_vs_sigma0,0.0,0.0,bill + own investment + rent paid, design minus sigma0 (negative = household better off)
+landlord_private,ets2_paid_minus_subsidy_received_design,0.0,0.0,positive = pays more carbon cost than it receives in subsidies

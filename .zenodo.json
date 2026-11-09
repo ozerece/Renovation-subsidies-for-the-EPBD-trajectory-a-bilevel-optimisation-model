@@ -1,0 +1,15 @@
+{
+  "title": "Bilevel renovation-subsidy design for the EPBD trajectory: model, data and results of record (P4, version pl12)",
+  "version": "pl12",
+  "publication_date": "2026-11-08",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {"name": "Özer, Ece", "affiliation": "TU Wien, Energy System Economics Lab, Institute of Net-Zero Energy Systems"},
+    {"name": "Kranzl, Lukas", "affiliation": "TU Wien, Energy System Economics Lab, Institute of Net-Zero Energy Systems"}
+  ],
+  "description": "Julia/Gurobi implementation of a bilevel (Stackelberg) model in which the state sets renovation-subsidy rates by measure, income group and tenure to bring a national residential building stock onto its EPBD primary-energy trajectory at minimum public spending, while owner-occupiers and public and private landlords decide on renovation in their own economic interest. Poland case on the 2021 census stock; version pl12 fixes the 2020-2025 history and designs subsidies from 2026. The release contains the model code, the search and local-proof scripts, the input data (except third-party source documents), the pl12 results of record (all run folders, certificate logs, summary tables, figures, the numbers sheet of the paper) and the review follow-ups of 8-9 November 2026 (prefix rev12). Code under MIT; data, results and figures under CC BY 4.0; Invert/EE-Lab-derived inputs subject to the permission of e-think (see INVERT_DERIVED.md).",
+  "keywords": ["bilevel optimization", "Stackelberg game", "building renovation", "subsidy design", "EPBD", "energy poverty", "Poland", "building stock model"],
+  "related_identifiers": []
+}

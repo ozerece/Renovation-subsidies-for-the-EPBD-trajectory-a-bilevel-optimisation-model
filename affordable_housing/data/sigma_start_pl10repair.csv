@@ -1,0 +1,19 @@
+# 2030/2040-repaired variant of the EUR 8,302.6M design (2026-11-04, user
+# authorization item 1): rich env deep raised 10.32% -> 18.21% (minimal flip
+# that meets 2030; single-rate repair impossible — it breaks 2040), rich
+# hvac_std raised 20.41% -> 21.60% (minimal flip that restores 2040).
+# Evaluated feasible, EUR 11,086.785M (eval_repair2030_dr1821_sr216.log).
+# Canonical sigma_keys order: env l/m/d poor; env l/m/d rich;
+# hvac std/upg poor; hvac std/upg rich; landlord public; private.
+0.4444399874572618
+0.4444399874572618
+0.4444399874572618
+0.0
+0.0
+0.1821
+0.0
+0.002387801560692002
+0.216
+0.003945168966594352
+0.0
+0.0

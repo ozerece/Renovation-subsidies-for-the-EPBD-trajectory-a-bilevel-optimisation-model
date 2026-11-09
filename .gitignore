@@ -1,0 +1,19 @@
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+.julia/
+# Python
+__pycache__/
+*.pyc
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.out
+# reproduction runs written by tools/REPRO_CHECK.md commands
+affordable_housing/out/scenarios/*__repro*

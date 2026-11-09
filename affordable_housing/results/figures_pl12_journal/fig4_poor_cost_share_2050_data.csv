@@ -1,0 +1,5 @@
+group,cost_share_unrenovated,cost_share_after_policy_avg,result_label
+owner_poor_wpb,0.3958,0.1817,local proof
+owner_poor_rest,0.1232,0.0802,local proof
+rental_public,0.0894,0.0625,local proof
+rental_private,0.0894,0.0945,local proof
