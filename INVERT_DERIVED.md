@@ -2,11 +2,10 @@
 
 Several inputs of the Polish stock calibration were not taken from public statistics but from
 the **Invert/EE-Lab** building-stock model (TU Wien; Poland "XOL", scenario *Status quo 2020*,
-output of 17 October 2025). Invert/EE-Lab and its outputs are owned by **e-think**. The paper's
-data statement says that these derived quantities are shared *subject to the permission of
-e-think*. **That permission is pending.** Until it is granted, the files listed below must not be
-redistributed; the rest of the release (code, census-based and publicly sourced inputs, scripts)
-is not affected.
+output of 17 October 2025). Invert/EE-Lab and its outputs are owned by **e-think energy research**.
+The derived quantities listed below are published in this release **with the permission of e-think
+energy research (granted November 2026)**. This file documents their origin; the raw Invert outputs
+themselves are not part of the release.
 
 The dwelling counts and floor areas of every archetype come from the 2021 census (GUS, NSP 2021);
 only *shares* and *average intensities* come from Invert. Full derivation:
@@ -56,9 +55,13 @@ Not in the release (and not in the source repository): the Invert workbooks
 and `616_pol__const__energy_price.csv`. The excluded `data/archetypes_pl_DRAFT.csv` carried the
 first Invert cut and is used by no scenario.
 
-## Condition for sharing
+## Permission and licence
 
-Per the paper's data statement these Invert-derived inputs are shared subject to the permission of
-e-think (owner of Invert/EE-Lab). **Status: permission pending (2026-11-09).** Do not redistribute
-the files in the table above before the permission is granted. Everything else in this release is
-licensed as stated in `LICENSE` (code, MIT) and `LICENSE-data` (data, results, figures, CC BY 4.0).
+The Invert-derived inputs in the table above are published with the permission of e-think energy
+research (owner of Invert/EE-Lab), granted in November 2026. They are distributed under the same
+terms as the other data of this release (`LICENSE-data`, CC BY 4.0); please credit Invert/EE-Lab
+(e-think energy research / TU Wien) as their origin when reusing them. The code is licensed under
+`LICENSE` (MIT). Every Invert-derived file needed to reproduce the standard run and the pl12
+scenarios (`archetypes_pl_mix.csv`, `archetypes_pl_inclusive_mix.csv`, `archetypes_pl_kprb_mix.csv`,
+`archetypes_pl.csv`, `archetypes_pl_kprb.csv`, `data/PROVENANCE_polish_stock.md`) is included; the
+raw Invert workbooks are not.

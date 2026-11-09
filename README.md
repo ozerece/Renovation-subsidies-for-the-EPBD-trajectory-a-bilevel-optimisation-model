@@ -205,9 +205,9 @@ the repository either; see the next section.
 
 The worst-performing-building shares and the average energy intensities of the archetypes were derived
 from the Invert/EE-Lab building-stock model (e-think / TU Wien). `INVERT_DERIVED.md` lists every file and
-column that carries these values, how they were derived, and the condition under which they may be
-shared: the paper's data statement makes them subject to the permission of e-think, which is
-**pending**; those files must not be redistributed before it is granted.
+column that carries these values and how they were derived. They are published with the permission
+of e-think energy research (granted November 2026); the raw Invert outputs are not part of the
+release.
 
 ## Licences
 
@@ -217,7 +217,8 @@ shared: the paper's data statement makes them subject to the permission of e-thi
   `affordable_housing/*.csv`, `affordable_housing/data/`, `affordable_housing/out/`,
   `affordable_housing/results/`, `affordable_housing/*.md` and the root documents.
 - Third-party-derived inputs keep the terms of their sources; the Invert/EE-Lab-derived files are
-  subject to e-think's permission (`INVERT_DERIVED.md`).
+  published with the permission of e-think energy research (November 2026) and are documented in
+  `INVERT_DERIVED.md`.
 
 ## Citation
 

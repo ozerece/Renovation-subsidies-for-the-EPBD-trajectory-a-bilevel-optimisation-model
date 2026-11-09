@@ -65,9 +65,9 @@ The build's audit fails if any string of the source mount path (`/media/…`) or
 
 ## 4. Notes and open points
 
-- **ORCIDs** of both authors are unknown: `CITATION.cff` carries `TODO-ORCID` placeholders.
-- **Invert/EE-Lab permission pending**: see `INVERT_DERIVED.md`; the listed files must not be redistributed before e-think grants it.
-- **Licence of datasets**: GUS, Eurostat, URE and NFOŚiGW/Czyste Powietrze figures are public statistics or programme documents; their source files are excluded and cited. The Invert-derived values are the only inputs with a pending condition.
+- **ORCIDs** set in `CITATION.cff` and `.zenodo.json` (Özer 0000-0002-8627-9131, Kranzl 0000-0003-3350-7134).
+- **Invert/EE-Lab-derived inputs** are published with the permission of e-think energy research (granted November 2026); `INVERT_DERIVED.md` documents their origin.
+- **Licence of datasets**: GUS, Eurostat, URE and NFOŚiGW/Czyste Powietrze figures are public statistics or programme documents; their source files are excluded and cited. The Invert-derived values are published with e-think's permission (see above).
 - `results/README.md` (the ledger) and `CHANGELOG.md` document the whole P4 development including results that are not in the release; their file references to `pl10*`, `pl11*`, `baseline/`, `_scratch/`, `enum_shards/`, worktrees and `writing/` point outside the release.
 - `pl11_done.txt` is kept verbatim (it is the done-stamp ledger of every detached job, incl. pl10/pl11).
 - `test_pl12_pins.jl` gate G1/G2 evaluate the `pl10` and `pl11` scenarios; both are defined in the model file and use included stock files, so the gates run from the release (reproduction step 3).

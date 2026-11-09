@@ -9,11 +9,11 @@ authors:
   - family-names: "Özer"
     given-names: "Ece"
     affiliation: "TU Wien, Energy System Economics Lab, Institute of Net-Zero Energy Systems"
-    orcid: "https://orcid.org/TODO-ORCID"
+    orcid: "https://orcid.org/0000-0002-8627-9131"
   - family-names: "Kranzl"
     given-names: "Lukas"
     affiliation: "TU Wien, Energy System Economics Lab, Institute of Net-Zero Energy Systems"
-    orcid: "https://orcid.org/TODO-ORCID"
+    orcid: "https://orcid.org/0000-0003-3350-7134"
 keywords:
   - bilevel optimization
   - Stackelberg game
