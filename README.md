@@ -5,6 +5,11 @@ subsidies (Ece Özer and Lukas Kranzl, TU Wien, Energy System Economics Lab, Ins
 Energy Systems). Release built from the source repository `bilevel_optimization`, branch `pl12`,
 commit `6d77ac9` (frozen 2026-11-09).
 
+- Release: **1.0.1** (10 November 2026) of model version pl12. Release 1.0.1 corrects the licence
+  text on the Invert/EE-Lab-derived inputs and the release metadata; code, data and results are those of 1.0.
+- Repository: <https://github.com/ozerece/p4-renovation-subsidies>
+- Archive: <https://doi.org/10.5281/zenodo.24081332> (Zenodo, all versions; each release has its own version DOI)
+
 ## What the model is
 
 The **state (leader)** sets subsidy rates — the share of the investment cost it pays — for each of
@@ -224,4 +229,5 @@ release.
 
 Özer, E. and Kranzl, L. (2026). *Bilevel renovation-subsidy design for the EPBD trajectory: model, data
 and results of record (P4, version pl12)*. TU Wien, Energy System Economics Lab, Institute of Net-Zero
-Energy Systems. Version pl12, released 2026-11-08. See `CITATION.cff` (ORCIDs to be added).
+Energy Systems. Release 1.0.1, 2026-11-10. https://github.com/ozerece/p4-renovation-subsidies,
+https://doi.org/10.5281/zenodo.24081332. See `CITATION.cff`.

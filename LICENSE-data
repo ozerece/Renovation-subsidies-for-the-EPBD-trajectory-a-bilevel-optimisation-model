@@ -13,12 +13,14 @@ Human-readable summary: https://creativecommons.org/licenses/by/4.0/
 
 Exception: inputs derived from third-party datasets keep the terms of their
 sources. In particular, the building-stock quantities derived from the
-Invert/EE-Lab model (listed in INVERT_DERIVED.md) are shared subject to the
-permission of e-think, the owner of Invert/EE-Lab; that permission is pending
-and those files must not be redistributed before it is granted. The source
+Invert/EE-Lab model (listed in INVERT_DERIVED.md) are published with the
+permission of e-think energy research, the owner of Invert/EE-Lab, granted in
+November 2026. They are distributed under this licence; please credit
+Invert/EE-Lab (e-think energy research / TU Wien) as their origin. The source
 documents of other inputs (GUS, NFOŚiGW/Czyste Powietrze, NAPE, Eurostat, URE)
 are not part of this release; README.md lists them with their origin.
 
 Attribution: Özer, E. and Kranzl, L. (2026). Bilevel renovation-subsidy design
-for the EPBD trajectory: model, data and results of record (P4, version pl12).
+for the EPBD trajectory: model, data and results of record (P4, version pl12), release 1.0.1.
+https://github.com/ozerece/p4-renovation-subsidies, https://doi.org/10.5281/zenodo.24081332
 TU Wien, Energy System Economics Lab, Institute of Net-Zero Energy Systems.

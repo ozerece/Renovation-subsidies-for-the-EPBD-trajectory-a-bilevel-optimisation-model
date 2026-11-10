@@ -2,9 +2,12 @@ cff-version: 1.2.0
 message: "If you use this model, its data or its results, please cite it as below."
 type: software
 title: "Bilevel renovation-subsidy design for the EPBD trajectory: model, data and results of record (P4, version pl12)"
-version: pl12
-date-released: 2026-11-08
+version: 1.0.1
+date-released: 2026-11-10
 license: MIT
+repository-code: "https://github.com/ozerece/p4-renovation-subsidies"
+url: "https://github.com/ozerece/p4-renovation-subsidies"
+doi: 10.5281/zenodo.24081332
 authors:
   - family-names: "Özer"
     given-names: "Ece"

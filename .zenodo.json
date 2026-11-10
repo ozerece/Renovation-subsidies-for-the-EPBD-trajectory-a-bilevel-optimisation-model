@@ -1,7 +1,7 @@
 {
   "title": "Bilevel renovation-subsidy design for the EPBD trajectory: model, data and results of record (P4, version pl12)",
-  "version": "pl12",
-  "publication_date": "2026-11-08",
+  "version": "1.0.1",
+  "publication_date": "2026-11-10",
   "upload_type": "software",
   "access_right": "open",
   "license": "MIT",
@@ -28,5 +28,12 @@
     "Poland",
     "building stock model"
   ],
-  "related_identifiers": []
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ozerece/p4-renovation-subsidies",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ]
 }
