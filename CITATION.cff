@@ -5,8 +5,8 @@ title: "Bilevel renovation-subsidy design for the EPBD trajectory: model, data a
 version: 1.0.1
 date-released: 2026-11-10
 license: MIT
-repository-code: "https://github.com/ozerece/p4-renovation-subsidies"
-url: "https://github.com/ozerece/p4-renovation-subsidies"
+repository-code: "https://github.com/ozerece/Renovation-subsidies-for-the-EPBD-trajectory-a-bilevel-optimisation-model"
+url: "https://github.com/ozerece/Renovation-subsidies-for-the-EPBD-trajectory-a-bilevel-optimisation-model"
 doi: 10.5281/zenodo.24081332
 authors:
   - family-names: "Özer"

@@ -7,7 +7,7 @@ commit `6d77ac9` (frozen 2026-11-09).
 
 - Release: **1.0.1** (10 November 2026) of model version pl12. Release 1.0.1 corrects the licence
   text on the Invert/EE-Lab-derived inputs and the release metadata; code, data and results are those of 1.0.
-- Repository: <https://github.com/ozerece/p4-renovation-subsidies>
+- Repository: <https://github.com/ozerece/Renovation-subsidies-for-the-EPBD-trajectory-a-bilevel-optimisation-model>
 - Archive: <https://doi.org/10.5281/zenodo.24081332> (Zenodo, all versions; each release has its own version DOI)
 
 ## What the model is
@@ -229,5 +229,5 @@ release.
 
 Özer, E. and Kranzl, L. (2026). *Bilevel renovation-subsidy design for the EPBD trajectory: model, data
 and results of record (P4, version pl12)*. TU Wien, Energy System Economics Lab, Institute of Net-Zero
-Energy Systems. Release 1.0.1, 2026-11-10. https://github.com/ozerece/p4-renovation-subsidies,
+Energy Systems. Release 1.0.1, 2026-11-10. https://github.com/ozerece/Renovation-subsidies-for-the-EPBD-trajectory-a-bilevel-optimisation-model,
 https://doi.org/10.5281/zenodo.24081332. See `CITATION.cff`.
